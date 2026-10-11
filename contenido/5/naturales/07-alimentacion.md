@@ -42,63 +42,122 @@ La **dieta mediterránea** es un buen ejemplo: mucho aceite de oliva, fruta, ver
 
 # Examen
 
-? ¿Qué nutrientes dan energía rápida?
-+ Los hidratos de carbono
-- Las proteínas
-- Las vitaminas
-- Los minerales
-> Están en el pan, la pasta, el arroz y los cereales.
+preguntas: 20
 
-? ¿Para qué sirven principalmente las proteínas?
-+ Para crecer y reparar el cuerpo
-- Para dar sabor
-- Solo para dar energía de reserva
-- Para quitar la sed
+? ¿Qué diferencia hay entre alimento y nutriente?
++ El alimento es lo que comemos y el nutriente es la sustancia que el cuerpo aprovecha
+- El nutriente es lo que comemos y el alimento es lo que aprovecha el cuerpo
+- Son dos palabras que significan exactamente lo mismo
+- Los alimentos son sólidos y los nutrientes son líquidos
+> Los alimentos contienen nutrientes.
+
+? Relaciona cada nutriente con su función principal.
+* Hidratos de carbono → Dan energía rápida
+* Grasas → Dan energía de reserva
+* Proteínas → Sirven para crecer y reparar el cuerpo
+* Vitaminas y minerales → Regulan el funcionamiento del cuerpo
+> Necesitamos todos los nutrientes.
+
+? Clasifica estos alimentos según el nutriente que más tienen.
+@ Hidratos de carbono: pan | arroz | pasta
+@ Proteínas: huevos | pescado | lentejas
+@ Grasas: aceite | mantequilla
+> La mayoría de los alimentos tienen varios nutrientes, pero destacan en uno.
+
+? ¿Qué nutrientes sirven para crecer y reparar el cuerpo?
++ Las proteínas
+- Las grasas
+- Los hidratos de carbono
+- El agua
 > Por eso los alimentos ricos en proteínas se llaman constructores.
 
-? ¿Cuál de estos alimentos es rico en proteínas?
-+ Las lentejas
-- El aceite
-- El azúcar
-- La lechuga
-> Las legumbres, la carne, el pescado y los huevos tienen muchas proteínas.
+? Clasifica estos alimentos según su función.
+@ Energéticos: pan | aceite | pasta
+@ Constructores: carne | leche | huevos
+@ Reguladores: naranja | lechuga | zanahoria
+> Las frutas y verduras son reguladoras por sus vitaminas y minerales.
 
-? Las frutas y verduras son alimentos reguladores porque tienen vitaminas y minerales.
+? Las frutas y verduras son alimentos reguladores.
 = verdadero
-> Ayudan a que el cuerpo funcione bien y a defendernos de enfermedades.
+> Tienen muchas vitaminas y minerales.
 
-? ¿Qué es una dieta equilibrada?
-+ La que tiene de todo, en la cantidad adecuada y repartido en varias comidas
-- La que solo tiene verduras
-- La que no tiene grasas
-- La que se basa en comida rápida
+? La fibra es un nutriente que da mucha energía.
+= falso
+> La fibra no es un nutriente, pero ayuda a ir bien al baño.
+
+?* ¿Qué características tiene una dieta equilibrada?
++ Tiene alimentos variados
++ Las cantidades son adecuadas
++ Se reparte en varias comidas al día
+- Se basa en dulces y refrescos
+- Elimina todas las grasas
 > Hay que comer variado y en su justa medida.
 
 ? ¿Cuántas raciones de fruta y verdura se recomiendan al día como mínimo?
-+ Cinco
-- Una
-- Dos
-- Ninguna
-> Se recomiendan al menos cinco raciones entre frutas y verduras.
+= 5 | cinco
+> Entre frutas y verduras, al menos cinco raciones.
 
-? ¿Cómo se llama la dieta típica de España, con aceite de oliva, fruta, verdura, legumbres y pescado?
-= mediterránea | mediterranea | dieta mediterranea
-> La dieta mediterránea se considera una de las más saludables del mundo.
+? ¿Cómo se llama la dieta típica de España, con aceite de oliva, fruta, legumbres y pescado?
+= mediterránea | dieta mediterránea | mediterranea
+> Es una de las más saludables del mundo.
 
-? Es saludable tomar refrescos y bollería todos los días.
-= falso
-> Tienen mucho azúcar y grasas. Hay que tomarlos de vez en cuando.
+? ¿Qué alimentos conviene tomar solo de vez en cuando?
++ La bollería y los refrescos
+- Las frutas y las verduras
+- Las legumbres y el pescado
+- El agua y la leche
+> Tienen mucho azúcar y grasas.
 
-? ¿Qué alimento aporta sobre todo grasas?
-+ El aceite
-- La manzana
-- El pescado
-- El agua
-> Las grasas dan energía de reserva, pero hay que tomarlas con moderación.
+? Completa: Los hidratos de carbono dan energía [rápida|rapida] y las grasas dan energía de [reserva].
+> Por eso hay que tomar hidratos en cada comida.
+
+? ¿Qué mineral abunda en la leche y fortalece los huesos?
++ El calcio
+- El hierro
+- El sodio
+- El yodo
+> Los lácteos son la principal fuente de calcio.
 
 ? ¿Por qué es importante desayunar?
-+ Porque el cuerpo necesita energía para empezar el día
-- Porque así no hace falta comer más
-- Porque así se duerme mejor por la noche
-- No es importante
-> Después de toda la noche sin comer, el desayuno nos da energía.
++ Porque después de la noche el cuerpo necesita energía
+- Porque así ya no hace falta comer más en todo el día
+- Porque el desayuno es la única comida con vitaminas
+- Porque desayunar ayuda a dormir mejor por la noche
+> El desayuno nos da energía para empezar el día.
+
+? Más de la mitad de nuestro cuerpo es agua.
+= verdadero
+> Por eso beber agua es imprescindible.
+
+?* ¿Qué son hábitos de vida saludable?
++ Hacer ejercicio cada día
++ Dormir unas 9 o 10 horas
++ Lavarse las manos antes de comer
+- Saltarse el desayuno
+- Pasar la tarde frente a pantallas
+> Alimentación, ejercicio, descanso e higiene van juntos.
+
+? ¿Dónde se encuentra la fibra?
++ En frutas, verduras, legumbres y cereales integrales
+- En el aceite, la mantequilla y la nata
+- En la carne, el pescado y los huevos
+- En los refrescos y la bollería
+> La fibra ayuda al intestino.
+
+? Ordena estas comidas según el momento del día.
+1. Desayuno
+2. Almuerzo de media mañana
+3. Comida
+4. Merienda
+5. Cena
+> Repartir lo que comemos en varias comidas es más saludable.
+
+? ¿Qué debemos leer para saber qué lleva un alimento envasado?
+= etiqueta | la etiqueta | etiquetas
+> En la etiqueta aparecen los ingredientes y los nutrientes.
+
+? Completa: Los alimentos ricos en proteínas, como la carne o la leche, se llaman [constructores].
+- energéticos
+- reguladores
+- incontables
+> Sirven para construir y reparar el cuerpo.

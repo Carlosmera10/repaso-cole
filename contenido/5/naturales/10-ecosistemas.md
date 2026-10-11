@@ -40,60 +40,121 @@ Los seres humanos podemos dañar los ecosistemas con la **contaminación**, los 
 
 # Examen
 
-? ¿Qué forman el medio físico y los seres vivos que se relacionan en un lugar?
-+ Un ecosistema
-- Una población
-- Una cadena alimentaria
-- Una especie
-> El ecosistema incluye el medio físico (biotopo) y los seres vivos (biocenosis).
+preguntas: 20
 
-? ¿Qué es una población?
-+ Los seres vivos de la misma especie que viven en un lugar
-- Todos los seres vivos de un lugar
-- El suelo y el clima de un lugar
-- Una ciudad con muchas personas
-> Por ejemplo, todos los pinos de un bosque forman una población.
+? ¿Qué es un ecosistema?
++ El medio físico y los seres vivos que se relacionan en un lugar
+- El conjunto de animales de una misma especie
+- El suelo y el clima de una zona, sin seres vivos
+- Un grupo de plantas que viven juntas en un bosque
+> Incluye el biotopo y la biocenosis.
+
+? Relaciona cada concepto con su definición.
+* Biotopo → El medio físico: suelo, agua, clima
+* Biocenosis → Todos los seres vivos de un lugar
+* Población → Seres de la misma especie en un lugar
+> Biotopo + biocenosis = ecosistema.
+
+? Clasifica cada elemento en medio físico o seres vivos.
+@ Medio físico: luz | temperatura | suelo | agua
+@ Seres vivos: conejo | encina | seta | bacteria
+> Todos forman parte del ecosistema.
+
+? Clasifica cada ecosistema.
+@ Terrestre: bosque | desierto | pradera
+@ Acuático de agua dulce: río | lago
+@ Acuático de agua salada: mar | océano
+> Los acuáticos pueden ser de agua dulce o salada.
 
 ? ¿Cómo se llaman los seres vivos que fabrican su propio alimento?
 = productores | productor
-> Son las plantas y las algas, que hacen la fotosíntesis.
+> Son las plantas y las algas.
 
-? ¿Qué tipo de consumidor es el conejo?
-+ Consumidor primario (herbívoro)
-- Consumidor secundario (carnívoro)
-- Productor
-- Descomponedor
-> El conejo come plantas.
+? Clasifica cada ser vivo según su papel en el ecosistema.
+@ Productores: hierba | alga
+@ Consumidores primarios: conejo | saltamontes
+@ Consumidores secundarios: zorro | águila
+@ Descomponedores: hongos | bacterias
+> Los herbívoros son consumidores primarios y los carnívoros, secundarios.
+
+? Ordena esta cadena alimentaria.
+1. Hierba
+2. Saltamontes
+3. Rana
+4. Serpiente
+5. Águila
+> Las flechas significan "es comido por".
 
 ? ¿Qué hacen los descomponedores?
 + Transforman los restos de seres vivos en sustancias para el suelo
-- Fabrican su alimento con la luz
-- Cazan a otros animales
-- Viven siempre en el mar
-> Los hongos y las bacterias "reciclan" la materia del ecosistema.
+- Fabrican su alimento con la luz del sol
+- Cazan a otros animales para alimentarse
+- Producen el oxígeno del agua
+> Los hongos y bacterias "reciclan" la materia.
 
-? En la cadena "hierba → saltamontes → rana", la rana come saltamontes.
+? En una cadena alimentaria, las flechas indican "es comido por".
 = verdadero
-> La flecha significa "es comido por": el saltamontes es comido por la rana.
+> Señalan el camino que sigue la energía.
 
-? ¿Cómo se llama la relación en la que los dos seres vivos salen ganando?
-+ Mutualismo
-- Parasitismo
-- Depredación
-- Competencia
-> La abeja obtiene néctar y la flor consigue que se transporte su polen.
+? ¿Cómo se llama un conjunto de cadenas alimentarias unidas?
+= red alimentaria | red trófica | una red alimentaria
+> En la naturaleza los animales comen varias cosas, así que las cadenas se cruzan.
+
+? Relaciona cada relación entre seres vivos con su ejemplo.
+* Depredación → El lince caza un conejo
+* Parasitismo → La pulga vive en un perro
+* Mutualismo → La abeja y la flor
+> En el mutualismo los dos salen ganando.
 
 ? La pulga que vive en un perro es un ejemplo de mutualismo.
 = falso
-> Es parasitismo: la pulga se beneficia y el perro sale perjudicado.
+> Es parasitismo: la pulga gana y el perro sale perjudicado.
 
-? ¿Qué forman varias cadenas alimentarias unidas?
-= red alimentaria | red trofica | una red alimentaria
-> En la naturaleza, un animal suele comer varias cosas, así que las cadenas se cruzan.
+? ¿Qué es una población?
++ Los seres de la misma especie que viven en un lugar
+- Todos los seres vivos de un ecosistema
+- Los seres humanos que viven en una ciudad
+- Las plantas y animales de un continente
+> Por ejemplo, todos los pinos de un bosque.
 
-? ¿Cuál de estos es un ecosistema acuático de agua dulce?
-+ Un lago
-- Un desierto
-- Un océano
-- Una pradera
-> Ríos y lagos son de agua dulce; mares y océanos, de agua salada.
+?* ¿Cuáles son ejemplos de relaciones entre seres de la misma especie?
++ Una manada de lobos
++ Una colonia de hormigas
++ Una familia de jabalíes
+- Una abeja libando una flor
+- Una pulga en un perro
+> Las otras dos son relaciones entre especies distintas.
+
+? ¿Qué tipo de consumidor es el conejo?
++ Consumidor primario
+- Consumidor secundario
+- Productor
+- Descomponedor
+> Es herbívoro: come plantas.
+
+?* ¿Qué acciones dañan los ecosistemas?
++ Los incendios
++ La contaminación
++ La tala de árboles
+- Reciclar los residuos
+- Ahorrar agua
+> Reciclar y ahorrar agua ayudan a protegerlos.
+
+? Completa: Los animales que comen plantas se llaman [herbívoros|herbivoros] y los que comen otros animales, [carnívoros|carnivoros].
+> Los herbívoros son consumidores primarios.
+
+? ¿Cuál de estos es un parque nacional de España?
++ Doñana
+- La Albufera de Valencia
+- El Retiro
+- La Gran Vía
+> El Teide también es parque nacional.
+
+? Sin los descomponedores, los restos de los seres vivos se acumularían.
+= verdadero
+> Gracias a ellos la materia vuelve al suelo.
+
+? Completa: En la relación de [mutualismo] los dos seres vivos salen beneficiados.
+- parasitismo
+- depredación
+> Como la abeja, que obtiene néctar, y la flor, que reparte su polen.

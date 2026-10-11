@@ -43,16 +43,18 @@ Las 17 comunidades son: **Andalucía**, **Aragón**, **Principado de Asturias**,
 
 # Examen
 
-? ¿Cuál es la ley más importante de España?
-= Constitución | constitucion | la constitucion | constitucion espanola
-> Todas las demás leyes tienen que respetarla.
+preguntas: 20
 
-? ¿En qué año se aprobó la Constitución española?
-+ 1978
-- 1492
-- 1812
-- 2000
-> Se aprobó en referéndum el 6 de diciembre de 1978.
+? ¿Cuál es la ley más importante de España?
+= Constitución | constitucion | la constitución | constitución española
+> Todas las demás leyes deben respetarla.
+
+? ¿En qué fecha se aprobó la Constitución española?
++ El 6 de diciembre de 1978
+- El 12 de octubre de 1492
+- El 2 de mayo de 1808
+- El 1 de enero de 2002
+> Por eso el 6 de diciembre es el Día de la Constitución.
 
 ? ¿Qué forma de gobierno tiene España?
 + Monarquía parlamentaria
@@ -61,19 +63,48 @@ Las 17 comunidades son: **Andalucía**, **Aragón**, **Principado de Asturias**,
 - Dictadura
 > El Rey es el jefe del Estado y gobierna el Gobierno elegido democráticamente.
 
-? ¿Qué poder hace y aprueba las leyes?
-+ El legislativo
-- El ejecutivo
-- El judicial
-- El municipal
-> Lo ejercen las Cortes Generales: el Congreso y el Senado.
+? Relaciona cada poder con lo que hace.
+* Legislativo → Hace y aprueba las leyes
+* Ejecutivo → Gobierna y hace cumplir las leyes
+* Judicial → Juzga si se cumplen las leyes
+> El poder está dividido para que nadie lo tenga todo.
 
-? ¿Quién ejerce el poder judicial?
-+ Los jueces y tribunales
+? Relaciona cada poder con quién lo ejerce.
+* Legislativo → Las Cortes Generales
+* Ejecutivo → El Gobierno
+* Judicial → Los jueces y tribunales
+> Las Cortes Generales son el Congreso y el Senado.
+
+?* ¿Qué cámaras forman las Cortes Generales?
++ El Congreso de los Diputados
++ El Senado
 - El Gobierno
-- El Rey
-- El Congreso de los Diputados
-> El poder judicial decide si se han cumplido las leyes.
+- El Tribunal Supremo
+- El Ayuntamiento
+> Sus miembros se eligen cada 4 años.
+
+? Clasifica cada elemento según sea un derecho o un deber.
+@ Derechos: recibir educación | atención sanitaria | libertad de expresión
+@ Deberes: cumplir las leyes | pagar impuestos | cuidar el medio ambiente
+> La Constitución recoge derechos y deberes de todos.
+
+? ¿A partir de qué edad se puede votar en las elecciones generales?
+= 18 | 18 años | dieciocho
+> Votar es un derecho de los ciudadanos.
+
+? Ordena las divisiones territoriales de menor a mayor.
+1. Municipio
+2. Provincia
+3. Comunidad autónoma
+4. Estado
+> Varios municipios forman una provincia, y varias provincias, una comunidad.
+
+? Relaciona cada territorio con quién lo gobierna.
+* Municipio → Ayuntamiento
+* Provincia → Diputación provincial
+* Comunidad autónoma → Gobierno autonómico con su presidente
+* Estado → Gobierno de España
+> Cada nivel tiene su gobierno.
 
 ? ¿Cuántas comunidades autónomas tiene España?
 + 17
@@ -84,19 +115,48 @@ Las 17 comunidades son: **Andalucía**, **Aragón**, **Principado de Asturias**,
 
 ? ¿Cuántas provincias tiene España?
 = 50 | cincuenta
-> Cada provincia tiene una capital.
+> Cada una tiene una capital.
 
-? El ayuntamiento gobierna un municipio.
+?* ¿Quiénes forman el ayuntamiento?
++ El alcalde o la alcaldesa
++ Los concejales
+- Los diputados del Congreso
+- Los ministros
+- Los jueces
+> Los eligen los vecinos del municipio.
+
+? Completa: Ceuta y [Melilla] son las dos ciudades [autónomas|autonomas] de España.
+> Están en el norte de África.
+
+? Cada comunidad autónoma tiene un Estatuto de Autonomía.
 = verdadero
-> Lo forman el alcalde o la alcaldesa y los concejales.
-
-? ¿Qué forman el Congreso de los Diputados y el Senado?
-+ Las Cortes Generales
-- El Gobierno
-- El Tribunal Supremo
-- El Ayuntamiento
-> Las Cortes Generales ejercen el poder legislativo.
+> Es su ley básica.
 
 ? En España se puede votar en las elecciones generales a partir de los 16 años.
 = falso
-> Se puede votar a partir de los 18 años.
+> Se vota a partir de los 18 años.
+
+?* ¿Cuáles son símbolos de España?
++ La bandera
++ El escudo
++ El himno nacional
+- La Constitución de 1812
+- El euro
+> La bandera es roja y amarilla.
+
+? ¿Cómo se llama el parlamento de la Comunidad de Madrid?
++ La Asamblea de Madrid
+- El Congreso de los Diputados
+- El Senado
+- La Diputación de Madrid
+> Su gobierno está en la Real Casa de Correos, en la Puerta del Sol.
+
+? Clasifica cada comunidad autónoma según tenga o no costa.
+@ Con costa: Galicia | Andalucía | Cantabria | Comunitat Valenciana
+@ Sin costa: Comunidad de Madrid | Aragón | Extremadura | La Rioja
+> Castilla y León y Castilla-La Mancha tampoco tienen costa.
+
+? Completa: La Constitución dice que la soberanía reside en el [pueblo] español.
+- Rey
+- Gobierno
+> Los ciudadanos eligen a sus representantes con su voto.

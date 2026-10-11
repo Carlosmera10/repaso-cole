@@ -47,19 +47,18 @@ En la Península convivieron **cristianos**, **musulmanes** y **judíos**. En la
 
 # Examen
 
-? ¿Qué acontecimiento marca el comienzo de la Edad Media?
-+ La caída del Imperio romano de Occidente en el año 476
-- La llegada de los musulmanes en el 711
-- El descubrimiento de América
-- La invención de la escritura
-> Y termina con el descubrimiento de América en 1492.
+preguntas: 20
+
+? ¿Entre qué dos fechas transcurre la Edad Media?
++ Del año 476 al año 1492
+- Del año 711 al año 1212
+- Del año 218 a. C. al 476
+- Del año 1492 al 1789
+> Empieza con la caída de Roma y termina con el descubrimiento de América.
 
 ? ¿Cuál fue la capital del reino visigodo?
-+ Toledo
-- Córdoba
-- Granada
-- Oviedo
-> Recaredo, rey visigodo, se convirtió al catolicismo.
+= Toledo
+> El rey Recaredo se convirtió al catolicismo.
 
 ? ¿En qué año llegaron los musulmanes a la Península?
 + 711
@@ -68,39 +67,103 @@ En la Península convivieron **cristianos**, **musulmanes** y **judíos**. En la
 - 1492
 > Cruzaron el estrecho de Gibraltar y vencieron a los visigodos.
 
-? ¿Cómo llamaron los musulmanes al territorio de la Península que dominaban?
-= Al-Ándalus | al-andalus | al andalus | alandalus
-> Al-Ándalus llegó a ocupar casi toda la Península.
+? ¿Cómo llamaron los musulmanes al territorio que dominaban en la Península?
+= Al-Ándalus | al andalus | alandalus
+> Llegó a ocupar casi toda la Península.
 
-? ¿Qué ciudad fue la capital del califato y una de las más ricas de Europa?
-+ Córdoba
-- Toledo
-- Burgos
-- Zaragoza
-> En Córdoba está la gran mezquita.
+? Ordena las etapas de Al-Ándalus.
+1. Emirato
+2. Califato de Córdoba
+3. Reinos de taifas
+4. Reino nazarí de Granada
+> Granada fue el último reino musulmán.
 
-? ¿Qué monumento construyó el reino nazarí de Granada?
-+ La Alhambra
-- La mezquita de Córdoba
-- El acueducto de Segovia
-- La catedral de Burgos
-> Granada fue el último reino musulmán de la Península.
+? Relaciona cada personaje o lugar con su etapa.
+* Abderramán III → Califato de Córdoba
+* Abderramán I → Emirato independiente
+* Alhambra → Reino nazarí de Granada
+> Córdoba fue una de las ciudades más ricas de Europa.
 
-? ¿Cómo se llama el proceso por el que los reinos cristianos conquistaron los territorios musulmanes?
+? Relaciona cada monumento con su ciudad.
+* Mezquita → Córdoba
+* Alhambra → Granada
+* Giralda → Sevilla
+> Son grandes obras del arte andalusí.
+
+?* ¿Qué aportaron los musulmanes de Al-Ándalus?
++ Nuevos cultivos como el arroz y la naranja
++ Sistemas de regadío como las norias
++ Los números arábigos
+- La lengua latina
+- El arte gótico
+> También muchas palabras del castellano, como aceite o almohada.
+
+? ¿Qué batalla de 722 dio origen al reino de Asturias?
++ Covadonga
+- Las Navas de Tolosa
+- Guadalete
+- Lepanto
+> Don Pelayo venció a los musulmanes.
+
+? ¿Cómo se llama el proceso por el que los reinos cristianos conquistaron Al-Ándalus?
 = Reconquista | reconquista | la reconquista
-> Duró desde el siglo VIII hasta 1492.
+> Terminó en 1492 con la toma de Granada.
 
-? En la sociedad feudal, la mayoría de la población eran campesinos.
+?* ¿Qué reinos cristianos surgieron en la Península?
++ León
++ Castilla
++ Navarra
++ Aragón
+- Al-Ándalus
+- Granada
+> También los condados catalanes.
+
+? Clasifica cada grupo de la sociedad feudal.
+@ Nobleza: señores con castillos | caballeros que hacían la guerra
+@ Clero: monjes de los monasterios | obispos
+@ Campesinos: trabajaban las tierras de los señores | pagaban impuestos
+> Era muy difícil cambiar de grupo.
+
+? En la sociedad feudal la mayoría de la población eran campesinos.
 = verdadero
-> Trabajaban las tierras de los señores y pagaban impuestos.
+> Trabajaban las tierras de los señores.
 
-? ¿Qué estilo artístico tiene catedrales altas, luminosas y con vidrieras?
-+ El gótico
-- El románico
-- El mudéjar
-- El romano
-> El románico tiene muros gruesos y pocas ventanas.
+? Clasifica cada característica según su estilo artístico.
+@ Románico: muros gruesos | pocas ventanas | arcos de medio punto
+@ Gótico: catedrales altas y luminosas | vidrieras | arcos apuntados
+> Las catedrales de Burgos, León y Toledo son góticas.
 
 ? En la Edad Media en la Península solo vivían cristianos.
 = falso
-> Convivieron cristianos, musulmanes y judíos: las tres culturas.
+> Convivieron cristianos, musulmanes y judíos.
+
+? Completa: En la Escuela de [Traductores] de Toledo se traducían obras del árabe y el hebreo al latín y al [castellano].
+- Arquitectos
+- griego
+> Fue un ejemplo de la convivencia de las tres culturas.
+
+? ¿Qué batalla de 1212 fue decisiva para la Reconquista?
++ Las Navas de Tolosa
+- Covadonga
+- Guadalete
+- Bailén
+> Abrió el camino hacia el sur.
+
+? Ordena estos hechos de la Edad Media.
+1. Llegada de los musulmanes
+2. Batalla de Covadonga
+3. Califato de Córdoba
+4. Batalla de las Navas de Tolosa
+5. Toma de Granada
+> Van del año 711 al 1492.
+
+? ¿Cómo se organizaban los artesanos de las ciudades?
++ En gremios
+- En ayuntamientos
+- En califatos
+- En monasterios
+> Cada gremio reunía a los de un mismo oficio.
+
+? ¿Quiénes conquistaron Granada en 1492?
+= Reyes Católicos | los reyes católicos
+> Con la toma de Granada terminó la Reconquista.

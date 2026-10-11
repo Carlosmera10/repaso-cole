@@ -54,12 +54,21 @@ Se forman uniendo **dos palabras**: *saca + puntas = sacapuntas*, *para + caída
 
 # Examen
 
-? ¿Cuál es un sinónimo de "contento"?
-+ Alegre
-- Triste
-- Enfadado
-- Cansado
-> Tienen un significado parecido.
+preguntas: 20
+
+? Relaciona cada palabra con su sinónimo.
+* Contento → Alegre
+* Empezar → Comenzar
+* Bonito → Precioso
+* Rápido → Veloz
+> Los sinónimos significan lo mismo o algo parecido.
+
+? Relaciona cada palabra con su antónimo.
+* Alto → Bajo
+* Subir → Bajar
+* Día → Noche
+* Posible → Imposible
+> Los antónimos significan lo contrario.
 
 ? ¿Cuál es el antónimo de "ordenado"?
 = desordenado
@@ -69,15 +78,58 @@ Se forman uniendo **dos palabras**: *saca + puntas = sacapuntas*, *para + caída
 + Una palabra con varios significados
 - Una palabra que significa lo contrario
 - Una palabra formada por otras dos
-- Una palabra muy larga
-> Por ejemplo, banco u hoja.
+- Una palabra que viene de otro idioma
+> Como banco u hoja.
+
+?* ¿Qué palabras son polisémicas?
++ Banco
++ Hoja
++ Sierra
+- Bicicleta
+- Zanahoria
+> Banco: para sentarse o para guardar dinero.
+
+? "Vaca" y "baca" son palabras homófonas.
+= verdadero
+> Suenan igual, se escriben distinto y significan cosas diferentes.
+
+? Clasifica cada palabra.
+@ Primitiva: pan | mar | flor
+@ Derivada: panadero | marinero | florero
+> Las derivadas llevan prefijos o sufijos.
+
+? ¿Cuál es la palabra primitiva de "panadería"?
+= pan
+> Panadería es derivada.
 
 ? ¿Cuál de estas palabras NO pertenece a la familia de "mar"?
 + Martes
 - Marinero
 - Marea
 - Submarino
-> Martes no tiene el lexema "mar" con el significado de mar.
+> Martes no tiene que ver con el mar.
+
+? Clasifica cada palabra en su familia.
+@ Familia de flor: florero | florecer | floristería
+@ Familia de mar: marino | marea | marítimo
+@ Familia de pan: panadero | empanada | panecillo
+> Comparten el mismo lexema.
+
+? Relaciona cada prefijo con su significado.
+* Re- → Repetición
+* Des- → Negación
+* Pre- → Antes
+* Sub- → Debajo
+* Bi- → Dos
+> Los prefijos van delante del lexema.
+
+? Relaciona cada sufijo con su significado.
+* -ito → Pequeño
+* -azo → Grande
+* -ero → Oficio
+* -ería → Tienda
+* -al → Lugar con plantas
+> Los sufijos van detrás del lexema.
 
 ? ¿Qué significa el prefijo "re-" en "releer"?
 + Volver a hacer algo
@@ -86,25 +138,33 @@ Se forman uniendo **dos palabras**: *saca + puntas = sacapuntas*, *para + caída
 - Negación
 > Releer es volver a leer.
 
-? "Casita" lleva un sufijo diminutivo.
-= verdadero
-> El sufijo -ita indica que es pequeña.
+? Completa: Una casa pequeña es una [casita] y una casa grande es una [casona].
+- casucha
+- caserío
+> -ita es diminutivo y -ona, aumentativo.
 
-? ¿Cómo se llama la palabra que se forma uniendo dos palabras, como "sacapuntas"?
+? ¿Cómo se llama la palabra formada por dos palabras, como "sacapuntas"?
 = compuesta | palabra compuesta
 > Saca + puntas.
 
-? ¿Qué sufijo indica oficio?
-+ -ero (panadero)
-- -ito (librito)
-- -azo (golpazo)
-- -al (pinar)
-> -ero, -ista y -or suelen indicar oficios.
+? Clasifica cada palabra.
+@ Compuesta: sacapuntas | paraguas | aguanieve
+@ Derivada: zapatería | olivar | releer
+> Las compuestas unen dos palabras.
 
-? "Vaca" y "baca" son palabras homófonas.
+? "Casita" lleva un sufijo diminutivo.
 = verdadero
-> Suenan igual pero se escriben distinto y significan cosas diferentes.
+> -ita indica pequeño.
 
-? ¿Cuál es la palabra primitiva de "panadería"?
-= pan
-> Panadería es una palabra derivada de pan.
+? Completa: El que hace pan es el [panadero] y la tienda donde se venden zapatos es la [zapatería|zapateria].
+> -ero indica oficio y -ería, tienda.
+
+? Ordena las palabras de la familia de "flor" de la más corta a la más larga.
+1. Flor
+2. Florero
+3. Floristería
+> Todas comparten el lexema flor-.
+
+? Los antónimos son palabras con el mismo significado.
+= falso
+> Esos son los sinónimos.

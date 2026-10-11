@@ -138,11 +138,27 @@
 
   var VERDADERO = ['verdadero', 'v', 'true', 'si', 'sí'];
   var FALSO = ['falso', 'f', 'false', 'no'];
+  var HUECO = /\[([^\]]+)\]/g;
 
+  function separar(resto) {
+    return resto.split('|').map(function (s) { return s.trim(); }).filter(Boolean);
+  }
+
+  /*
+   * Tipos de pregunta (ver proyecto-claude/GUIA_CONTENIDO.md):
+   *   test       ? … / + correcta / - incorrectas
+   *   multiple   ?* … (o varias +) / + correctas / - incorrectas
+   *   vf         ? … / = verdadero | falso
+   *   escribir   ? … / = respuesta | variante
+   *   huecos     ? Texto con [respuesta|variante] y [otro] / (- palabras de relleno → menús)
+   *   ordenar    ? … / 1. primero / 2. segundo / 3. …
+   *   clasificar ? … / @ Categoría: elemento | elemento
+   *   relacionar ? … / * izquierda → derecha
+   */
   function leerExamen(texto) {
     var lineas = texto.replace(/\r\n?/g, '\n').split('\n');
     var preguntas = [];
-    var config = { preguntas: 10 };
+    var config = { preguntas: 20 };
     var actual = null;
     var avisos = [];
 
@@ -151,39 +167,89 @@
       if (!t) return;
       var m;
       if ((m = /^preguntas:\s*(\d+)/i.exec(t)) && !actual) { config.preguntas = parseInt(m[1], 10); return; }
-      if (t.indexOf('? ') === 0) {
-        actual = { texto: t.slice(2).trim(), correctas: [], incorrectas: [], respuestas: [], explicacion: '', linea: n + 1 };
+      if (/^\?\*?\s/.test(t)) {
+        actual = {
+          texto: t.replace(/^\?\*?\s+/, ''), forzarMultiple: t.charAt(1) === '*',
+          correctas: [], incorrectas: [], respuestas: [], orden: [], categorias: [], pares: [],
+          explicacion: '', linea: n + 1
+        };
         preguntas.push(actual);
         return;
       }
       if (!actual) { avisos.push('Línea ' + (n + 1) + ' fuera de una pregunta: ' + t); return; }
       var marca = t.charAt(0);
       var resto = t.slice(1).trim();
-      if (marca === '+') actual.correctas.push(resto);
+      if ((m = /^(\d+)[.)]\s+(.*)$/.exec(t))) actual.orden.push(m[2].trim());
+      else if (marca === '+') actual.correctas.push(resto);
       else if (marca === '-') actual.incorrectas.push(resto);
-      else if (marca === '=') actual.respuestas = actual.respuestas.concat(resto.split('|').map(function (s) { return s.trim(); }).filter(Boolean));
-      else if (marca === '>') actual.explicacion += (actual.explicacion ? ' ' : '') + resto;
+      else if (marca === '=') actual.respuestas = actual.respuestas.concat(separar(resto));
+      else if (marca === '@') {
+        var dos = resto.indexOf(':');
+        if (dos < 0) avisos.push('Línea ' + (n + 1) + ': la categoría necesita ":" → @ Nombre: a | b');
+        else actual.categorias.push({ nombre: resto.slice(0, dos).trim(), elementos: separar(resto.slice(dos + 1)) });
+      } else if (marca === '*') {
+        var par = resto.split(/\s*(?:→|->)\s*/);
+        if (par.length !== 2) avisos.push('Línea ' + (n + 1) + ': la pareja necesita una flecha → izquierda → derecha');
+        else actual.pares.push({ izq: par[0], der: par[1] });
+      } else if (marca === '>') actual.explicacion += (actual.explicacion ? ' ' : '') + resto;
       else actual.texto += ' ' + t; // pregunta en varias líneas
     });
 
     preguntas.forEach(function (p, idx) {
       p.num = idx + 1;
-      if (p.correctas.length || p.incorrectas.length) {
+      var donde = 'Pregunta ' + p.num + ' (línea ' + p.linea + '): ';
+      var clave;
+      if (p.orden.length) {
+        p.tipo = 'ordenar';
+        if (p.orden.length < 3) avisos.push(donde + 'para ordenar hacen falta al menos 3 elementos');
+        clave = p.orden.join('>');
+      } else if (p.categorias.length) {
+        p.tipo = 'clasificar';
+        if (p.categorias.length < 2) avisos.push(donde + 'para clasificar hacen falta al menos 2 categorías');
+        var todos = [];
+        p.categorias.forEach(function (c) { todos = todos.concat(c.elementos); });
+        if (todos.length < 3) avisos.push(donde + 'para clasificar hacen falta al menos 3 elementos');
+        if (todos.some(function (x, i) { return todos.indexOf(x) !== i; })) avisos.push(donde + 'hay elementos repetidos en las categorías');
+        clave = p.categorias.map(function (c) { return c.nombre + ':' + c.elementos.join(','); }).join(';');
+      } else if (p.pares.length) {
+        p.tipo = 'relacionar';
+        if (p.pares.length < 3) avisos.push(donde + 'para relacionar hacen falta al menos 3 parejas');
+        var der = p.pares.map(function (x) { return x.der; });
+        if (der.some(function (x, i) { return der.indexOf(x) !== i; })) avisos.push(donde + 'las respuestas de la derecha deben ser distintas');
+        clave = p.pares.map(function (x) { return x.izq + '=' + x.der; }).join(';');
+      } else if (HUECO.test(p.texto)) {
+        HUECO.lastIndex = 0;
+        p.tipo = 'huecos';
+        p.huecos = [];
+        p.texto.replace(HUECO, function (_, r) { p.huecos.push(separar(r)); return ''; });
+        p.conMenu = p.incorrectas.length > 0;
+        clave = p.huecos.map(function (h) { return h[0]; }).join('|');
+      } else if (p.forzarMultiple || p.correctas.length > 1) {
+        p.tipo = 'multiple';
+        if (!p.correctas.length) avisos.push(donde + 'falta al menos una respuesta correcta (+)');
+        if (!p.incorrectas.length) avisos.push(donde + 'falta al menos una respuesta incorrecta (-)');
+        clave = p.correctas.join('|');
+      } else if (p.correctas.length || p.incorrectas.length) {
         p.tipo = 'test';
-        if (p.correctas.length !== 1) avisos.push('Pregunta ' + p.num + ' (línea ' + p.linea + '): un test necesita exactamente una respuesta con +');
-        if (p.incorrectas.length < 1) avisos.push('Pregunta ' + p.num + ' (línea ' + p.linea + '): un test necesita al menos una respuesta con -');
+        if (p.correctas.length !== 1) avisos.push(donde + 'un test necesita exactamente una respuesta con +');
+        if (p.incorrectas.length < 1) avisos.push(donde + 'un test necesita al menos una respuesta con -');
+        clave = p.correctas[0];
       } else if (p.respuestas.length === 1 && (VERDADERO.indexOf(p.respuestas[0].toLowerCase()) >= 0 || FALSO.indexOf(p.respuestas[0].toLowerCase()) >= 0)) {
         p.tipo = 'vf';
         p.valor = VERDADERO.indexOf(p.respuestas[0].toLowerCase()) >= 0;
+        clave = String(p.valor);
       } else if (p.respuestas.length) {
         p.tipo = 'escribir';
+        clave = p.respuestas.join('|');
       } else {
         p.tipo = 'error';
-        avisos.push('Pregunta ' + p.num + ' (línea ' + p.linea + '): no tiene respuestas (+/- o =)');
+        clave = '';
+        avisos.push(donde + 'no tiene respuestas');
       }
-      if (!p.explicacion) avisos.push('Pregunta ' + p.num + ' (línea ' + p.linea + '): falta la explicación (>)');
-      p.id = huella(p.texto + '|' + (p.correctas[0] || p.respuestas.join('|')));
+      if (!p.explicacion) avisos.push(donde + 'falta la explicación (>)');
+      p.id = huella(p.texto + '|' + clave);
     });
+    HUECO.lastIndex = 0;
 
     return { config: config, preguntas: preguntas, avisos: avisos };
   }
@@ -240,6 +306,7 @@
     leerTema: leerTema,
     leerExamen: leerExamen,
     normalizar: normalizar,
-    comprobarEscrita: comprobarEscrita
+    comprobarEscrita: comprobarEscrita,
+    huella: huella
   };
 });

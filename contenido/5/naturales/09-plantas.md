@@ -47,60 +47,124 @@ Una parte de la planta forma una nueva: por **esquejes** (rosal), **tubérculos*
 
 # Examen
 
-? ¿Qué parte de la planta absorbe el agua y las sales minerales?
-+ La raíz
-- La hoja
-- La flor
-- El fruto
-> La raíz también sujeta la planta al suelo.
+preguntas: 20
 
-? ¿Cómo se llama el proceso por el que las plantas fabrican su alimento con la luz del sol?
-= fotosíntesis | fotosintesis | la fotosintesis
-> Ocurre en las hojas, gracias a la clorofila.
+? Relaciona cada parte de la planta con su función.
+* Raíz → Sujeta la planta y absorbe agua y sales
+* Tallo → Sostiene la planta y transporta la savia
+* Hojas → Fabrican el alimento y respiran
+* Flor → Es el órgano de reproducción
+> Cada parte tiene un trabajo distinto.
+
+? ¿Cómo se llama el proceso por el que las plantas fabrican su alimento?
+= fotosíntesis | fotosintesis | la fotosíntesis
+> Ocurre en las hojas, gracias a la luz del sol.
 
 ? ¿Qué gas expulsan las plantas al hacer la fotosíntesis?
 + Oxígeno
 - Dióxido de carbono
 - Nitrógeno
 - Hidrógeno
-> Gracias a la fotosíntesis tenemos oxígeno para respirar.
+> Gracias a ellas hay oxígeno para respirar.
+
+?* ¿Qué necesita una planta para hacer la fotosíntesis?
++ Luz del sol
++ Agua
++ Dióxido de carbono
+- Oxígeno
+- Tierra de color oscuro
+> Con luz, agua, sales y CO₂ fabrica su alimento.
+
+? Ordena los pasos de la nutrición de una planta.
+1. La raíz absorbe agua y sales minerales
+2. La savia bruta sube por el tallo
+3. La clorofila de las hojas capta la luz
+4. Se fabrica la savia elaborada y se expulsa oxígeno
+5. La savia elaborada se reparte por la planta
+> Así consigue la planta su alimento.
+
+? Completa: La savia [bruta] está formada por agua y sales; la savia [elaborada] es el alimento de la planta.
+- verde
+- roja
+> La bruta sube a las hojas y la elaborada se reparte por toda la planta.
 
 ? ¿Cómo se llama el pigmento verde que capta la luz?
 = clorofila | la clorofila
-> Está dentro de los cloroplastos de las células de las hojas.
+> Está en los cloroplastos de las hojas.
 
-? La savia bruta está formada por agua y sales minerales y sube de la raíz a las hojas.
-= verdadero
-> En las hojas se transforma en savia elaborada, que es el alimento.
-
-? ¿Qué parte de la flor produce el polen?
-+ Los estambres
-- El pistilo
-- Los pétalos
-- Los sépalos
-> Los estambres son la parte masculina de la flor.
-
-? ¿En qué se transforma el ovario de la flor tras la fecundación?
-+ En el fruto
-- En la raíz
-- En la hoja
-- En el polen
-> Y los óvulos se transforman en semillas.
+? ¿Por dónde entran y salen los gases en las hojas?
++ Por los estomas
+- Por las raíces
+- Por los pétalos
+- Por el polen
+> Son poros diminutos de las hojas.
 
 ? Las plantas solo respiran por la noche.
 = falso
-> Respiran siempre, de día y de noche. De día, además, hacen la fotosíntesis.
+> Respiran siempre. De día, además, hacen la fotosíntesis.
 
-? ¿Cómo se reproduce la patata de forma asexual?
-+ Por tubérculos
-- Por esporas
-- Por polen
-- Por piñas
-> Un trozo de patata con "ojos" puede dar una planta nueva.
+? Las plantas son seres autótrofos porque fabrican su propio alimento.
+= verdadero
+> Los animales, en cambio, se alimentan de otros seres vivos.
 
-? ¿Qué plantas se reproducen por esporas y no tienen flores?
+? Relaciona cada parte de la flor con su función.
+* Cáliz → Protege la flor
+* Corola → Atrae a los insectos con su color
+* Estambres → Producen el polen
+* Pistilo → Contiene el ovario con los óvulos
+> Los estambres son la parte masculina y el pistilo, la femenina.
+
+? Ordena las etapas de la reproducción sexual de una planta.
+1. Polinización
+2. Fecundación
+3. Formación del fruto y las semillas
+4. Germinación de la semilla
+> De la semilla nace una planta nueva.
+
+? ¿En qué se transforma el ovario de la flor tras la fecundación?
++ En el fruto
+- En la semilla
+- En la hoja
+- En el polen
+> Los óvulos se transforman en semillas.
+
+? Clasifica cada planta según cómo se reproduce de forma asexual.
+@ Tubérculos: patata
+@ Bulbos: cebolla
+@ Estolones: fresa
+@ Esquejes: rosal
+> En la reproducción asexual no intervienen las flores.
+
+? Clasifica cada planta en su grupo.
+@ Sin flores: musgo | helecho
+@ Con flores, gimnospermas: pino | abeto
+@ Con flores, angiospermas: manzano | rosal
+> Las angiospermas tienen las semillas dentro de un fruto.
+
+? ¿Qué plantas se reproducen por esporas?
 + Los helechos
 - Los pinos
 - Los manzanos
-- Las rosas
-> Los helechos y los musgos son plantas sin flores.
+- Los rosales
+> Los helechos y los musgos no tienen flores.
+
+? El tallo de una planta crece hacia la luz.
+= verdadero
+> Es una respuesta de la función de relación.
+
+?* ¿Cómo llega el polen al pistilo?
++ Con el viento
++ Con los insectos
+- Con la savia bruta
+- Con las raíces
+> Este paso se llama polinización.
+
+? Completa: Los estambres son la parte [masculina] de la flor y el pistilo es la parte [femenina].
+> El polen de los estambres llega al pistilo en la polinización.
+
+? ¿Qué diferencia a las gimnospermas de las angiospermas?
++ Las gimnospermas no tienen un fruto que envuelva la semilla
+- Las gimnospermas no tienen flores ni semillas
+- Las angiospermas se reproducen por esporas
+- Las angiospermas no hacen la fotosíntesis
+> El pino, por ejemplo, tiene piñas, no frutos carnosos.

@@ -58,60 +58,118 @@ Los **romanos** llegaron en el año **218 a. C.** y conquistaron toda la Peníns
 
 # Examen
 
+preguntas: 20
+
+? Ordena las edades de la historia.
+1. Prehistoria
+2. Edad Antigua
+3. Edad Media
+4. Edad Moderna
+5. Edad Contemporánea
+> Cada edad empieza con un gran acontecimiento.
+
+? Relaciona cada acontecimiento con la edad que empieza.
+* Invención de la escritura → Edad Antigua
+* Caída del Imperio romano de Occidente → Edad Media
+* Descubrimiento de América → Edad Moderna
+* Revolución francesa → Edad Contemporánea
+> La Prehistoria empieza con la aparición del ser humano.
+
 ? ¿Qué acontecimiento marca el final de la Prehistoria?
 + La invención de la escritura
 - El descubrimiento del fuego
 - La llegada de los romanos
-- El descubrimiento de América
-> La escritura se inventó hacia el año 3000 a. C.
+- La agricultura
+> Ocurrió hacia el año 3000 a. C.
 
-? ¿Cómo vivían las personas del Paleolítico?
-+ Eran nómadas y vivían de la caza, la pesca y la recolección
-- Eran sedentarias y cultivaban la tierra
-- Vivían en grandes ciudades amuralladas
-- Trabajaban el hierro y el bronce
-> Se movían de un lugar a otro buscando alimento.
+? Ordena las etapas de la Prehistoria.
+1. Paleolítico
+2. Neolítico
+3. Edad de los Metales
+> Primero piedra tallada, luego piedra pulida y por último metales.
 
-? ¿En qué etapa se inventaron la agricultura y la ganadería?
-+ En el Neolítico
-- En el Paleolítico
-- En la Edad Media
-- En la Edad Moderna
-> Gracias a ellas, las personas se hicieron sedentarias.
+? Clasifica cada característica en su etapa.
+@ Paleolítico: nómadas | caza y recolección | piedra tallada
+@ Neolítico: sedentarios | agricultura y ganadería | piedra pulida
+> El gran cambio del Neolítico fue cultivar la tierra.
 
-? ¿Dónde está la famosa cueva de Altamira, con pinturas rupestres?
+? ¿Dónde está la cueva de Altamira?
 + En Cantabria
 - En Andalucía
 - En Madrid
 - En Galicia
-> Sus pinturas son del Paleolítico.
+> Sus pinturas rupestres son del Paleolítico.
 
-? ¿Cómo se llama el megalito formado por una gran piedra vertical?
-= menhir | el menhir
-> El dolmen parece una mesa gigante y el crómlech son piedras en círculo.
+? ¿En qué yacimiento de Burgos se han encontrado restos humanos muy antiguos?
+= Atapuerca
+> Son de los más antiguos de Europa occidental.
 
-? ¿Qué pueblo fundó Gadir, la actual Cádiz?
-+ Los fenicios
-- Los griegos
-- Los romanos
-- Los celtas
-> Los fenicios eran grandes comerciantes del Mediterráneo.
+? Ordena los metales según el orden en que se empezaron a trabajar.
+1. Cobre
+2. Bronce
+3. Hierro
+> El hierro es el más duro y el último.
+
+? Relaciona cada megalito con su descripción.
+* Menhir → Una gran piedra vertical
+* Dolmen → Piedras como una mesa gigante, usadas como tumba
+* Crómlech → Piedras colocadas en círculo
+> Se construyeron en la Edad de los Metales.
+
+? Clasifica cada pueblo.
+@ Prerromanos: íberos | celtas | celtíberos
+@ Colonizadores: fenicios | griegos | cartagineses
+> Los colonizadores llegaron por mar para comerciar.
+
+? Relaciona cada pueblo colonizador con la ciudad que fundó.
+* Fenicios → Gadir (Cádiz)
+* Griegos → Emporion (Ampurias)
+* Cartagineses → Cartago Nova (Cartagena)
+> Eran grandes comerciantes del Mediterráneo.
+
+? Los celtas vivían en el este y el sur de la Península.
+= falso
+> Vivían en el norte y el centro. En el este y el sur vivían los íberos.
+
+? ¿En qué año llegaron los romanos a la Península?
++ En el 218 a. C.
+- En el 711 d. C.
+- En el 476 d. C.
+- En el 3000 a. C.
+> Se quedaron unos 600 años.
 
 ? ¿Qué nombre dieron los romanos a la península ibérica?
 = Hispania | hispania
-> Los romanos llegaron en el año 218 a. C.
+> El proceso de adoptar su cultura se llama romanización.
+
+?* ¿Qué aportaron los romanos a Hispania?
++ El latín
++ El derecho romano
++ Calzadas, puentes y acueductos
+- La imprenta
+- El castillo medieval
+> Del latín vienen el castellano, el catalán y el gallego.
+
+? Relaciona cada monumento romano con su ciudad.
+* Acueducto → Segovia
+* Teatro romano → Mérida
+* Puente romano → Alcántara
+> Son algunos de los restos romanos más famosos.
 
 ? Del latín vienen el castellano, el catalán, el gallego y el portugués.
 = verdadero
 > Por eso se llaman lenguas romances.
 
-? ¿Cuál de estas construcciones es romana?
-+ El acueducto de Segovia
-- La Alhambra de Granada
-- La cueva de Altamira
-- El monasterio de El Escorial
-> Los romanos llevaban el agua a las ciudades con acueductos.
+? Completa: En el [Paleolítico|paleolitico] las personas eran nómadas y en el [Neolítico|neolitico] se hicieron sedentarias.
+> El Neolítico empezó con la agricultura.
 
-? Los celtas vivían en el este y el sur de la Península.
-= falso
-> Los celtas vivían en el norte y el centro. En el este y el sur vivían los íberos.
+? ¿Cómo se llama la escultura íbera más famosa?
++ La Dama de Elche
+- La Venus de Milo
+- El Pensador
+- La Dama de Altamira
+> Se encontró en la provincia de Alicante.
+
+? ¿En qué año cayó el Imperio romano de Occidente?
+= 476
+> Con ese hecho termina la Edad Antigua.

@@ -40,60 +40,130 @@ El **aparato digestivo** transforma los alimentos en **nutrientes**: sustancias 
 
 # Examen
 
+preguntas: 20
+
 ? ¿Para qué sirve el aparato digestivo?
 + Para transformar los alimentos en nutrientes
-- Para llevar oxígeno a la sangre
-- Para eliminar la orina
-- Para mover el cuerpo
+- Para llevar oxígeno a todas las células
+- Para filtrar la sangre y formar la orina
+- Para mover el cuerpo y mantener la postura
 > Los nutrientes son tan pequeños que pueden pasar a la sangre.
 
-? ¿Cuál es el orden correcto del tubo digestivo?
-+ Boca, faringe, esófago, estómago, intestino delgado, intestino grueso, ano
-- Boca, esófago, faringe, intestino grueso, estómago, ano
-- Boca, estómago, esófago, intestino delgado, ano
-- Faringe, boca, estómago, esófago, intestino grueso, ano
-> La comida va de la boca al ano pasando por todos estos órganos en este orden.
+? Ordena el recorrido de los alimentos por el tubo digestivo.
+1. Boca
+2. Faringe
+3. Esófago
+4. Estómago
+5. Intestino delgado
+6. Intestino grueso
+7. Ano
+> La comida va siempre en este orden.
+
+? Clasifica cada órgano según si pertenece al tubo digestivo o es una glándula aneja.
+@ Tubo digestivo: esófago | estómago | intestino delgado | faringe
+@ Glándula aneja: hígado | páncreas | glándulas salivales
+> Por las glándulas anejas no pasa la comida, pero fabrican sustancias que ayudan a digerirla.
+
+? Relaciona cada glándula con lo que fabrica.
+* Glándulas salivales → Saliva
+* Hígado → Bilis
+* Páncreas → Jugo pancreático
+> Estos jugos ayudan a transformar los alimentos.
 
 ? ¿En qué órgano pasan los nutrientes a la sangre?
 + En el intestino delgado
 - En el estómago
-- En el esófago
 - En el intestino grueso
-> Las vellosidades del intestino delgado absorben los nutrientes.
+- En el esófago
+> Lo hacen a través de las vellosidades intestinales.
 
-? ¿Cómo se llama la masa que se forma en la boca al masticar y mezclar con saliva?
+? ¿Cómo se llama la masa que se forma en la boca al masticar y mezclar la comida con saliva?
 = bolo alimenticio | bolo
-> El bolo alimenticio baja por el esófago hasta el estómago.
+> El bolo baja por el esófago hasta el estómago.
+
+? Completa: En el estómago se forma el [quimo] y en el intestino delgado se forma el [quilo].
+- bolo alimenticio
+- heces
+- saliva
+> El quimo es una papilla y el quilo, un líquido con los nutrientes.
 
 ? ¿Qué órgano fabrica la bilis?
 + El hígado
 - El páncreas
 - El estómago
-- Las glándulas salivales
+- El intestino grueso
 > La bilis ayuda a digerir las grasas.
 
-? El intestino grueso absorbe el agua y forma las heces.
+? El intestino grueso absorbe agua y forma las heces.
 = verdadero
-> Así recuperamos agua y lo que no sirve se expulsa por el ano.
-
-? ¿Qué impide que la comida entre en la tráquea al tragar?
-+ La epiglotis
-- El esófago
-- La lengua
-- El estómago
-> La epiglotis cierra la tráquea como una tapa.
-
-? ¿Cómo se llama la fase en la que los nutrientes pasan a la sangre?
-= absorción
-> Ocurre en el intestino delgado.
+> Así recuperamos agua y lo que no sirve se expulsa.
 
 ? El hígado y el páncreas forman parte del tubo digestivo.
 = falso
-> Son glándulas anejas: no pasa la comida por ellas, pero fabrican sustancias que ayudan a digerirla.
+> Son glándulas anejas: la comida no pasa por ellas.
 
-? ¿Cuál es un buen hábito para el aparato digestivo?
-+ Masticar despacio y comer fruta y verdura
+? ¿Qué impide que la comida entre en la tráquea al tragar?
++ La epiglotis
+- La lengua
+- El esófago
+- Las cuerdas vocales
+> Es una tapita que cierra la tráquea.
+
+? Ordena las fases de la digestión.
+1. Ingestión
+2. Digestión
+3. Absorción
+4. Egestión
+> Primero comemos, luego transformamos, absorbemos y expulsamos lo que sobra.
+
+? Relaciona cada fase con lo que ocurre en ella.
+* Ingestión → Meter el alimento en la boca
+* Digestión → Transformar el alimento en nutrientes
+* Absorción → Los nutrientes pasan a la sangre
+* Egestión → Expulsar las heces
+> Son las cuatro fases del proceso digestivo.
+
+? ¿Cómo se llama la fase en la que los nutrientes pasan a la sangre?
+= absorción | absorcion | la absorción
+> Ocurre en el intestino delgado.
+
+?* ¿Qué hacen los órganos de la boca durante la digestión?
++ Los dientes trituran los alimentos
++ La saliva ablanda la comida
++ La lengua mueve la comida
+- El estómago fabrica la bilis
+- El páncreas absorbe el agua
+> En la boca empieza la digestión.
+
+? ¿Qué tubo lleva el bolo alimenticio desde la faringe hasta el estómago?
+= esófago | esofago | el esófago
+> Sus paredes se mueven para empujar el bolo.
+
+? ¿Cuánto mide aproximadamente el intestino delgado?
++ Unos 7 metros
+- Unos 7 centímetros
+- Unos 70 metros
+- Unos 70 centímetros
+> Está muy enrollado para caber en el abdomen.
+
+? ¿Cuál es el órgano interno más grande del cuerpo?
++ El hígado
+- El estómago
+- El páncreas
+- El intestino grueso
+> Además de fabricar la bilis, hace muchas otras funciones.
+
+? La faringe es un conducto que comparten el aparato digestivo y el respiratorio.
+= verdadero
+> Por ella pasan tanto la comida como el aire.
+
+?* ¿Cuáles de estos hábitos cuidan el aparato digestivo?
++ Masticar despacio
++ Lavarse los dientes después de comer
++ Comer fruta, verdura y legumbres
 - Comer muy deprisa
-- No lavarse nunca los dientes
-- Comer solo dulces
-> Masticar bien y tomar fibra facilita la digestión.
+- No beber agua en todo el día
+> La fibra y el agua ayudan a ir bien al baño.
+
+? Completa: Las [vellosidades] del intestino delgado absorben los nutrientes.
+> Son pliegues diminutos que aumentan la superficie del intestino.

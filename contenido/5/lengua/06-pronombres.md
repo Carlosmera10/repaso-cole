@@ -44,60 +44,120 @@ Los demostrativos, posesivos, numerales, indefinidos e interrogativos también p
 
 # Examen
 
+preguntas: 20
+
 ? ¿Para qué sirven los pronombres?
 + Para sustituir al sustantivo y no repetirlo
 - Para expresar acciones
 - Para decir cómo es un sustantivo
 - Para unir oraciones
-> En "Marta llegó. Ella…", ella sustituye a Marta.
+> Marta llegó. Ella…
 
-? ¿Qué pronombre personal es de primera persona del plural?
-+ Nosotros
-- Vosotros
-- Ellos
-- Yo
-> La primera persona es quien habla: yo (singular) y nosotros (plural).
+? Clasifica cada pronombre personal según su persona.
+@ Primera persona: yo | nosotros | nosotras
+@ Segunda persona: tú | vosotros | usted
+@ Tercera persona: él | ella | ellos
+> Usted es segunda persona aunque el verbo va en tercera.
+
+? Relaciona cada pronombre con su persona y número.
+* Yo → Primera del singular
+* Nosotros → Primera del plural
+* Tú → Segunda del singular
+* Vosotras → Segunda del plural
+* Ella → Tercera del singular
+* Ellos → Tercera del plural
+> La persona indica quién habla, a quién se habla o de quién se habla.
 
 ? ¿Qué pronombre se usa para hablar con respeto a una persona?
 = usted
-> Usted y ustedes se usan con formalidad.
+> Usted y ustedes son formas de respeto.
 
-? ¿De qué persona es el pronombre "vosotras"?
-+ Segunda persona del plural
-- Primera persona del plural
-- Tercera persona del plural
-- Segunda persona del singular
-> Es la persona a quien se habla, en plural.
+? Con "usted", el verbo va en tercera persona.
+= verdadero
+> Usted tiene, no usted tienes.
 
 ? En "Lo compré ayer", ¿qué palabra es un pronombre?
 + Lo
 - Compré
 - Ayer
 - No hay pronombre
-> Lo sustituye a algo nombrado antes (por ejemplo, el libro).
+> Sustituye a algo nombrado antes.
+
+? Completa: Este regalo es para [mí]. ¿Vienes [conmigo]?
+- mi
+- con mí
+- yo
+> Después de preposición: mí, ti, conmigo, contigo.
 
 ? ¿Qué frase está bien escrita?
 + Este regalo es para mí.
 - Este regalo es para mi.
-- Este regalo es para mí casa.
 - Mí casa es grande.
-> "Mí" pronombre lleva tilde; "mi" posesivo (delante de un nombre) no.
+- Este regalo es para tí.
+> Mí, pronombre, lleva tilde.
+
+? Completa con el pronombre correcto: [Tú] eres mi mejor amiga y [él] es mi primo.
+- Tu
+- el
+> Los pronombres tú y él llevan tilde.
+
+? Clasifica cada pronombre átono.
+@ Primera persona: me | nos
+@ Segunda persona: te | os
+@ Tercera persona: lo | la | les
+> Van junto al verbo.
 
 ? "Conmigo" es un pronombre personal.
 = verdadero
 > Es la forma de "yo" con la preposición con.
 
-? ¿Qué pronombre completa la frase: "___ eres mi mejor amiga"?
-+ Tú
-- Tu
-- Ti
-- Te
-> Tú, con tilde, porque es pronombre personal.
+? ¿Cuál es el pronombre personal de tercera persona del singular femenino?
+= ella
+> Él, ella, ello.
 
 ? En "El libro es mío", la palabra "mío" es un pronombre posesivo.
 = verdadero
-> Va solo, sin acompañar a un sustantivo.
+> Va sin sustantivo.
 
-? ¿Cuál es el pronombre personal de tercera persona del singular femenino?
-= ella
-> Él (masculino), ella (femenino), ello (neutro).
+? Relaciona cada frase con el tipo de pronombre que tiene.
+* Alguien ha llamado → Indefinido
+* ¿Quién ha venido? → Interrogativo
+* Quiero este → Demostrativo
+* El lápiz es tuyo → Posesivo
+> Muchos determinantes pueden ser pronombres si van solos.
+
+?* ¿En qué frases hay un pronombre personal?
++ Ellos juegan al fútbol.
++ Dámelo, por favor.
++ Nosotras cantamos.
+- El perro ladra.
+- Mi casa es azul.
+> El y mi son determinantes.
+
+? ¿Qué pronombre sustituye a "Marta y yo"?
++ Nosotras o nosotros
+- Ellas
+- Vosotras
+- Ustedes
+> Si estoy yo, es primera persona del plural.
+
+? ¿Qué pronombre sustituye a "Pedro y Luis"?
+= ellos
+> Tercera persona del plural masculino.
+
+? Ordena los pronombres de singular según la persona.
+1. Yo
+2. Tú
+3. Él
+> Primera, segunda y tercera persona.
+
+? "Mi" y "mí" significan lo mismo.
+= falso
+> Mi es posesivo y mí, pronombre.
+
+? ¿Cómo se dice "Pásame el balón" cambiando "el balón" por un pronombre?
++ Pásamelo
+- Pásamele
+- Pásamela
+- Pásalo me
+> Me (a mí) + lo (el balón).

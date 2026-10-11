@@ -45,6 +45,8 @@ Un **climograma** es un gráfico que muestra las **temperaturas** (con una **lí
 
 # Examen
 
+preguntas: 20
+
 ? ¿Cuál es el gas más abundante del aire?
 + El nitrógeno
 - El oxígeno
@@ -52,42 +54,90 @@ Un **climograma** es un gráfico que muestra las **temperaturas** (con una **lí
 - El vapor de agua
 > El aire tiene un 78 % de nitrógeno y un 21 % de oxígeno.
 
-? ¿En qué capa de la atmósfera se producen las nubes y la lluvia?
-+ En la troposfera
-- En la estratosfera
-- En la mesosfera
-- En la exosfera
-> Es la capa más cercana a la superficie, donde vivimos.
+?* ¿Para qué sirve la atmósfera?
++ Nos da el oxígeno para respirar
++ Nos protege de los rayos dañinos del Sol
++ Mantiene una temperatura adecuada
+- Produce el agua de los océanos
+- Hace girar a la Tierra
+> También nos protege de los meteoritos.
+
+? Ordena las capas de la atmósfera de abajo arriba.
+1. Troposfera
+2. Estratosfera
+3. Mesosfera
+4. Termosfera
+5. Exosfera
+> La exosfera se va convirtiendo poco a poco en el espacio.
+
+? Relaciona cada capa de la atmósfera con lo que ocurre en ella.
+* Troposfera → Nubes, lluvia y viento
+* Estratosfera → Capa de ozono
+* Mesosfera → Se queman los meteoritos
+* Termosfera → Auroras polares
+> En la troposfera es donde vivimos.
 
 ? ¿En qué capa está la capa de ozono?
 = estratosfera | la estratosfera
-> El ozono nos protege de los rayos ultravioleta.
+> Nos protege de los rayos ultravioleta.
+
+? Clasifica cada frase según hable del tiempo o del clima.
+@ Tiempo atmosférico: hoy llueve en Madrid | esta tarde hará viento
+@ Clima: en Sevilla los veranos son muy calurosos | en Galicia llueve mucho todo el año
+> El tiempo es un momento concreto; el clima, lo habitual durante muchos años.
+
+? Relaciona cada elemento con su instrumento de medida.
+* Temperatura → Termómetro
+* Precipitaciones → Pluviómetro
+* Presión atmosférica → Barómetro
+* Dirección del viento → Veleta
+* Velocidad del viento → Anemómetro
+> La humedad se mide con el higrómetro.
 
 ? "Hoy hace sol en Valencia" es una frase sobre el clima.
 = falso
 > Habla del tiempo atmosférico, porque se refiere a un momento concreto.
 
-? ¿Con qué instrumento se miden las precipitaciones?
-+ Con el pluviómetro
-- Con el termómetro
-- Con el barómetro
-- Con la veleta
-> El pluviómetro recoge el agua de lluvia.
+? ¿Qué suele traer un anticiclón?
++ Buen tiempo y cielo despejado
+- Nubes y lluvia
+- Nieve y granizo
+- Tormentas fuertes
+> Las borrascas, en cambio, traen nubes y lluvia.
 
-? ¿Qué instrumento mide la presión atmosférica?
-= barómetro | barometro | el barometro
-> Las altas presiones suelen traer buen tiempo.
+? Completa: Las altas presiones forman un [anticiclón|anticiclon] y las bajas presiones, una [borrasca].
+- tormenta
+- nube
+> El barómetro mide la presión atmosférica.
 
-? ¿Qué indica la veleta?
-+ La dirección del viento
-- La velocidad del viento
-- La temperatura
-- La humedad
-> La velocidad del viento se mide con el anemómetro.
+?* ¿Qué factores influyen en el clima de un lugar?
++ La latitud
++ La altitud
++ La distancia al mar
+- El número de habitantes
+- La hora del día
+> Los tres cambian la temperatura y las lluvias.
 
 ? Cuanto más alto está un lugar, más frío hace.
 = verdadero
-> La temperatura baja unos 6 °C cada 1.000 metros de altitud.
+> La temperatura baja unos 6 °C cada 1.000 metros.
+
+? ¿Cuántos grados baja más o menos la temperatura cada 1.000 metros de altitud?
+= 6 | 6 grados | 6 °c
+> Por eso en la montaña hace más frío.
+
+? ¿Cómo son las temperaturas cerca del mar?
++ Más suaves, con poca diferencia entre invierno y verano
+- Más extremas que en el interior
+- Siempre muy frías
+- Siempre muy calurosas
+> El mar suaviza las temperaturas.
+
+? Relaciona cada zona climática con su situación.
+* Zona cálida → Entre los dos trópicos
+* Zonas templadas → Entre los trópicos y los círculos polares
+* Zonas frías → Dentro de los círculos polares
+> España está en la zona templada del norte.
 
 ? ¿En qué zona climática está España?
 + En la zona templada del norte
@@ -96,9 +146,20 @@ Un **climograma** es un gráfico que muestra las **temperaturas** (con una **lí
 - En la zona templada del sur
 > Por eso en España hay cuatro estaciones.
 
-? ¿Qué se representa con barras en un climograma?
-+ Las precipitaciones
-- Las temperaturas
-- El viento
-- La presión
-> Las temperaturas se representan con una línea.
+? Completa: En un climograma, las temperaturas se representan con una [línea|linea] y las precipitaciones con [barras].
+> Así se ve el clima de un lugar mes a mes.
+
+? ¿Con qué instrumento se mide la humedad del aire?
+= higrómetro | higrometro | el higrómetro
+> La humedad es la cantidad de vapor de agua del aire.
+
+? La lluvia, la nieve y el granizo son precipitaciones.
+= verdadero
+> Son el agua que cae de las nubes.
+
+? ¿En qué se mide la temperatura?
++ En grados centígrados
+- En milímetros
+- En kilómetros por hora
+- En hectopascales
+> Se mide con el termómetro.

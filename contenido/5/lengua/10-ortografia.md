@@ -49,12 +49,14 @@
 
 # Examen
 
+preguntas: 20
+
 ? ¿Cómo se escribe correctamente?
 + Escribir
 - Escrivir
 - Eskribir
 - Escrivír
-> Los verbos terminados en -bir se escriben con b (excepto hervir, servir y vivir).
+> Los verbos en -bir llevan b (excepto hervir, servir y vivir).
 
 ? ¿Cómo se escribe correctamente?
 + Invierno
@@ -63,23 +65,42 @@
 - Invierrno
 > Después de n se escribe v.
 
-? ¿Cómo se escribe el pretérito imperfecto de "jugar" (nosotros)?
-= jugábamos | jugabamos | jugábamos
-> Las terminaciones -aba, -ábamos… del imperfecto se escriben con b.
+? Clasifica cada palabra según se escriba con b o con v.
+@ Con b: cambio | buzón | blanco | amabilidad
+@ Con v: enviar | nuevo | evitar | estuve
+> Después de m va b; después de n va v.
+
+? Completa: Ayer nosotros [jugábamos] en el parque y [estuvimos] allí toda la tarde.
+- jugávamos
+- estubimos
+> El imperfecto -aba va con b; las formas de estar con este sonido, con v.
+
+? Relaciona cada regla con su ejemplo.
+* Verbos en -bir → Recibir
+* Después de m → Hombre
+* Adjetivos en -ivo → Activo
+* Después de n → Convertir
+* Empieza por bu- → Buscar
+> Las reglas ayudan a no dudar.
 
 ? ¿Cómo se escribe correctamente?
 + Proteger
 - Protejer
 - Proteguer
 - Prohteger
-> Los verbos terminados en -ger se escriben con g (excepto tejer y crujir).
+> Los verbos en -ger van con g (excepto tejer y crujir).
 
 ? ¿Cómo se escribe correctamente?
 + Viaje
 - Viage
 - Biaje
 - Viahe
-> Las palabras terminadas en -aje se escriben con j.
+> Las palabras en -aje se escriben con j.
+
+? Clasifica cada palabra según se escriba con g o con j.
+@ Con g: elegir | colegio | geografía | magia
+@ Con j: garaje | relojería | dije | trajeron
+> Recuerda las terminaciones -gía, -gio, -aje y -jería.
 
 ? ¿Cómo se escribe correctamente?
 + Pingüino
@@ -88,21 +109,65 @@
 - Pingüíno
 > La u suena, así que lleva diéresis.
 
+? ¿Cuál es el pasado de "decir" en primera persona?
++ Dije
+- Dige
+- Decí
+- Dijé
+> Los verbos sin g ni j en el infinitivo van con j en estas formas.
+
+? Clasifica cada palabra según lleve h o no.
+@ Con h: huevo | hielo | humo | hizo
+@ Sin h: ola (del mar) | echo (de echar) | orilla
+> Las palabras que empiezan por hie-, hue- y hum- llevan h.
+
 ? ¿Cómo se escribe correctamente?
 + Huevo
 - Uevo
 - Güevo
 - Huebo
-> Las palabras que empiezan por hue- llevan h.
-
-? ¿Cuál es el pasado de "decir" (yo)?
-= dije
-> Los verbos que no tienen g ni j en el infinitivo se escriben con j en estas formas.
+> Hue- lleva h.
 
 ? "Ha hecho los deberes" se escribe con h porque viene del verbo hacer.
 = verdadero
-> "Echo" sin h viene del verbo echar.
+> "Echo" sin h viene de echar.
 
 ? En "Hay una ola en el mar", la palabra "ola" debería llevar h.
 = falso
-> "Ola" (del mar) va sin h. "Hola" con h es el saludo.
+> "Ola" del mar va sin h; "hola", el saludo, con h.
+
+? Completa: [Hola], ¿me [echas] una mano?
+- Ola
+- hechas
+> Hola (saludo) con h; echar sin h.
+
+? Clasifica cada palabra según se escriba con ll o con y.
+@ Con ll: pasillo | ardilla | martillo
+@ Con y: hoy | rey | cayó
+> Las terminaciones -illo e -illa van con ll.
+
+? Relaciona cada palabra con su significado.
+* Valla → Cerca o barrera
+* Vaya → Del verbo ir
+* Baya → Fruto pequeño
+> Suenan igual pero se escriben distinto.
+
+? ¿Cuál es el pasado de "leer" (ellos)?
++ Leyeron
+- Lelleron
+- Leieron
+- Leyieron
+> Leer no tiene ll ni y en el infinitivo: va con y.
+
+? Completa: Voy a [hablar] con mi abuela; debe de [haber] llegado ya.
+- ablar
+- a ver
+> Hablar y haber siempre llevan h.
+
+?* ¿Qué palabras están bien escritas?
++ Cigüeña
++ Guitarra
++ Geografía
+- Jeografía
+- Guitara
+> Recuerda la diéresis y la g de geo-.

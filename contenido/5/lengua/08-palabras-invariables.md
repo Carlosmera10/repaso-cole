@@ -45,41 +45,62 @@ La **conjunción** **une** palabras u oraciones.
 
 # Examen
 
+preguntas: 20
+
+? Clasifica cada adverbio.
+@ Lugar: aquí | lejos | encima
+@ Tiempo: ayer | pronto | siempre
+@ Modo: bien | despacio | rápidamente
+@ Cantidad: mucho | muy | bastante
+> Responden a ¿dónde?, ¿cuándo?, ¿cómo? y ¿cuánto?
+
+? Relaciona cada clase de adverbio con su ejemplo.
+* Afirmación → También
+* Negación → Tampoco
+* Duda → Quizá
+> Expresan si algo es cierto, falso o dudoso.
+
 ? ¿Qué tipo de adverbio es "lejos"?
 + De lugar
 - De tiempo
 - De modo
 - De cantidad
-> Responde a la pregunta ¿dónde?
-
-? ¿Qué tipo de adverbio es "ayer"?
-+ De tiempo
-- De lugar
-- De modo
-- De duda
-> Responde a la pregunta ¿cuándo?
+> Responde a ¿dónde?
 
 ? ¿Qué adverbio de modo se forma a partir de "fácil"?
-= fácilmente | facilmente | fácilmente
-> Se añade -mente y mantiene la tilde del adjetivo.
+= fácilmente | facilmente
+> Mantiene la tilde del adjetivo.
 
-? ¿Cuál de estas palabras es un adverbio de duda?
-+ Quizá
-- Nunca
-- Muy
-- Aquí
-> Quizá, acaso y tal vez expresan duda.
+? Completa: Lento → [lentamente] y feliz → [felizmente]
+> Se añade -mente al adjetivo en femenino.
 
-? ¿Cuál de estas palabras es una preposición?
+? Ordena estas preposiciones como en la lista.
+1. a
+2. ante
+3. bajo
+4. con
+5. contra
+6. de
+> a, ante, bajo, con, contra, de, desde…
+
+?* ¿Cuáles de estas palabras son preposiciones?
 + Hacia
++ Sin
++ Desde
 - Pero
-- Ayer
 - Muy
-> Hacia, hasta, desde, para… son preposiciones.
+> Pero es conjunción y muy, adverbio.
 
 ? En "café con leche", ¿qué palabra es una preposición?
 = con
-> Une las palabras café y leche.
+> Une café y leche.
+
+? Relaciona cada conjunción con su clase.
+* Y → Copulativa
+* O → Disyuntiva
+* Pero → Adversativa
+* Porque → Causal
+> Las conjunciones unen palabras u oraciones.
 
 ? ¿Qué tipo de conjunción es "pero"?
 + Adversativa
@@ -93,7 +114,12 @@ La **conjunción** **une** palabras u oraciones.
 - Padres y hijos
 - Padres u hijos
 - Padres i hijos
-> "Y" se convierte en "e" ante palabras que empiezan por i- o hi-.
+> "Y" pasa a "e" ante palabras que empiezan por i- o hi-.
+
+? Completa: ¿Quieres siete [u] ocho caramelos? Vinieron Ana [e] Inés.
+- o
+- y
+> "O" pasa a "u" ante o- y "y" pasa a "e" ante i-.
 
 ? Los adverbios cambian de género y número.
 = falso
@@ -101,4 +127,39 @@ La **conjunción** **une** palabras u oraciones.
 
 ? "Porque" es una conjunción causal.
 = verdadero
-> Indica la causa: me abrigo porque hace frío.
+> Indica la causa.
+
+? Clasifica cada palabra.
+@ Adverbio: ayer | muy | cerca
+@ Preposición: hasta | según | tras
+@ Conjunción: y | pero | porque
+> Las tres son palabras invariables.
+
+? En "Corre muy deprisa", ¿qué palabras son adverbios?
++ Muy y deprisa
+- Solo corre
+- Corre y muy
+- Ninguna
+> Muy (cantidad) y deprisa (modo).
+
+? ¿Qué tipo de adverbio es "nunca"?
++ De negación (o de tiempo)
+- De lugar
+- De cantidad
+- De modo
+> Nunca también indica tiempo.
+
+? Completa con una preposición: Salimos [desde|de] el colegio [hasta|hacia] el parque.
+> Desde indica origen y hasta, final.
+
+? Las preposiciones unen palabras.
+= verdadero
+> Establecen una relación entre ellas.
+
+?* ¿En qué frases hay un adverbio de tiempo?
++ Llegaré mañana.
++ Siempre desayuno fruta.
++ Ahora no puedo.
+- Vivo cerca.
+- Habla despacio.
+> Cerca es de lugar y despacio, de modo.

@@ -44,38 +44,58 @@ Los planetas **no tienen luz propia**: reflejan la luz del Sol. Giran alrededor 
 
 # Examen
 
+preguntas: 20
+
 ? ¿Cómo se llama nuestra galaxia?
 = Vía Láctea | via lactea | la via lactea
-> Tiene forma de espiral y miles de millones de estrellas.
+> Tiene forma de espiral.
 
 ? ¿Qué es el Sol?
 + Una estrella
 - Un planeta
 - Un satélite
-- Un cometa
+- Una galaxia
 > Las estrellas tienen luz y calor propios.
 
-? ¿Cuál es el planeta más grande del sistema solar?
-+ Júpiter
-- Saturno
-- La Tierra
-- Neptuno
-> Júpiter es un gigante gaseoso.
+? Ordena los planetas desde el más cercano al Sol hasta el más lejano.
+1. Mercurio
+2. Venus
+3. Tierra
+4. Marte
+5. Júpiter
+6. Saturno
+7. Urano
+8. Neptuno
+> Truco: "Mi Vecina Tiene Muchos Juguetes Sobre Una Nube".
 
-? ¿Cuál es el orden correcto de los cuatro primeros planetas desde el Sol?
-+ Mercurio, Venus, Tierra, Marte
-- Venus, Mercurio, Marte, Tierra
-- Tierra, Marte, Venus, Mercurio
-- Mercurio, Tierra, Venus, Marte
-> Recuerda: "Mi Vecina Tiene Muchos Juguetes…".
+? Clasifica cada planeta.
+@ Interiores (rocosos): Mercurio | Venus | Tierra | Marte
+@ Exteriores (gaseosos): Júpiter | Saturno | Urano | Neptuno
+> El cinturón de asteroides separa los dos grupos.
+
+? Relaciona cada planeta con su característica.
+* Mercurio → El más cercano al Sol
+* Venus → El más caliente
+* Marte → El planeta rojo
+* Júpiter → El más grande
+* Saturno → Tiene grandes anillos
+> Neptuno es el más lejano.
 
 ? Los planetas tienen luz propia.
 = falso
-> Solo reflejan la luz del Sol. Las estrellas sí tienen luz propia.
+> Solo reflejan la luz del Sol.
 
 ? ¿Cómo se llaman los astros que giran alrededor de un planeta?
 = satélites | satelites | satelite
 > La Luna es el satélite de la Tierra.
+
+? Relaciona cada astro con su descripción.
+* Estrella → Bola de gas con luz y calor propios
+* Planeta → Gira alrededor del Sol y no tiene luz propia
+* Satélite → Gira alrededor de un planeta
+* Cometa → Bola de hielo y polvo que forma una cola al acercarse al Sol
+* Asteroide → Roca que gira alrededor del Sol
+> Todos forman parte del sistema solar, salvo las otras estrellas.
 
 ? ¿Dónde está el cinturón de asteroides?
 + Entre Marte y Júpiter
@@ -84,20 +104,65 @@ Los planetas **no tienen luz propia**: reflejan la luz del Sol. Giran alrededor 
 - Entre Mercurio y Venus
 > Separa los planetas interiores de los exteriores.
 
-? ¿Qué ocurre en un eclipse de Sol?
-+ La Luna se pone entre el Sol y la Tierra y tapa el Sol
-- La Tierra se pone entre el Sol y la Luna
-- El Sol se apaga un momento
-- La Luna desaparece
-> En el eclipse de Luna, es la Tierra la que se interpone.
+? ¿Qué es Plutón?
++ Un planeta enano
+- El noveno planeta del sistema solar
+- Un satélite de Neptuno
+- Una estrella pequeña
+> Antes se consideraba planeta.
 
-? ¿En qué fase vemos la Luna entera iluminada?
+? Ordena las fases de la Luna empezando por la luna nueva.
+1. Luna nueva
+2. Cuarto creciente
+3. Luna llena
+4. Cuarto menguante
+> El ciclo completo dura unos 28 días.
+
+? ¿En qué fase vemos la Luna completamente iluminada?
 + Luna llena
 - Luna nueva
 - Cuarto creciente
 - Cuarto menguante
-> En la luna nueva, en cambio, no la vemos.
+> En la luna nueva no la vemos.
+
+? La Luna nos enseña siempre la misma cara.
+= verdadero
+> Tarda lo mismo en girar sobre sí misma que en dar la vuelta a la Tierra.
+
+? Completa: En un eclipse de [Sol] la Luna se pone entre el Sol y la Tierra; en un eclipse de [Luna] la Tierra se pone entre el Sol y la Luna.
+- Tierra
+- Marte
+> En el eclipse de Luna, la Tierra le hace sombra.
+
+? ¿Qué son las constelaciones?
++ Grupos de estrellas que vistos desde la Tierra forman figuras
+- Grupos de planetas que giran juntos
+- Nubes de gas que rodean a la Tierra
+- Satélites artificiales que giran en órbita
+> La Osa Mayor y Orión son constelaciones.
+
+? ¿Cómo se llama el camino que sigue un planeta alrededor del Sol?
+= órbita | orbita | la órbita
+> Todos los planetas giran en su órbita.
+
+?* ¿Qué tiene la Luna?
++ Una cara que siempre vemos desde la Tierra
++ Fases según cómo la ilumina el Sol
+- Luz propia
+- Una atmósfera como la de la Tierra
+- Anillos como Saturno
+> La Luna no tiene luz propia ni atmósfera.
 
 ? Saturno es un planeta rocoso.
 = falso
-> Saturno es un planeta exterior gaseoso, famoso por sus anillos.
+> Es un planeta exterior gaseoso.
+
+? ¿Qué es el universo?
++ Todo lo que existe: estrellas, planetas, galaxias y el espacio
+- El conjunto de los ocho planetas
+- La galaxia en la que vivimos
+- El espacio que hay entre la Tierra y la Luna
+> Es tan grande que no sabemos dónde termina.
+
+? Completa: La Tierra es el [tercer|tercero|3] planeta desde el Sol y el único con [vida] conocida.
+> Tiene agua líquida, oxígeno y una temperatura adecuada.

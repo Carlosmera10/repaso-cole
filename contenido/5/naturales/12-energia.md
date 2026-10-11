@@ -45,60 +45,122 @@ La energía **no se crea ni se destruye, solo se transforma**. Por ejemplo:
 
 # Examen
 
+preguntas: 20
+
 ? ¿Qué es la energía?
 + La capacidad de los cuerpos para producir cambios
-- Solo la electricidad
-- Un tipo de combustible
-- La cantidad de materia de un cuerpo
+- La cantidad de materia que tiene un cuerpo
+- El espacio que ocupa un objeto
+- Solo la electricidad que usamos en casa
 > Con energía las cosas se mueven, se calientan o se iluminan.
 
-? ¿Qué energía tiene una pelota que rueda?
-+ Cinética
-- Potencial
-- Química
-- Nuclear
-> La energía cinética es la de los cuerpos en movimiento.
+? ¿En qué unidad se mide la energía?
++ En julios
+- En litros
+- En kilogramos
+- En grados
+> También se usan la caloría y el kilovatio hora.
 
-? ¿Qué tipo de energía tienen guardada los alimentos y las pilas?
-= química | quimica | energia quimica
-> Nuestro cuerpo la transforma en movimiento y calor.
+? Relaciona cada forma de energía con su ejemplo.
+* Cinética → Una pelota rodando
+* Potencial → El agua de un embalse
+* Química → Los alimentos y las pilas
+* Lumínica → La luz del Sol
+* Sonora → Un altavoz
+> La energía se presenta de muchas formas.
+
+? ¿Qué tipo de energía tienen los cuerpos en movimiento?
+= cinética | cinetica | energía cinética
+> Cuanto más rápido, más energía cinética.
+
+? ¿Qué tipo de energía tiene un objeto por estar en alto?
++ Potencial
+- Cinética
+- Nuclear
+- Sonora
+> Por ejemplo, el agua de un embalse.
 
 ? La energía ni se crea ni se destruye, solo se transforma.
 = verdadero
-> Es una de las leyes más importantes de la ciencia.
+> Es una ley fundamental de la ciencia.
 
-? ¿En qué transforma una bombilla la energía eléctrica?
-+ En luz y calor
-- En sonido
-- En energía química
-- En movimiento
-> Por eso las bombillas antiguas se calentaban tanto.
+? Relaciona cada aparato con la transformación de energía que realiza.
+* Bombilla → Eléctrica en luz y calor
+* Pila → Química en eléctrica
+* Altavoz → Eléctrica en sonora
+* Nuestro cuerpo → Química de los alimentos en movimiento y calor
+> Siempre hay una transformación de un tipo en otro.
 
-? ¿Cuál de estas fuentes de energía es renovable?
-+ El viento (eólica)
-- El petróleo
-- El carbón
-- El gas natural
-> Las renovables no se agotan: sol, viento, agua…
+? Clasifica cada fuente de energía.
+@ Renovables: solar | eólica | hidráulica | biomasa
+@ No renovables: carbón | petróleo | gas natural | uranio
+> Las renovables no se agotan.
 
 ? El petróleo es una fuente de energía renovable.
 = falso
 > Es un combustible fósil y se agota.
 
-? ¿Cómo se llama la energía que aprovecha el agua de los ríos y embalses?
-+ Hidráulica
-- Geotérmica
-- Solar
-- Biomasa
-> El agua mueve unas turbinas que producen electricidad.
+? ¿Cómo se llama la energía que aprovecha el viento?
+= eólica | eolica | energía eólica
+> Se obtiene con aerogeneradores.
+
+? Relaciona cada fuente renovable con su origen.
+* Solar → El Sol
+* Eólica → El viento
+* Hidráulica → El agua de ríos y embalses
+* Geotérmica → El calor del interior de la Tierra
+* Mareomotriz → Las mareas
+> Ninguna de ellas se agota.
 
 ? ¿Cómo se llaman el carbón, el petróleo y el gas natural?
 = combustibles fósiles | combustibles fosiles | fosiles | combustible fosil
 > Se formaron con restos de seres vivos de hace millones de años.
 
-? ¿Cuál es una buena forma de ahorrar energía?
-+ Apagar las luces que no usamos
-- Dejar el frigorífico abierto
-- Ir siempre en coche aunque sea cerca
+?* ¿Qué problemas causan los combustibles fósiles?
++ Contaminan el aire
++ Aumentan el calentamiento global
++ Se agotan
+- Producen agua limpia
+- Son renovables
+> Por eso conviene usar energías renovables.
+
+? Completa: La energía [química|quimica] de los alimentos se transforma en nuestro cuerpo en movimiento y [calor].
+> Por eso necesitamos comer para tener energía.
+
+?* ¿Cuáles de estas acciones ahorran energía?
++ Apagar las luces que no se usan
++ Usar bombillas LED
++ Ir en bici o en transporte público
+- Dejar la puerta del frigorífico abierta
 - Dejar la tele encendida sin verla
-> Cada pequeño gesto ayuda a cuidar el planeta.
+> Cada pequeño gesto cuenta.
+
+? ¿Qué energía se obtiene de los restos de plantas y madera?
++ Biomasa
+- Geotérmica
+- Nuclear
+- Mareomotriz
+> Es una energía renovable.
+
+? La energía nuclear está guardada en el núcleo de los átomos.
+= verdadero
+> Se aprovecha en las centrales nucleares, usando uranio.
+
+? ¿En qué unidad se mide normalmente la electricidad que gastamos en casa?
++ En kilovatios hora
+- En calorías
+- En litros
+- En grados centígrados
+> Aparece en la factura de la luz.
+
+? Ordena la transformación de energía en una central hidráulica.
+1. El agua está almacenada en el embalse
+2. El agua cae y se mueve con fuerza
+3. El agua hace girar las turbinas
+4. Se produce electricidad
+> La energía potencial se convierte en cinética y luego en eléctrica.
+
+? Completa: La energía del viento se llama [eólica|eolica] y la de las mareas, [mareomotriz].
+- solar
+- geotérmica
+> Las dos son renovables.

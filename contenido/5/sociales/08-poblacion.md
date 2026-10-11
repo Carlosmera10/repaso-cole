@@ -45,63 +45,120 @@ Es un gráfico que muestra la población por **edades** y por **sexo**: a la izq
 
 # Examen
 
+preguntas: 20
+
 ? ¿Qué es la población?
 + El conjunto de personas que viven en un lugar
 - El número de casas de una ciudad
 - La superficie de un país
-- El número de nacimientos de un año
-> Se cuenta mediante censos y padrones.
+- Los nacimientos de un año
+> Se cuenta con censos y padrones.
+
+? ¿Qué organismo hace los censos de población en España?
++ El Instituto Nacional de Estadística (INE)
+- El Ayuntamiento de Madrid
+- La Real Academia Española
+- El Banco de España
+> El INE recoge y publica los datos de población.
 
 ? ¿Qué indica la densidad de población?
 + Cuántas personas viven de media en cada km²
-- Cuántos niños nacen al año
+- Cuántos niños nacen cada año
 - Cuántas personas trabajan
-- Cuántas ciudades hay en un país
-> Se calcula dividiendo los habitantes entre la superficie.
+- Cuántas ciudades tiene un país
+> Se calcula dividiendo habitantes entre superficie.
 
 ? Un municipio tiene 3.000 habitantes y 60 km². ¿Cuál es su densidad?
-+ 50 habitantes/km²
-- 180 habitantes/km²
-- 30 habitantes/km²
-- 500 habitantes/km²
-> 3.000 ÷ 60 = 50 habitantes por kilómetro cuadrado.
+= 50 | 50 habitantes/km2 | 50 hab/km2
+> 3.000 ÷ 60 = 50 habitantes por km².
+
+? Un pueblo tiene 2.000 habitantes y 50 km². ¿Cuál es su densidad?
++ 40 habitantes/km²
+- 100 habitantes/km²
+- 25 habitantes/km²
+- 4.000 habitantes/km²
+> 2.000 ÷ 50 = 40.
+
+? Clasifica cada zona según su población.
+@ Muy poblada: costa mediterránea | Comunidad de Madrid | islas
+@ Poco poblada: interior de Castilla y León | Soria | Teruel
+> Se habla de la "España vaciada" en las zonas del interior.
 
 ? ¿Qué comunidad autónoma tiene más habitantes?
 + Andalucía
 - Madrid
 - Cataluña
 - Castilla y León
-> Andalucía tiene más de 8 millones de habitantes.
+> Tiene más de 8 millones de habitantes.
 
-? ¿Cómo se llama la llegada de personas a un lugar para vivir en él?
-= inmigración | inmigracion | la inmigracion
-> Salir del lugar de origen para vivir en otro se llama emigración.
+? Relaciona cada concepto con su definición.
+* Natalidad → Número de nacimientos en un año
+* Mortalidad → Número de fallecimientos en un año
+* Crecimiento natural → Nacimientos menos fallecimientos
+* Emigración → Salir del lugar de origen para vivir en otro
+* Inmigración → Llegar a un lugar para vivir en él
+> Así cambia la población.
+
+? ¿Cómo se llama la marcha de personas del campo a la ciudad?
+= éxodo rural | exodo rural
+> Ocurrió sobre todo en el siglo XX.
 
 ? El interior de España está más poblado que la costa.
 = falso
-> La costa, las islas y Madrid son las zonas más pobladas; el interior está poco poblado.
+> La costa, las islas y Madrid son las zonas más pobladas.
 
-? ¿Cómo se llama la marcha de personas del campo a la ciudad?
-+ Éxodo rural
-- Natalidad
-- Crecimiento natural
-- Densidad
-> Ocurrió sobre todo en la segunda mitad del siglo XX.
-
-? ¿Qué es el crecimiento natural?
-+ La diferencia entre nacimientos y fallecimientos
-- La suma de inmigrantes y emigrantes
-- El número de personas que trabajan
-- El número de habitantes por km²
-> Si nacen más personas de las que mueren, el crecimiento natural es positivo.
-
-? La población de España está envejecida porque nacen pocos niños y se vive muchos años.
+? La población de España está envejecida.
 = verdadero
-> España tiene una de las esperanzas de vida más altas del mundo.
+> Nacen pocos niños y se vive muchos años.
+
+? Completa: En un año nacen 500 personas y mueren 300. El crecimiento natural es de [200] personas.
+> Nacimientos − fallecimientos = 500 − 300 = 200.
+
+? Clasifica a cada persona según su actividad.
+@ Población activa: una médica que trabaja | un albañil que busca empleo
+@ Población inactiva: un estudiante | una jubilada
+> La población activa trabaja o busca trabajo.
 
 ? Un estudiante que no trabaja forma parte de la población…
 + Inactiva
 - Activa
 - Desempleada
 - Rural
-> La población activa es la que trabaja o busca trabajo.
+> No trabaja ni busca empleo.
+
+? ¿Qué es la población desempleada?
++ Personas que quieren trabajar pero no encuentran empleo
+- Personas que han dejado de trabajar por la edad
+- Personas que estudian en la universidad
+- Personas que trabajan en el campo
+> También se llama población parada.
+
+? ¿Qué forma tiene la pirámide de población de España?
++ De bulbo: base estrecha y centro ancho
+- De triángulo: base muy ancha y punta estrecha
+- De rectángulo: todas las edades iguales
+- De círculo
+> La base estrecha indica que nacen pocos niños.
+
+? Completa: En la pirámide de población, los [hombres] se representan a la izquierda y las [mujeres] a la derecha.
+- niños
+- mayores
+> Abajo están los más jóvenes y arriba los mayores.
+
+?* ¿Por qué está envejecida la población española?
++ Porque nacen pocos niños
++ Porque la esperanza de vida es muy alta
+- Porque llegan muchos inmigrantes jóvenes
+- Porque hay muchos estudiantes
+> La inmigración, en cambio, aporta población joven.
+
+? ¿Cómo aumenta sobre todo la población de España en los últimos años?
++ Gracias a la inmigración
+- Gracias a la emigración
+- Gracias a que nacen muchos niños
+- Gracias al éxodo rural
+> El crecimiento natural es muy bajo.
+
+? ¿Cuál es la ciudad más poblada de España?
+= Madrid
+> Barcelona es la segunda.

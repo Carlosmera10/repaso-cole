@@ -16,6 +16,8 @@ var indice = JSON.parse(fs.readFileSync(path.join(dirContenido, 'indice.json'), 
 var errores = 0;
 var avisos = 0;
 var totalPreguntas = 0;
+var resumenTipos = {};
+function totalTipos(t) { Object.keys(t).forEach(function (k) { resumenTipos[k] = (resumenTipos[k] || 0) + t[k]; }); }
 var ids = {};
 var archivos = {};
 var asignaturas = indice.asignaturas.map(function (a) { return a.id; });
@@ -44,14 +46,24 @@ indice.temas.forEach(function (t) {
 
   var ps = tema.examen.preguntas;
   totalPreguntas += ps.length;
-  if (ps.length < 8) aviso(nombre, 'solo tiene ' + ps.length + ' preguntas (mínimo recomendado: 8)');
+  if (ps.length < 20) aviso(nombre, 'solo tiene ' + ps.length + ' preguntas (mínimo recomendado: 20)');
   if (tema.examen.config.preguntas > ps.length) aviso(nombre, 'pide ' + tema.examen.config.preguntas + ' preguntas por examen pero solo hay ' + ps.length);
+
+  var tipos = {};
+  ps.forEach(function (p) { tipos[p.tipo] = (tipos[p.tipo] || 0) + 1; });
+  if (Object.keys(tipos).length < 4) aviso(nombre, 'poca variedad: solo usa ' + Object.keys(tipos).join(', '));
+  ps.forEach(function (p) {
+    if (p.tipo === 'huecos' && p.conMenu) {
+      p.huecos.forEach(function (h) { if (p.incorrectas.indexOf(h[0]) >= 0) error(nombre, 'una palabra de relleno es también respuesta: ' + h[0]); });
+    }
+  });
+  totalTipos(tipos);
 
   var vistas = {};
   ps.forEach(function (p) {
     if (vistas[p.id]) error(nombre, 'pregunta repetida: ' + p.texto);
     vistas[p.id] = true;
-    if (p.tipo === 'test') {
+    if (p.tipo === 'test' || p.tipo === 'multiple') {
       var todas = p.correctas.concat(p.incorrectas);
       var unicas = todas.filter(function (x, i) { return todas.indexOf(x) === i; });
       if (unicas.length !== todas.length) error(nombre, 'opciones repetidas en: ' + p.texto);
@@ -76,5 +88,6 @@ indice.temas.forEach(function (t) {
 
 (indice.ahora || []).forEach(function (id) { if (!ids[id]) error('ahora', 'el tema "' + id + '" no existe'); });
 
-console.log('\n' + indice.temas.length + ' temas · ' + totalPreguntas + ' preguntas · ' + errores + ' errores · ' + avisos + ' avisos');
+console.log('\nTipos: ' + JSON.stringify(resumenTipos));
+console.log(indice.temas.length + ' temas · ' + totalPreguntas + ' preguntas · ' + errores + ' errores · ' + avisos + ' avisos');
 process.exit(errores ? 1 : 0);

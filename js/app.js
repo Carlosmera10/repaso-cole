@@ -318,6 +318,75 @@
     });
   }
 
+  /* ================= Examen ================= */
+
+  var TIPOS = {
+    test: 'Elige la respuesta',
+    multiple: 'Elige todas las correctas',
+    vf: '¿Verdadero o falso?',
+    escribir: 'Escribe la respuesta',
+    huecos: 'Completa los huecos',
+    ordenar: 'Ordena',
+    clasificar: 'Clasifica',
+    relacionar: 'Relaciona'
+  };
+
+  function iguales(a, b) {
+    return a.length === b.length && a.every(function (x, i) { return x === b[i]; });
+  }
+
+  // Prepara una copia de la pregunta con el orden aleatorio y el estado de las respuestas.
+  function preparar(q) {
+    var c = Object.assign({}, q);
+    c.estado = {};
+    if (q.tipo === 'test' || q.tipo === 'multiple') {
+      c.opciones = barajar(q.correctas.concat(q.incorrectas));
+      c.estado.elegidas = [];
+    } else if (q.tipo === 'ordenar') {
+      var piezas = barajar(q.orden);
+      for (var n = 0; n < 5 && iguales(piezas, q.orden); n++) piezas = barajar(q.orden);
+      c.piezas = piezas;
+      c.estado.secuencia = [];
+    } else if (q.tipo === 'clasificar') {
+      var items = [];
+      q.categorias.forEach(function (cat, k) { cat.elementos.forEach(function (e) { items.push({ texto: e, cat: k }); }); });
+      c.items = barajar(items);
+      c.estado.asignado = {};
+    } else if (q.tipo === 'relacionar') {
+      c.izquierdas = barajar(q.pares);
+      c.derechas = barajar(q.pares.map(function (x) { return x.der; }));
+      c.estado.sel = {};
+    } else if (q.tipo === 'huecos') {
+      c.segmentos = q.texto.split(/\[[^\]]+\]/);
+      if (q.conMenu) {
+        var pal = q.huecos.map(function (h) { return h[0]; }).concat(q.incorrectas);
+        c.menu = barajar(pal.filter(function (x, i) { return pal.indexOf(x) === i; }));
+      }
+      c.estado.valores = [];
+    }
+    return c;
+  }
+
+  function solucionTexto(q) {
+    switch (q.tipo) {
+      case 'test': return q.correctas[0];
+      case 'multiple': return q.correctas.join(' · ');
+      case 'vf': return q.valor ? 'Verdadero' : 'Falso';
+      case 'escribir': return q.respuestas[0];
+      case 'ordenar': return q.orden.join(' → ');
+      case 'clasificar': return q.categorias.map(function (c) { return '**' + c.nombre + ':** ' + c.elementos.join(', '); }).join(' · ');
+      case 'relacionar': return q.pares.map(function (x) { return x.izq + ' → ' + x.der; }).join(' · ');
+      case 'huecos':
+        var k = 0;
+        return q.texto.replace(/\[[^\]]+\]/g, function () { return '**' + q.huecos[k++][0] + '**'; });
+    }
+    return '';
+  }
+
+  function textoPregunta(q) {
+    return q.tipo === 'huecos' ? q.texto.replace(/\[[^\]]+\]/g, '___') : q.texto;
+  }
+
   function empezarExamen(id, soloFallos) {
     var p = perfilActivo();
     var t = tema(id);
@@ -328,18 +397,14 @@
         var f = leerProgreso(p.id, id).fallos || [];
         elegidas = barajar(validas.filter(function (q) { return f.indexOf(q.id) >= 0; }));
       } else {
-        elegidas = barajar(validas).slice(0, c.examen.config.preguntas || 10);
+        elegidas = barajar(validas).slice(0, c.examen.config.preguntas || 20);
       }
       if (!elegidas.length) return ir('#/tema/' + id);
       if (!soloFallos) { progresoDe(p.id, id).leido = true; guardar(); }
       sesion = {
         temaId: id,
         repaso: !!soloFallos,
-        preguntas: elegidas.map(function (q) {
-          var copia = Object.assign({}, q);
-          if (q.tipo === 'test') copia.opciones = barajar(q.correctas.concat(q.incorrectas));
-          return copia;
-        }),
+        preguntas: elegidas.map(preparar),
         i: 0,
         aciertos: 0,
         respuestas: [],
@@ -347,6 +412,118 @@
       };
       if (location.hash === '#/examen/' + id) vistaExamen(id); else ir('#/examen/' + id);
     });
+  }
+
+  function botonComprobar(activo) {
+    return '<div class="botones"><button class="boton" data-accion="comprobar"' + (activo ? '' : ' disabled') + '>Comprobar ✔</button></div>';
+  }
+
+  function cuerpoPregunta(q, r) {
+    var letras = 'ABCDEFGH';
+    var e = q.estado;
+
+    if (q.tipo === 'test') {
+      return '<div class="opciones">' + q.opciones.map(function (op, k) {
+        var clase = '';
+        if (r) {
+          if (op === q.correctas[0]) clase = ' opcion--bien';
+          else if (op === r.tuya) clase = ' opcion--mal';
+        }
+        return '<button class="opcion' + clase + '" data-accion="responder" data-valor="' + esc(op) + '"' + (r ? ' disabled' : '') + '>' +
+          '<span class="opcion__letra">' + letras[k] + '</span><span>' + F.enLinea(op) + '</span></button>';
+      }).join('') + '</div>';
+    }
+
+    if (q.tipo === 'multiple') {
+      return '<div class="opciones">' + q.opciones.map(function (op, k) {
+        var elegida = e.elegidas.indexOf(op) >= 0;
+        var correcta = q.correctas.indexOf(op) >= 0;
+        var clase = elegida ? ' opcion--elegida' : '';
+        if (r) clase = correcta ? (elegida ? ' opcion--bien' : ' opcion--falta') : (elegida ? ' opcion--mal' : '');
+        return '<button class="opcion' + clase + '" data-accion="marcar" data-k="' + k + '" aria-pressed="' + elegida + '"' + (r ? ' disabled' : '') + '>' +
+          '<span class="opcion__letra opcion__casilla">' + (elegida ? '✓' : '') + '</span><span>' + F.enLinea(op) + '</span></button>';
+      }).join('') + '</div>' + (r ? '' : botonComprobar(e.elegidas.length > 0));
+    }
+
+    if (q.tipo === 'vf') {
+      return '<div class="opciones opciones--vf">' + [['true', '👍', 'Verdadero'], ['false', '👎', 'Falso']].map(function (o) {
+        var clase = '';
+        if (r) {
+          if (String(q.valor) === o[0]) clase = ' opcion--bien';
+          else if (r.tuya === o[0]) clase = ' opcion--mal';
+        }
+        return '<button class="opcion' + clase + '" data-accion="responder" data-valor="' + o[0] + '"' + (r ? ' disabled' : '') + '><span>' + o[1] + '</span><span>' + o[2] + '</span></button>';
+      }).join('') + '</div>';
+    }
+
+    if (q.tipo === 'escribir') {
+      return '<form class="escribir" data-accion="escribir">' +
+        '<input type="text" name="r" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Escribe aquí tu respuesta" ' +
+        (r ? 'value="' + esc(r.tuya) + '" disabled' : 'autofocus') + '>' +
+        (r ? '' : '<button class="boton" type="submit">OK</button>') + '</form>';
+    }
+
+    if (q.tipo === 'ordenar') {
+      var huecos = q.piezas.map(function (_, pos) {
+        var k = e.secuencia[pos];
+        var hay = k !== undefined;
+        var clase = '';
+        if (r && hay) clase = q.piezas[k] === q.orden[pos] ? ' ranura--bien' : ' ranura--mal';
+        return '<li class="ranura' + (hay ? ' ranura--llena' : '') + clase + '">' +
+          '<span class="ranura__num">' + (pos + 1) + '</span>' +
+          (hay ? '<button class="ranura__pieza" data-accion="quitar" data-pos="' + pos + '"' + (r ? ' disabled' : '') + '>' + F.enLinea(q.piezas[k]) + (r ? '' : ' <span aria-hidden="true">✕</span>') + '</button>'
+               : '<span class="ranura__vacia">Toca una pieza</span>') + '</li>';
+      }).join('');
+      var libres = q.piezas.map(function (txt, k) {
+        if (e.secuencia.indexOf(k) >= 0) return '';
+        return '<button class="pieza" data-accion="pieza" data-k="' + k + '">' + F.enLinea(txt) + '</button>';
+      }).join('');
+      return '<ol class="ranuras">' + huecos + '</ol>' +
+        (r ? '' : '<div class="piezas">' + libres + '</div>' + botonComprobar(e.secuencia.length === q.piezas.length));
+    }
+
+    if (q.tipo === 'clasificar') {
+      return '<div class="clasif">' + q.items.map(function (it, k) {
+        var elegido = e.asignado[k];
+        var clase = '';
+        if (r) clase = elegido === it.cat ? ' clasif__item--bien' : ' clasif__item--mal';
+        return '<div class="clasif__item' + clase + '"><div class="clasif__texto">' + F.enLinea(it.texto) +
+          (r && elegido !== it.cat ? ' <span class="clasif__sol">→ ' + esc(q.categorias[it.cat].nombre) + '</span>' : '') + '</div>' +
+          '<div class="clasif__cats">' + q.categorias.map(function (cat, ci) {
+            return '<button class="chip" data-accion="categoria" data-item="' + k + '" data-cat="' + ci + '" aria-pressed="' + (elegido === ci) + '"' + (r ? ' disabled' : '') + '>' + esc(cat.nombre) + '</button>';
+          }).join('') + '</div></div>';
+      }).join('') + '</div>' + (r ? '' : botonComprobar(Object.keys(e.asignado).length === q.items.length));
+    }
+
+    if (q.tipo === 'relacionar') {
+      return '<div class="relac">' + q.izquierdas.map(function (par, k) {
+        var sel = e.sel[k] || '';
+        var clase = r ? (sel === par.der ? ' relac__fila--bien' : ' relac__fila--mal') : '';
+        return '<label class="relac__fila' + clase + '"><span class="relac__izq">' + F.enLinea(par.izq) + '</span>' +
+          '<select data-par="' + k + '"' + (r ? ' disabled' : '') + '><option value="">Elige…</option>' +
+          q.derechas.map(function (d) { return '<option' + (d === sel ? ' selected' : '') + '>' + esc(d) + '</option>'; }).join('') +
+          '</select>' + (r && sel !== par.der ? '<span class="relac__sol">✔ ' + esc(par.der) + '</span>' : '') + '</label>';
+      }).join('') + '</div>' + (r ? '' : botonComprobar(Object.keys(e.sel).filter(function (k) { return e.sel[k]; }).length === q.izquierdas.length));
+    }
+
+    if (q.tipo === 'huecos') {
+      var html = '';
+      q.segmentos.forEach(function (seg, k) {
+        html += F.enLinea(seg);
+        if (k >= q.huecos.length) return;
+        var v = e.valores[k] || '';
+        var clase = r ? (r.detalle[k] ? ' hueco--bien' : ' hueco--mal') : '';
+        if (q.conMenu) {
+          html += '<select class="hueco' + clase + '" data-hueco="' + k + '"' + (r ? ' disabled' : '') + '><option value="">…</option>' +
+            q.menu.map(function (w) { return '<option' + (w === v ? ' selected' : '') + '>' + esc(w) + '</option>'; }).join('') + '</select>';
+        } else {
+          html += '<input class="hueco' + clase + '" data-hueco="' + k + '" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" value="' + esc(v) + '"' + (r ? ' disabled' : '') + '>';
+        }
+      });
+      return '<form class="huecos" data-accion="huecos"><p class="huecos__texto">' + html + '</p>' +
+        (r ? '' : '<div class="botones"><button class="boton" type="submit">Comprobar ✔</button></div>') + '</form>';
+    }
+    return '';
   }
 
   function vistaExamen(id) {
@@ -358,58 +535,39 @@
     var q = sesion.preguntas[sesion.i];
     var r = sesion.respondida;
     var total = sesion.preguntas.length;
-    var cuerpo = '';
-    var letras = 'ABCDEFG';
-
-    if (q.tipo === 'test') {
-      cuerpo = '<div class="opciones">' + q.opciones.map(function (op, k) {
-        var clase = '';
-        if (r) {
-          if (op === q.correctas[0]) clase = ' opcion--bien';
-          else if (op === r.tuya) clase = ' opcion--mal';
-        }
-        return '<button class="opcion' + clase + '" data-accion="responder" data-valor="' + esc(op) + '"' + (r ? ' disabled' : '') + '>' +
-          '<span class="opcion__letra">' + letras[k] + '</span><span>' + F.enLinea(op) + '</span></button>';
-      }).join('') + '</div>';
-    } else if (q.tipo === 'vf') {
-      cuerpo = '<div class="opciones opciones--vf">' + [['true', '👍', 'Verdadero'], ['false', '👎', 'Falso']].map(function (o) {
-        var clase = '';
-        if (r) {
-          if (String(q.valor) === o[0]) clase = ' opcion--bien';
-          else if (r.tuya === o[0]) clase = ' opcion--mal';
-        }
-        return '<button class="opcion' + clase + '" data-accion="responder" data-valor="' + o[0] + '"' + (r ? ' disabled' : '') + '><span>' + o[1] + '</span><span>' + o[2] + '</span></button>';
-      }).join('') + '</div>';
-    } else {
-      cuerpo = '<form class="escribir" data-accion="escribir">' +
-        '<input type="text" name="r" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Escribe aquí tu respuesta" ' +
-        (r ? 'value="' + esc(r.tuya) + '" disabled' : 'autofocus') + '>' +
-        (r ? '' : '<button class="boton" type="submit">OK</button>') + '</form>';
-    }
 
     var feedback = '';
     if (r) {
-      var solucion = q.tipo === 'test' ? q.correctas[0] : q.tipo === 'vf' ? (q.valor ? 'Verdadero' : 'Falso') : q.respuestas[0];
       feedback = '<div class="respuesta ' + (r.ok ? 'respuesta--bien' : 'respuesta--mal') + '">' +
         '<div class="respuesta__titulo">' + (r.ok ? '¡Correcto! 🎉' : 'Casi… 💪') + '</div>' +
-        (r.ok ? '' : '<p><strong>Respuesta correcta:</strong> ' + F.enLinea(solucion) + '</p>') +
+        (r.ok ? '' : '<p><strong>Respuesta correcta:</strong> ' + F.enLinea(solucionTexto(q)) + '</p>') +
         (q.explicacion ? '<p>' + F.enLinea(q.explicacion) + '</p>' : '') + '</div>' +
         '<div class="botones"><button class="boton" data-accion="siguiente">' + (sesion.i + 1 < total ? 'Siguiente →' : 'Ver mi nota 🏁') + '</button></div>';
     }
 
-    var tipos = { test: 'Elige la respuesta', vf: '¿Verdadero o falso?', escribir: 'Escribe la respuesta' };
-
+    var scroll = window.scrollY;
     pintar(
       barra('#/tema/' + id, (sesion.repaso ? '🔁 Repaso · ' : '✏️ Examen · ') + esc(t.titulo), false) +
       '<div class="examen__cabeza"><span>' + (sesion.i + 1) + '/' + total + '</span>' + barraProgreso(Math.round((sesion.i / total) * 100)) + '<span>✅ ' + sesion.aciertos + '</span></div>' +
-      '<div class="tarjeta pregunta"><div class="pregunta__tipo">' + tipos[q.tipo] + '</div>' +
-      '<div class="pregunta__texto">' + F.enLinea(q.texto) + '</div>' + cuerpo + feedback + '</div>',
+      '<div class="tarjeta pregunta"><div class="pregunta__tipo">' + TIPOS[q.tipo] + '</div>' +
+      (q.tipo === 'huecos' ? '' : '<div class="pregunta__texto">' + F.enLinea(q.texto) + '</div>') +
+      cuerpoPregunta(q, r) + feedback + '</div>',
       a.color
     );
+    window.scrollTo(0, scroll);
     if (!r && q.tipo === 'escribir') {
       var inp = app.querySelector('input');
       if (inp) inp.focus();
     }
+  }
+
+  function registrar(q, ok, tuya, detalle) {
+    if (ok) sesion.aciertos++;
+    sesion.respondida = { tuya: tuya, ok: ok, detalle: detalle };
+    sesion.respuestas.push({ q: q, ok: ok, tuya: tuya });
+    vistaExamen(sesion.temaId);
+    var fb = app.querySelector('.respuesta');
+    if (fb && fb.scrollIntoView) fb.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }
 
   function responder(valor) {
@@ -419,12 +577,55 @@
     if (q.tipo === 'test') ok = valor === q.correctas[0];
     else if (q.tipo === 'vf') ok = String(q.valor) === valor;
     else ok = F.comprobarEscrita(q, valor);
-    if (ok) sesion.aciertos++;
-    sesion.respondida = { tuya: valor, ok: ok };
-    sesion.respuestas.push({ q: q, ok: ok, tuya: valor });
+    registrar(q, ok, valor);
+  }
+
+  function comprobar() {
+    if (!sesion || sesion.respondida) return;
+    var q = sesion.preguntas[sesion.i];
+    var e = q.estado;
+    var ok, tuya, detalle;
+    if (q.tipo === 'multiple') {
+      ok = e.elegidas.length === q.correctas.length && e.elegidas.every(function (x) { return q.correctas.indexOf(x) >= 0; });
+      tuya = e.elegidas.join(' · ');
+    } else if (q.tipo === 'ordenar') {
+      var orden = e.secuencia.map(function (k) { return q.piezas[k]; });
+      ok = iguales(orden, q.orden);
+      tuya = orden.join(' → ');
+    } else if (q.tipo === 'clasificar') {
+      ok = q.items.every(function (it, k) { return e.asignado[k] === it.cat; });
+      tuya = q.items.map(function (it, k) { return it.texto + ' → ' + (e.asignado[k] !== undefined ? q.categorias[e.asignado[k]].nombre : '?'); }).join(' · ');
+    } else if (q.tipo === 'relacionar') {
+      ok = q.izquierdas.every(function (par, k) { return e.sel[k] === par.der; });
+      tuya = q.izquierdas.map(function (par, k) { return par.izq + ' → ' + (e.sel[k] || '?'); }).join(' · ');
+    } else if (q.tipo === 'huecos') {
+      app.querySelectorAll('[data-hueco]').forEach(function (el) { e.valores[Number(el.dataset.hueco)] = el.value; });
+      detalle = q.huecos.map(function (h, k) {
+        var v = e.valores[k] || '';
+        return q.conMenu ? h.indexOf(v) >= 0 : F.comprobarEscrita({ respuestas: h }, v);
+      });
+      ok = detalle.every(Boolean);
+      tuya = q.huecos.map(function (_, k) { return e.valores[k] || '(en blanco)'; }).join(' · ');
+    } else return;
+    registrar(q, ok, tuya, detalle);
+  }
+
+  function interaccion(acc, el) {
+    if (!sesion || sesion.respondida) return;
+    var q = sesion.preguntas[sesion.i];
+    var e = q.estado;
+    if (acc === 'marcar') {
+      var op = q.opciones[Number(el.dataset.k)];
+      var i = e.elegidas.indexOf(op);
+      if (i >= 0) e.elegidas.splice(i, 1); else e.elegidas.push(op);
+    } else if (acc === 'pieza') {
+      e.secuencia.push(Number(el.dataset.k));
+    } else if (acc === 'quitar') {
+      e.secuencia.splice(Number(el.dataset.pos), 1);
+    } else if (acc === 'categoria') {
+      e.asignado[Number(el.dataset.item)] = Number(el.dataset.cat);
+    }
     vistaExamen(sesion.temaId);
-    var fb = app.querySelector('.respuesta');
-    if (fb && fb.scrollIntoView) fb.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }
 
   function vistaResultado() {
@@ -462,10 +663,9 @@
 
     var fallos = sesion.respuestas.filter(function (x) { return !x.ok; }).map(function (x) {
       var q = x.q;
-      var sol = q.tipo === 'test' ? q.correctas[0] : q.tipo === 'vf' ? (q.valor ? 'Verdadero' : 'Falso') : q.respuestas[0];
       var tuya = q.tipo === 'vf' ? (x.tuya === 'true' ? 'Verdadero' : 'Falso') : x.tuya;
-      return '<li class="tarjeta fallo"><div class="fallo__pregunta">' + F.enLinea(q.texto) + '</div>' +
-        '<div class="fallo__bien">✔ ' + F.enLinea(sol) + '</div>' +
+      return '<li class="tarjeta fallo"><div class="fallo__pregunta">' + F.enLinea(textoPregunta(q)) + '</div>' +
+        '<div class="fallo__bien">✔ ' + F.enLinea(solucionTexto(q)) + '</div>' +
         '<div class="fallo__tuya">✘ Tu respuesta: ' + esc(tuya || '(en blanco)') + '</div>' +
         (q.explicacion ? '<p>' + F.enLinea(q.explicacion) + '</p>' : '') + '</li>';
     }).join('');
@@ -597,6 +797,8 @@
     if (acc === 'empezar-examen') { empezarExamen(el.dataset.id, false); return; }
     if (acc === 'repasar-fallos') { empezarExamen(el.dataset.id, true); return; }
     if (acc === 'responder') { responder(el.dataset.valor); return; }
+    if (acc === 'comprobar') { comprobar(); return; }
+    if (acc === 'marcar' || acc === 'pieza' || acc === 'quitar' || acc === 'categoria') { interaccion(acc, el); return; }
     if (acc === 'siguiente') { sesion.i++; sesion.respondida = null; vistaExamen(sesion.temaId); window.scrollTo(0, 0); return; }
     if (acc === 'borrar-progreso') {
       if (confirm('¿Seguro que quieres borrar todo tu progreso? No se puede deshacer.')) {
@@ -612,7 +814,21 @@
     if (ev.key === 'Enter' && ev.target.matches('.perfil')) ev.target.click();
   });
 
+  app.addEventListener('change', function (ev) {
+    var el = ev.target;
+    if (!sesion || sesion.respondida) return;
+    var q = sesion.preguntas[sesion.i];
+    if (el.dataset.par !== undefined) { q.estado.sel[Number(el.dataset.par)] = el.value; vistaExamen(sesion.temaId); }
+    else if (el.dataset.hueco !== undefined) { q.estado.valores[Number(el.dataset.hueco)] = el.value; }
+  });
+
+  app.addEventListener('input', function (ev) {
+    var el = ev.target;
+    if (sesion && !sesion.respondida && el.dataset.hueco !== undefined) sesion.preguntas[sesion.i].estado.valores[Number(el.dataset.hueco)] = el.value;
+  });
+
   app.addEventListener('submit', function (ev) {
+    if (ev.target.dataset.accion === 'huecos') { ev.preventDefault(); comprobar(); return; }
     if (ev.target.dataset.accion === 'escribir') {
       ev.preventDefault();
       var v = ev.target.querySelector('input').value;

@@ -40,63 +40,134 @@ Algunos hongos se comen (champiñón), otros sirven para hacer **pan** y **cerve
 
 # Examen
 
-? ¿Cuántos reinos de seres vivos hay?
-+ Cinco
-- Tres
-- Dos
-- Siete
+preguntas: 20
+
+? ¿En cuántos reinos se clasifican los seres vivos?
+= 5 | cinco
 > Animales, plantas, hongos, protoctistas y moneras.
 
-? ¿Qué seres vivos fabrican su propio alimento con la fotosíntesis?
-+ Las plantas
-- Los hongos
-- Los animales
-- Las bacterias de la leche
-> Las plantas usan la luz del sol para fabricar su alimento.
+? Clasifica cada ser vivo en su reino.
+@ Animales: águila | mariposa | sardina
+@ Plantas: pino | trigo | helecho
+@ Hongos: champiñón | moho | levadura
+> Los hongos no hacen la fotosíntesis.
 
-? ¿A qué reino pertenece el champiñón?
-+ Hongos
-- Plantas
-- Animales
-- Moneras
-> Los hongos no hacen fotosíntesis: se alimentan de restos de otros seres vivos.
+? Relaciona cada reino con una característica.
+* Plantas → Fabrican su alimento con la fotosíntesis
+* Hongos → Se alimentan de restos de otros seres vivos
+* Moneras → Unicelulares y sin núcleo
+* Animales → Se alimentan de otros seres vivos y casi todos se desplazan
+> Cada reino tiene células y formas de alimentarse distintas.
 
-? Las bacterias son seres unicelulares sin núcleo.
-= verdadero
+? ¿Qué seres vivos son unicelulares y no tienen núcleo?
++ Las bacterias
+- Las amebas
+- Las levaduras
+- Las algas
 > Pertenecen al reino de las moneras.
+
+? ¿A qué reino pertenecen las amebas y los paramecios?
++ Protoctistas
+- Moneras
+- Hongos
+- Plantas
+> Son unicelulares con núcleo.
+
+? Los hongos hacen la fotosíntesis como las plantas.
+= falso
+> Los hongos se alimentan de restos de otros seres vivos.
 
 ? ¿Cómo se llaman los animales que tienen columna vertebral?
 = vertebrados | vertebrado
-> Hay cinco grupos: mamíferos, aves, reptiles, anfibios y peces.
+> Hay cinco grupos de vertebrados.
 
-? ¿Qué grupo de vertebrados tiene el cuerpo cubierto de plumas?
-+ Las aves
+? Clasifica cada animal en su grupo de vertebrados.
+@ Mamíferos: delfín | murciélago
+@ Aves: pingüino | gallina
+@ Reptiles: lagarto | tortuga
+@ Anfibios: rana | salamandra
+@ Peces: tiburón | trucha
+> ¡Ojo! El delfín es un mamífero y el pingüino, un ave.
+
+? Relaciona cada grupo con la cubierta de su piel.
+* Mamíferos → Pelo
+* Aves → Plumas
+* Reptiles → Escamas
+* Anfibios → Piel desnuda y húmeda
+> Los peces también tienen escamas.
+
+?* ¿Qué animales respiran por branquias en algún momento de su vida?
++ Los peces
++ Los anfibios
 - Los reptiles
+- Las aves
 - Los mamíferos
-- Los anfibios
-> Todas las aves tienen plumas y son ovíparas.
+> Los anfibios respiran por branquias cuando son renacuajos.
 
 ? ¿Qué animales sufren metamorfosis y tienen la piel desnuda y húmeda?
 + Los anfibios
-- Los peces
 - Los reptiles
+- Los peces
 - Los mamíferos
-> La rana nace como renacuajo con branquias y se transforma en adulto.
+> La rana nace como renacuajo y se transforma.
+
+? ¿Cómo nacen casi todos los mamíferos?
++ Del vientre de la madre (vivíparos)
+- De un huevo con cáscara (ovíparos)
+- De una semilla
+- Por metamorfosis
+> Además, las crías maman la leche de su madre.
+
+? Clasifica estos invertebrados en su grupo.
+@ Insectos: hormiga | mariposa
+@ Arácnidos: araña | escorpión
+@ Moluscos: caracol | pulpo
+@ Equinodermos: estrella de mar | erizo de mar
+> Los insectos y los arácnidos son artrópodos.
 
 ? ¿Cuántas patas tienen los insectos?
 + Seis
 - Ocho
 - Cuatro
 - Diez
-> Los arácnidos, como las arañas, tienen ocho.
+> Los arácnidos tienen ocho.
 
 ? La araña es un insecto.
 = falso
-> La araña es un arácnido: tiene ocho patas.
+> Es un arácnido: tiene ocho patas.
+
+? La mayoría de los animales son invertebrados.
+= verdadero
+> Hay muchísimas más especies de invertebrados que de vertebrados.
+
+? Completa: Los artrópodos tienen patas [articuladas] y un esqueleto [externo].
+- interno
+- blando
+> Los insectos, arácnidos, crustáceos y miriápodos son artrópodos.
 
 ? ¿Qué medicina se obtiene de un hongo?
 + La penicilina
 - La aspirina
-- La vacuna de la gripe
 - La insulina
-> Alexander Fleming la descubrió en 1928 a partir de un moho.
+- La vacuna de la gripe
+> La descubrió Alexander Fleming en 1928.
+
+?* ¿Para qué usamos los hongos?
++ Para hacer pan
++ Para fabricar medicinas
++ Como alimento, como el champiñón
+- Para fabricar oxígeno con la luz
+- Para comer cualquier seta del campo
+> Nunca hay que comer setas del campo sin que lo diga un experto: algunas son venenosas.
+
+? ¿Qué grupo de animales tiene cuerpo blando y muchos de ellos concha?
++ Los moluscos
+- Los equinodermos
+- Los gusanos
+- Los crustáceos
+> El caracol, el pulpo y la almeja son moluscos.
+
+? Completa: Los mamíferos tienen el cuerpo cubierto de [pelo] y las aves, de [plumas].
+- escamas
+- espinas
+> Es una forma fácil de distinguirlos.

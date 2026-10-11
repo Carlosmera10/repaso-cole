@@ -25,34 +25,40 @@ Los paisajes **naturales** apenas han cambiado. Los paisajes **humanizados** han
 
 # Examen
 
-? ¿Qué clima tiene el norte de España (Galicia, Asturias, Cantabria y País Vasco)?
+preguntas: 20
+
+? Relaciona cada clima con la zona de España donde se da.
+* Oceánico → Galicia, Asturias, Cantabria y País Vasco
+* Mediterráneo → Costa mediterránea, sur y Baleares
+* Mediterráneo de interior → La Meseta y el valle del Ebro
+* De montaña → Pirineos, Sistema Central, Sierra Nevada
+* Subtropical → Islas Canarias
+> España tiene climas muy variados.
+
+? ¿Qué clima tiene temperaturas suaves y lluvias abundantes todo el año?
 + Oceánico
 - Mediterráneo
 - Subtropical
-- De montaña
-> Es lluvioso y de temperaturas suaves todo el año.
+- Mediterráneo de interior
+> Es el clima del norte de España.
 
 ? ¿Cómo son los veranos del clima mediterráneo?
 + Calurosos y secos
 - Frescos y lluviosos
 - Fríos y con nieve
-- Suaves y muy lluviosos
-> Las lluvias del clima mediterráneo son escasas y se dan en primavera y otoño.
+- Suaves y muy húmedos
+> Las lluvias se dan sobre todo en primavera y otoño.
 
-? ¿Qué clima tienen las islas Canarias?
-= subtropical | clima subtropical | canario
-> Temperaturas cálidas y suaves todo el año y pocas lluvias.
+? Clasifica cada planta según el clima en el que es típica.
+@ Oceánico: roble | haya | castaño
+@ Mediterráneo: encina | alcornoque | romero
+@ Subtropical canario: drago | cardón
+> Cada clima tiene su vegetación.
 
-? En el interior de la Meseta los inviernos son muy fríos y los veranos muy calurosos.
-= verdadero
-> Al estar lejos del mar, hay mucha diferencia de temperatura entre invierno y verano.
-
-? ¿Qué vegetación es típica del clima oceánico?
-+ Bosques de robles y hayas y prados verdes
-- Encinas, alcornoques y matorral
-- Dragos y cardones
-- Cactus y palmeras
-> Los robles y hayas pierden la hoja en otoño (bosque caducifolio).
+? Clasifica cada árbol según conserve o pierda sus hojas.
+@ Caducifolio: roble | haya | castaño
+@ Perennifolio: encina | pino | alcornoque
+> Los caducifolios pierden las hojas en otoño.
 
 ? ¿Qué significa que un árbol es perennifolio?
 + Que mantiene sus hojas todo el año
@@ -61,24 +67,80 @@ Los paisajes **naturales** apenas han cambiado. Los paisajes **humanizados** han
 - Que no tiene hojas
 > La encina y el pino son perennifolios.
 
-? ¿Qué árbol típico de Canarias es famoso por su forma y su "sangre" roja?
-+ El drago
-- La encina
-- El haya
-- El abeto
-> El drago crece en las islas Canarias.
-
-? En el clima de montaña predominan las coníferas, como pinos y abetos.
+? En el interior de la Meseta los inviernos son muy fríos y los veranos muy calurosos.
 = verdadero
-> En las zonas más altas solo crecen prados.
+> Al estar lejos del mar, hay mucha diferencia de temperatura.
+
+? ¿Qué clima tienen las islas Canarias?
+= subtropical | clima subtropical | canario
+> Cálido y suave todo el año, con pocas lluvias.
+
+? Completa: En el clima de montaña predominan las [coníferas|coniferas], como pinos y abetos, y en lo más alto, los [prados].
+- encinas
+- cactus
+> El frío y la nieve marcan este paisaje.
+
+? Relaciona cada animal con el paisaje donde es típico.
+* Oso pardo → Bosques de la Cordillera Cantábrica
+* Cabra montés → Alta montaña
+* Lince ibérico → Monte mediterráneo
+* Pinzón azul → Islas Canarias
+> La fauna se adapta al clima y a la vegetación.
 
 ? ¿Qué plantas forman el matorral mediterráneo?
 + Romero, tomillo y jara
-- Robles y castaños
-- Abetos y hayas
+- Robles, hayas y castaños
+- Abetos, pinos y hayas
 - Helechos y musgos
 > Son plantas resistentes a la sequía.
 
 ? Un campo de cultivo es un paisaje natural.
 = falso
-> Es un paisaje humanizado, porque lo han transformado las personas.
+> Es un paisaje humanizado: lo han transformado las personas.
+
+? Clasifica cada paisaje.
+@ Natural: alta montaña sin construcciones | bosque virgen
+@ Humanizado: campo de trigo | ciudad | embalse
+> Los paisajes humanizados los han transformado las personas.
+
+? ¿Qué árbol típico de Canarias tiene una savia roja?
+= drago | el drago
+> Es un árbol muy característico de las islas.
+
+?* ¿Qué características tiene el clima de montaña?
++ Temperaturas frías
++ Inviernos largos
++ Precipitaciones abundantes, a menudo de nieve
+- Veranos muy calurosos y secos
+- Temperaturas suaves todo el año
+> Cuanto más alto, más frío.
+
+? ¿Qué clima tiene la ciudad de Madrid?
++ Mediterráneo de interior
+- Oceánico
+- Subtropical
+- De montaña
+> Inviernos fríos y veranos calurosos, con pocas lluvias.
+
+? Completa: Los árboles que pierden las hojas en otoño son [caducifolios] y los que las mantienen todo el año son [perennifolios].
+- coníferas
+- matorrales
+> Por eso los bosques caducifolios cambian de color en otoño.
+
+? ¿Para qué sirven los espacios naturales protegidos?
++ Para conservar los paisajes más valiosos
+- Para construir nuevas ciudades
+- Para cultivar trigo y cebada
+- Para cazar sin límites
+> Los parques nacionales y naturales protegen la naturaleza.
+
+? En el clima oceánico hay prados verdes donde pastan las vacas.
+= verdadero
+> La lluvia abundante mantiene los prados verdes todo el año.
+
+? ¿Cuál es la principal diferencia entre el clima mediterráneo de costa y el de interior?
++ En el interior los inviernos son mucho más fríos
+- En la costa nieva mucho más
+- En el interior llueve mucho más
+- En la costa los veranos son frescos
+> El mar suaviza las temperaturas de la costa.

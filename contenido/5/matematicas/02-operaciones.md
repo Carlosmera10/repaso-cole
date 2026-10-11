@@ -62,6 +62,8 @@ Para **estimar**, redondeamos los números y operamos con ellos. Así comprobamo
 
 # Examen
 
+preguntas: 20
+
 ? ¿Cuánto es 20 − 3 × 4?
 + 8
 - 68
@@ -71,7 +73,7 @@ Para **estimar**, redondeamos los números y operamos con ellos. Así comprobamo
 
 ? ¿Cuánto es (15 + 5) × 3?
 = 60
-> Primero el paréntesis: 15 + 5 = 20; luego 20 × 3 = 60.
+> Primero el paréntesis: 20 × 3 = 60.
 
 ? ¿Cuánto es 18 ÷ 3 + 2 × 5?
 + 16
@@ -80,39 +82,92 @@ Para **estimar**, redondeamos los números y operamos con ellos. Así comprobamo
 - 13
 > 18 ÷ 3 = 6 y 2 × 5 = 10; 6 + 10 = 16.
 
-? En una división, divisor 7, cociente 9 y resto 3. ¿Cuál es el dividendo?
-= 66
-> Dividendo = divisor × cociente + resto = 7 × 9 + 3 = 63 + 3 = 66.
+? Ordena los pasos para resolver operaciones combinadas.
+1. Paréntesis
+2. Multiplicaciones y divisiones
+3. Sumas y restas
+> Es la jerarquía de las operaciones.
 
-? ¿Qué propiedad se usa en 5 × (10 + 2) = 5 × 10 + 5 × 2?
-+ Distributiva
-- Conmutativa
-- Asociativa
-- Ninguna
-> Se multiplica el número por cada sumando del paréntesis.
+? Completa: 50 − (12 + 8) = [30] y 50 − 12 + 8 = [46]
+> Con paréntesis primero se suma 12 + 8; sin paréntesis se opera de izquierda a derecha.
+
+? Relaciona cada operación con su resultado.
+* 7 + 3 × 2 → 13
+* (7 + 3) × 2 → 20
+* 7 × 3 − 2 → 19
+* 7 × (3 − 2) → 7
+> Los paréntesis cambian el resultado.
+
+? En una división, el divisor es 7, el cociente es 9 y el resto es 3. ¿Cuál es el dividendo?
+= 66
+> Dividendo = divisor × cociente + resto = 63 + 3 = 66.
+
+? Relaciona cada propiedad con su ejemplo.
+* Conmutativa → 6 × 8 = 8 × 6
+* Asociativa → (2 × 5) × 7 = 2 × (5 × 7)
+* Distributiva → 4 × (10 + 3) = 4 × 10 + 4 × 3
+> Las propiedades ayudan a calcular más rápido.
 
 ? En una división, el resto puede ser mayor que el divisor.
 = falso
-> El resto siempre es menor que el divisor. Si no, se podría repartir más.
+> El resto siempre es menor que el divisor.
 
 ? ¿Cuánto es 56 × 1.000?
 + 56.000
 - 5.600
 - 560.000
 - 560
-> Al multiplicar por 1.000 se añaden tres ceros.
+> Se añaden tres ceros.
 
 ? ¿Cuánto es 7.200 ÷ 100?
 = 72
-> Al dividir entre 100 se quitan dos ceros.
+> Se quitan dos ceros.
+
+? Clasifica cada división.
+@ Exacta: 48 ÷ 6 | 63 ÷ 9 | 100 ÷ 25
+@ Entera: 50 ÷ 6 | 29 ÷ 4 | 70 ÷ 8
+> En la división exacta el resto es 0.
+
+? ¿Cuál es el resto de 50 ÷ 6?
+= 2
+> 6 × 8 = 48; 50 − 48 = 2.
+
+? Completa la prueba de la resta: si 95 − 38 = 57, entonces [38] + [57] = 95.
+> Sustraendo + diferencia = minuendo.
+
+? Estima el resultado de 398 + 207.
++ Unos 600
+- Unos 500
+- Unos 700
+- Unos 400
+> Redondeamos: 400 + 200 = 600.
+
+? Ana tiene 3 cajas con 24 lápices cada una y regala 15 lápices. ¿Cuántos lápices le quedan?
++ 57
+- 87
+- 72
+- 42
+> 3 × 24 = 72; 72 − 15 = 57.
+
+? Un cine tiene 18 filas de 25 butacas. Si hay 375 personas, ¿cuántas butacas están libres?
+= 75
+> 18 × 25 = 450; 450 − 375 = 75.
 
 ? 12 + 8 = 8 + 12 es un ejemplo de la propiedad conmutativa.
 = verdadero
 > El orden de los sumandos no cambia la suma.
 
-? Ana tiene 3 cajas con 24 lápices cada una y regala 15 lápices. ¿Cuántos le quedan?
-+ 57
-- 87
-- 72
-- 42
-> 3 × 24 = 72 lápices; 72 − 15 = 57.
+? Ordena los pasos para resolver un problema.
+1. Leer y buscar los datos y la pregunta
+2. Pensar qué operaciones hacer
+3. Calcular
+4. Comprobar y escribir la solución
+> Comprobar es tan importante como calcular.
+
+?* ¿Qué operaciones dan como resultado 24?
++ 4 × (2 + 4)
++ 30 − 2 × 3
++ 48 ÷ 2
+- 4 × 2 + 4
+- (30 − 2) × 3
+> 4 × 6 = 24; 30 − 6 = 24; 48 ÷ 2 = 24.

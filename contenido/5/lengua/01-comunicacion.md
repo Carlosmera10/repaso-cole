@@ -41,18 +41,29 @@ La **comunicación** es el proceso por el que **transmitimos información** a ot
 
 # Examen
 
-? ¿Cómo se llama quien envía el mensaje?
-+ Emisor
-- Receptor
-- Canal
-- Código
-> El receptor es quien lo recibe.
+preguntas: 20
+
+? Relaciona cada elemento de la comunicación con su definición.
+* Emisor → Quien envía el mensaje
+* Receptor → Quien recibe el mensaje
+* Mensaje → La información que se transmite
+* Código → El sistema de signos que se usa
+* Canal → El medio por el que viaja el mensaje
+* Contexto → La situación en la que se comunica
+> Son los seis elementos de la comunicación.
+
+? Ana escribe un WhatsApp a Luis. Relaciona cada elemento con lo que es en este ejemplo.
+* Emisor → Ana
+* Receptor → Luis
+* Canal → El móvil
+* Código → La lengua castellana escrita
+> Identifica quién habla, quién escucha y cómo.
 
 ? Si tu profesora te explica la lección en clase, ¿quién es el receptor?
-+ Tú (y tus compañeros)
++ Tú y tus compañeros
 - La profesora
 - La pizarra
-- El aire
+- El libro de texto
 > La profesora es el emisor.
 
 ? ¿Cómo se llama el sistema de signos que comparten emisor y receptor?
@@ -66,35 +77,87 @@ La **comunicación** es el proceso por el que **transmitimos información** a ot
 - La lengua castellana
 > El canal es el medio por el que viaja el mensaje.
 
+? Clasifica cada ejemplo según el tipo de comunicación.
+@ Verbal oral: una conversación | una llamada | una exposición en clase
+@ Verbal escrita: una carta | un correo electrónico | una noticia del periódico
+@ No verbal: un semáforo | aplaudir | un pictograma
+> La comunicación verbal usa palabras.
+
 ? Un semáforo es un ejemplo de comunicación no verbal.
 = verdadero
 > Usa colores en lugar de palabras.
 
-? ¿Qué tipo de comunicación es una carta?
-+ Verbal escrita
-- Verbal oral
-- No verbal
-- Gestual
-> Usa palabras escritas.
+? Clasifica cada característica.
+@ Comunicación oral: es inmediata | se acompaña de gestos | suele ser espontánea
+@ Comunicación escrita: es más pensada | usa signos de puntuación | perdura en el tiempo
+> Cada una tiene sus ventajas.
 
 ? ¿Cómo se llama la situación en la que se produce la comunicación?
 + Contexto
 - Canal
 - Mensaje
 - Código
-> El contexto incluye el lugar, el momento y la relación entre las personas.
+> Incluye el lugar, el momento y la relación entre las personas.
 
 ? Para que haya comunicación, el emisor y el receptor deben compartir el código.
 = verdadero
-> Si no entienden el mismo código, el mensaje no llega.
+> Si no, el mensaje no se entiende.
 
-? ¿Cuál es una norma de una buena conversación?
-+ Respetar el turno de palabra
-- Hablar todos a la vez
-- No mirar a quien habla
-- Gritar para que te oigan
-> Escuchar y respetar el turno es fundamental.
+? Relaciona cada concepto con su definición.
+* Lenguaje → Capacidad de las personas para comunicarse
+* Lengua → Código que usa una comunidad
+* Habla → Uso personal que cada uno hace de la lengua
+> El castellano y el inglés son lenguas.
 
 ? El lenguaje y la lengua significan exactamente lo mismo.
 = falso
-> El lenguaje es la capacidad de comunicarnos; la lengua es el código de una comunidad (castellano, inglés…).
+> El lenguaje es la capacidad; la lengua, el código de una comunidad.
+
+?* ¿Cuáles son normas de una buena conversación?
++ Respetar el turno de palabra
++ Mirar a quien habla
++ Respetar otras opiniones
+- Hablar todos a la vez
+- Gritar para que te oigan
+> Escuchar es tan importante como hablar.
+
+? Completa: En una carta, quien la escribe es el [emisor] y quien la lee es el [receptor].
+- canal
+- código
+> El canal sería el papel o el correo.
+
+? ¿Qué tipo de comunicación es levantar el pulgar para decir "muy bien"?
++ No verbal
+- Verbal oral
+- Verbal escrita
+- No es comunicación
+> Es un gesto.
+
+? ¿Cuál de estos es un ejemplo de lengua?
++ El catalán
+- La capacidad de hablar
+- La forma de hablar de mi abuelo
+- Un semáforo
+> El catalán es el código de una comunidad.
+
+? Ordena los pasos de una comunicación.
+1. El emisor piensa lo que quiere decir
+2. El emisor envía el mensaje por un canal
+3. El receptor recibe el mensaje
+4. El receptor lo entiende gracias al código
+> Si falla uno de los pasos, la comunicación no funciona.
+
+? Si alguien te habla en un idioma que no conoces, ¿qué elemento de la comunicación falla?
+= código | codigo | el código
+> No compartís el mismo código.
+
+?* ¿Qué ventajas tiene la comunicación escrita?
++ Se puede revisar antes de enviarla
++ Perdura en el tiempo
+- Se acompaña de gestos
+- Es siempre más rápida
+> La oral es más inmediata y usa gestos.
+
+? Un correo electrónico es comunicación verbal oral.
+= falso
+> Es verbal escrita.

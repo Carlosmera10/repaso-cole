@@ -46,30 +46,56 @@ Es una gran **llanura elevada** (unos 600-700 m de altitud) en el **centro** de 
 
 # Examen
 
-? ¿Qué gran llanura elevada ocupa el centro de la Península?
-= Meseta Central | meseta central | la meseta central | meseta
-> El Sistema Central la divide en submeseta norte y sur.
+preguntas: 20
 
-? ¿Qué cordillera divide la Meseta en dos?
+?* ¿Qué territorios forman parte de España?
++ La mayor parte de la península ibérica
++ Las islas Baleares y las islas Canarias
++ Las ciudades de Ceuta y Melilla
+- Las islas Azores
+- Todo Portugal
+> Las Azores son de Portugal.
+
+? Relaciona cada punto cardinal con lo que limita con España.
+* Norte → Francia y el mar Cantábrico
+* Oeste → Portugal y el océano Atlántico
+* Este → Mar Mediterráneo
+* Sur → Estrecho de Gibraltar
+> El estrecho de Gibraltar separa España de Marruecos.
+
+? ¿Qué gran llanura elevada ocupa el centro de la Península?
+= Meseta Central | meseta central | meseta
+> Está a unos 600-700 metros de altitud.
+
+? ¿Qué cordillera divide la Meseta en dos submesetas?
 + El Sistema Central
 - Los Pirineos
 - Sierra Morena
 - Los Sistemas Béticos
-> Está formado por las sierras de Guadarrama, Somosierra y Gredos.
+> La divide en submeseta norte y submeseta sur.
+
+? Clasifica cada sistema montañoso.
+@ Rodean la Meseta: Cordillera Cantábrica | Sistema Ibérico | Sierra Morena | Macizo Galaico-Leonés
+@ Exteriores a la Meseta: Pirineos | Sistemas Béticos | Cordillera Costero-Catalana
+> El Sistema Central y los Montes de Toledo están dentro de la Meseta.
+
+? Relaciona cada pico con su cordillera.
+* Teide → Islas Canarias
+* Mulhacén → Sistemas Béticos
+* Aneto → Pirineos
+* Almanzor → Sistema Central
+> El Teide es el más alto de España y el Mulhacén, el más alto de la Península.
 
 ? ¿Cuál es el pico más alto de España?
 + El Teide
 - El Mulhacén
 - El Aneto
 - El Almanzor
-> El Teide (3.715 m) está en Tenerife.
+> Mide 3.715 m y está en Tenerife.
 
 ? ¿Cuál es el pico más alto de la península ibérica?
-+ El Mulhacén
-- El Teide
-- El Aneto
-- El Moncayo
-> Está en Sierra Nevada, en los Sistemas Béticos.
+= Mulhacén | mulhacen | el mulhacén
+> Está en Sierra Nevada.
 
 ? ¿Qué cordillera separa España de Francia?
 + Los Pirineos
@@ -82,24 +108,60 @@ Es una gran **llanura elevada** (unos 600-700 m de altitud) en el **centro** de 
 = verdadero
 > Por eso tienen volcanes como el Teide.
 
-? ¿Qué montañas cierran la Meseta por el sur?
-+ Sierra Morena
-- Los Pirineos
-- El Macizo Galaico
-- La Cordillera Costero-Catalana
-> Al sur de Sierra Morena está la depresión del Guadalquivir.
-
-? ¿Entre qué montañas está la depresión del Ebro?
-+ Entre los Pirineos y el Sistema Ibérico
-- Entre Sierra Morena y los Sistemas Béticos
-- Entre el Sistema Central y los Montes de Toledo
-- Entre la Cordillera Cantábrica y el Macizo Galaico
-> Es una zona baja y llana recorrida por el río Ebro.
-
-? ¿En qué mar están las islas Baleares?
-= Mediterráneo | mediterraneo | mar mediterraneo | el mediterraneo
-> Las Canarias están en el océano Atlántico.
-
 ? Los Picos de Europa están en Sierra Nevada.
 = falso
-> Los Picos de Europa están en la Cordillera Cantábrica, en el norte.
+> Están en la Cordillera Cantábrica.
+
+? Completa: La depresión del [Ebro] está entre los Pirineos y el Sistema Ibérico, y la del [Guadalquivir] entre Sierra Morena y los Sistemas Béticos.
+- Tajo
+- Duero
+> Las depresiones son zonas bajas y llanas.
+
+? Clasifica cada isla en su archipiélago.
+@ Baleares: Mallorca | Menorca | Ibiza
+@ Canarias: Tenerife | Gran Canaria | Lanzarote
+> Las Baleares están en el Mediterráneo y las Canarias, en el Atlántico.
+
+? ¿En qué sierra de Mallorca están sus montañas más altas?
++ Sierra de Tramontana
+- Sierra Nevada
+- Sierra de Gredos
+- Sierra de Guadarrama
+> Está en el noroeste de la isla.
+
+? Ordena estos picos de más alto a más bajo.
+1. Teide
+2. Mulhacén
+3. Aneto
+4. Almanzor
+> 3.715 m, 3.479 m, 3.404 m y 2.591 m.
+
+?* ¿Qué sierras forman el Sistema Central?
++ Guadarrama
++ Somosierra
++ Gredos
+- Sierra Morena
+- Sierra Nevada
+> El Almanzor, en Gredos, es su pico más alto.
+
+? ¿A qué altitud aproximada está la Meseta Central?
++ Entre 600 y 700 metros
+- Al nivel del mar
+- Unos 3.000 metros
+- Unos 100 metros
+> Por eso se dice que es una llanura elevada.
+
+? ¿Qué montañas cierran la Meseta por el sur?
+= Sierra Morena | sierra morena
+> Al sur está la depresión del Guadalquivir.
+
+? España es un país con mucha altitud media comparada con otros países de Europa.
+= verdadero
+> Es un país muy montañoso.
+
+? ¿Dónde están los Montes de Toledo?
++ Dentro de la submeseta sur
+- Dentro de la submeseta norte
+- En la frontera con Francia
+- En el norte de Galicia
+> Separan las cuencas del Tajo y del Guadiana.

@@ -68,6 +68,8 @@ Para redondear a un orden, miramos la **cifra de la derecha** de ese orden:
 
 # Examen
 
+preguntas: 20
+
 ? ¿Cuántas unidades tiene una decena de millar?
 + 10.000
 - 1.000
@@ -75,11 +77,8 @@ Para redondear a un orden, miramos la **cifra de la derecha** de ese orden:
 - 100
 > 1 DM = 10 UM = 10.000 U.
 
-? ¿Cómo se escribe "dos millones trescientos cinco mil cuarenta"?
-+ 2.305.040
-- 2.350.040
-- 2.305.400
-- 23.050.040
+? Escribe con cifras: dos millones trescientos cinco mil cuarenta.
+= 2.305.040 | 2305040
 > 2 millones · 305 mil · 040.
 
 ? ¿Qué valor tiene la cifra 7 en el número 4.730.512?
@@ -89,16 +88,21 @@ Para redondear a un orden, miramos la **cifra de la derecha** de ese orden:
 - 7.000.000
 > El 7 ocupa el lugar de las centenas de millar.
 
-? Escribe con cifras: un millón.
-= 1.000.000 | 1000000
-> Un millón son mil millares.
+? Relaciona cada número con cómo se lee.
+* 25.408.130 → Veinticinco millones cuatrocientos ocho mil ciento treinta
+* 25.048.130 → Veinticinco millones cuarenta y ocho mil ciento treinta
+* 2.548.130 → Dos millones quinientos cuarenta y ocho mil ciento treinta
+> Fíjate en el lugar que ocupa cada cifra.
 
-? ¿Cuál de estos números es mayor?
-+ 3.402.110
-- 3.399.999
-- 3.042.110
-- 3.400.999
-> Comparando de izquierda a derecha: 3.402 > 3.400 > 3.399 > 3.042.
+? Ordena estos números de menor a mayor.
+1. 3.042.110
+2. 3.399.999
+3. 3.400.999
+4. 3.402.110
+> Se comparan las cifras de izquierda a derecha.
+
+? Completa la descomposición: 4.072.350 = [4.000.000|4000000] + 70.000 + [2.000|2000] + 300 + 50
+> 4 unidades de millón y 2 unidades de millar.
 
 ? Redondea 58.749 a los millares.
 + 59.000
@@ -107,21 +111,70 @@ Para redondear a un orden, miramos la **cifra de la derecha** de ese orden:
 - 60.000
 > La cifra de las centenas es 7 (≥ 5), así que el 8 sube a 9.
 
-? 6.000.000 + 400.000 + 30 es la descomposición de 6.400.030.
-= verdadero
-> 6 U. de millón + 4 CM + 3 D.
+? Redondea 3.467 a las centenas.
+= 3.500 | 3500
+> La cifra de las decenas es 6 (≥ 5).
 
-? ¿Qué número romano es XL?
-+ 40
-- 60
-- 15
-- 90
-> La X delante de la L resta: 50 − 10 = 40.
+? Redondea 81.249 a los millares.
+= 81.000 | 81000
+> La cifra de las centenas es 2 (< 5).
+
+? Elige el signo correcto: 6.507.300 ___ 6.570.300
++ <
+- >
+- =
+> Son iguales hasta la centena de millar: 5 < 7.
+
+? Un millón son mil millares.
+= verdadero
+> 1.000 × 1.000 = 1.000.000.
+
+?* ¿En cuáles de estos números la cifra 5 vale 50.000?
++ 1.352.000
++ 452.017
+- 5.020.000
+- 3.005.000
+- 45.000
+> El 5 tiene que estar en las decenas de millar.
+
+? Relaciona cada número romano con su valor.
+* XL → 40
+* XC → 90
+* CD → 400
+* CM → 900
+* IX → 9
+> La letra menor a la izquierda de una mayor resta.
 
 ? Escribe en cifras el número romano MCMXC.
-= 1.990 | 1990 | 1.990
+= 1.990 | 1990
 > M (1.000) + CM (900) + XC (90) = 1.990.
+
+? ¿Cómo se escribe 2.026 en números romanos?
++ MMXXVI
+- MMXXIV
+- MMXVI
+- MCCXXVI
+> MM (2.000) + XX (20) + VI (6).
 
 ? En los números romanos, la V se puede repetir dos veces: VV = 10.
 = falso
 > V, L y D no se repiten nunca. El 10 se escribe X.
+
+? Clasifica cada número romano según esté bien o mal escrito.
+@ Bien escrito: XIV | XC | CCC
+@ Mal escrito: IIII | VV | LL
+> I, X, C y M se repiten como mucho tres veces; V, L y D no se repiten.
+
+? Completa: En 9.876.543, la cifra de las centenas de millar es [8] y la de las unidades de millar es [6].
+> 9 U. de millón, 8 CM, 7 DM, 6 UM, 5 C, 4 D, 3 U.
+
+? ¿Cuál es el número mayor que se puede formar con las cifras 3, 0, 7, 1, 5, 9 y 2, sin repetir?
+= 9.753.210 | 9753210
+> Se colocan de mayor a menor.
+
+? ¿Qué número es 4 U. de millón + 6 CM + 3 D?
++ 4.600.030
+- 4.630.000
+- 4.006.030
+- 460.030
+> 4.000.000 + 600.000 + 30.

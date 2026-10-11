@@ -51,6 +51,27 @@ La Tierra es casi una **esfera**, un poco **achatada por los polos** y ensanchad
 
 # Examen
 
+preguntas: 20
+
+? ¿Qué forma tiene la Tierra?
++ Casi esférica, algo achatada por los polos
+- Una esfera perfecta
+- Plana como un disco
+- Alargada como un huevo
+> Está un poco ensanchada por el ecuador.
+
+? Relaciona cada movimiento con sus datos.
+* Rotación → Gira sobre sí misma en 24 horas
+* Traslación → Gira alrededor del Sol en 365 días y 6 horas
+* Eje terrestre → Línea imaginaria inclinada que pasa por los polos
+* Órbita → Camino con forma de elipse alrededor del Sol
+> Cada movimiento tiene sus consecuencias.
+
+? Clasifica cada consecuencia según el movimiento que la produce.
+@ Rotación: los días y las noches | el Sol sale por el este
+@ Traslación: las estaciones del año | los años bisiestos
+> La inclinación del eje es clave para las estaciones.
+
 ? ¿Cuánto tarda la Tierra en dar una vuelta sobre sí misma?
 + 24 horas
 - 365 días
@@ -58,27 +79,13 @@ La Tierra es casi una **esfera**, un poco **achatada por los polos** y ensanchad
 - 12 horas
 > Es el movimiento de rotación.
 
-? ¿Qué consecuencia tiene el movimiento de rotación?
-+ La sucesión de los días y las noches
-- Las estaciones del año
-- Los eclipses
-- Las fases de la Luna
-> Es de día en la parte de la Tierra iluminada por el Sol.
-
-? ¿Cómo se llama el movimiento de la Tierra alrededor del Sol?
-= traslación | traslacion | movimiento de traslacion
-> Dura 365 días y 6 horas.
-
 ? ¿Cuántos días tiene un año bisiesto?
-+ 366
-- 365
-- 364
-- 360
+= 366
 > Cada cuatro años se añade el 29 de febrero.
 
 ? Las estaciones se producen por la inclinación del eje de la Tierra.
 = verdadero
-> Por eso los rayos del Sol llegan más o menos inclinados según la época.
+> Los rayos del Sol llegan más o menos inclinados según la época.
 
 ? ¿Por dónde sale el Sol?
 + Por el este
@@ -87,16 +94,57 @@ La Tierra es casi una **esfera**, un poco **achatada por los polos** y ensanchad
 - Por el sur
 > La Tierra gira de oeste a este.
 
-? ¿Qué capa de la Tierra está formada por toda el agua?
-+ La hidrosfera
-- La atmósfera
-- La geosfera
-- La biosfera
-> El agua cubre unas tres cuartas partes de la superficie terrestre.
+? Ordena las estaciones a partir del 21 de marzo, en el hemisferio norte.
+1. Primavera
+2. Verano
+3. Otoño
+4. Invierno
+> Empiezan en los equinoccios y solsticios.
 
-? ¿Cuál es la capa más interna de la geosfera?
-= núcleo | nucleo | el nucleo
-> Está formado sobre todo por hierro y níquel y es la capa más caliente.
+? Relaciona cada fecha con el comienzo de su estación en el hemisferio norte.
+* 21 de marzo → Primavera
+* 21 de junio → Verano
+* 23 de septiembre → Otoño
+* 21 de diciembre → Invierno
+> El 21 de junio es el día más largo del año.
+
+? Cuando en España es verano, en Australia también es verano.
+= falso
+> Australia está en el hemisferio sur, donde las estaciones van al revés.
+
+? Relaciona cada capa de la Tierra con lo que la forma.
+* Atmósfera → El aire
+* Hidrosfera → El agua
+* Geosfera → Las rocas
+* Biosfera → Los seres vivos
+> Todas están relacionadas entre sí.
+
+? Ordena las capas de la geosfera de fuera hacia dentro.
+1. Corteza
+2. Manto
+3. Núcleo
+> La corteza es la capa más delgada y donde vivimos.
+
+? ¿Cómo se llama la capa más interna de la geosfera?
+= núcleo | nucleo | el núcleo
+> Está formado sobre todo por hierro y níquel.
+
+? ¿Qué parte de la superficie terrestre cubre el agua?
++ Unas tres cuartas partes
+- La mitad
+- Una cuarta parte
+- Casi nada
+> Por eso a la Tierra se la llama el planeta azul.
+
+? Completa: Cuando el [magma] sale a la superficie por un volcán se llama [lava].
+- corteza
+- núcleo
+> El magma son rocas fundidas del manto.
+
+? Clasifica cada nombre en continente u océano.
+@ Continentes: Asia | África | Oceanía | Antártida
+@ Océanos: Pacífico | Atlántico | Índico
+> Asia es el continente más grande y el Pacífico, el océano más grande.
 
 ? ¿Cuál es el océano más grande?
 + El Pacífico
@@ -105,6 +153,18 @@ La Tierra es casi una **esfera**, un poco **achatada por los polos** y ensanchad
 - El Glacial Ártico
 > Es más grande que todos los continentes juntos.
 
-? Cuando en España es verano, en Australia también es verano.
+? ¿Cuál es el continente más grande?
+= Asia
+> Le siguen América y África.
+
+?* ¿Por qué hay vida en la Tierra?
++ Porque tiene agua líquida
++ Porque tiene oxígeno
++ Porque tiene una temperatura adecuada
+- Porque es el planeta más grande
+- Porque tiene anillos
+> Es el único planeta con vida conocida.
+
+? El 21 de diciembre es el día más largo del año en España.
 = falso
-> Australia está en el hemisferio sur, donde las estaciones van al revés.
+> El 21 de diciembre es la noche más larga; el día más largo es hacia el 21 de junio.

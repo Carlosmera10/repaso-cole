@@ -41,60 +41,129 @@ Respiramos gracias a los músculos del pecho y, sobre todo, al **diafragma**, un
 
 # Examen
 
+preguntas: 20
+
 ? ¿Qué gas toma el aparato respiratorio del aire?
-+ El oxígeno
-- El dióxido de carbono
-- El nitrógeno
-- El vapor de agua
-> Todas las células necesitan oxígeno para obtener energía.
++ Oxígeno
+- Dióxido de carbono
+- Nitrógeno
+- Vapor de agua
+> Todas las células lo necesitan para obtener energía.
 
 ? ¿Qué gas expulsamos al respirar porque es un desecho?
 = dióxido de carbono | co2 | anhídrido carbónico
-> El dióxido de carbono (CO₂) lo producen las células y lo expulsamos en la espiración.
+> Lo producen las células y sale en la espiración.
 
-? ¿Dónde se encuentran las cuerdas vocales?
-+ En la laringe
-- En la tráquea
-- En los bronquios
-- En los pulmones
-> Al vibrar, las cuerdas vocales producen la voz.
+? Ordena el camino que sigue el aire al entrar en el cuerpo.
+1. Fosas nasales
+2. Faringe
+3. Laringe
+4. Tráquea
+5. Bronquios
+6. Bronquiolos
+7. Alvéolos
+> El aire llega hasta los alvéolos, donde se hace el intercambio de gases.
+
+? Relaciona cada parte con su descripción.
+* Laringe → Tiene las cuerdas vocales
+* Tráquea → Tubo con anillos de cartílago
+* Bronquios → Las dos ramas que entran en los pulmones
+* Alvéolos → Bolsitas rodeadas de capilares
+> Cada parte tiene una forma adaptada a su función.
 
 ? ¿En qué parte se produce el intercambio de gases?
 + En los alvéolos pulmonares
 - En la tráquea
-- En la faringe
-- En las fosas nasales
-> Los alvéolos están rodeados de capilares: allí el oxígeno pasa a la sangre.
+- En la laringe
+- En los bronquios
+> El oxígeno pasa a la sangre y el dióxido de carbono sale de ella.
 
-? ¿Cuál es el orden correcto de las vías respiratorias?
-+ Fosas nasales, faringe, laringe, tráquea, bronquios, bronquiolos
-- Faringe, fosas nasales, tráquea, laringe, bronquios
-- Fosas nasales, tráquea, faringe, bronquiolos, laringe
-- Laringe, faringe, fosas nasales, bronquios, tráquea
-> El aire entra por la nariz y llega hasta los alvéolos por este camino.
+? Clasifica cada elemento según sea una vía respiratoria o parte de los pulmones.
+@ Vías respiratorias: fosas nasales | faringe | laringe | tráquea
+@ Pulmones: bronquiolos | alvéolos
+> Los bronquios se ramifican dentro de los pulmones en bronquiolos.
 
-? El pulmón izquierdo es algo más pequeño que el derecho.
+? El pulmón izquierdo es un poco más pequeño que el derecho.
 = verdadero
 > Deja un hueco para el corazón.
 
-? ¿Qué músculo, situado debajo de los pulmones, nos ayuda a respirar?
+? ¿Qué músculo situado debajo de los pulmones nos ayuda a respirar?
 = diafragma | el diafragma
-> En la inspiración baja y en la espiración sube.
+> Sube y baja en cada respiración.
+
+? Clasifica lo que ocurre en cada movimiento respiratorio.
+@ Inspiración: el diafragma baja | las costillas suben | el aire entra
+@ Espiración: el diafragma sube | las costillas bajan | el aire sale
+> Respirar es la suma de la inspiración y la espiración.
 
 ? En la inspiración, el diafragma sube y el aire sale de los pulmones.
 = falso
-> Eso es la espiración. En la inspiración el diafragma baja y el aire entra.
+> Eso ocurre en la espiración.
 
-? ¿Para qué sirven los pelillos y el moco de la nariz?
-+ Para atrapar el polvo y limpiar el aire
-- Para producir la voz
-- Para digerir los alimentos
-- Para bombear la sangre
-> Además, en la nariz el aire se calienta y se humedece.
+? ¿Dónde están las cuerdas vocales?
++ En la laringe
+- En la faringe
+- En la tráquea
+- En los bronquios
+> Al vibrar producen la voz.
 
 ? ¿Qué mantiene abierta la tráquea?
 + Unos anillos de cartílago
-- Los alvéolos
+- Unos músculos muy fuertes
+- Los alvéolos pulmonares
+- Las costillas y el esternón
+> Así el aire siempre puede pasar.
+
+?* ¿Qué le ocurre al aire en las fosas nasales?
++ Se calienta
++ Se humedece
++ Se limpia de polvo
+- Se convierte en oxígeno puro
+- Pasa directamente a la sangre
+> Los pelillos y el moco atrapan el polvo.
+
+? Completa: En los alvéolos, el [oxígeno|oxigeno] pasa a la sangre y el [dióxido de carbono|dioxido de carbono|co2] sale de ella.
+> Este intercambio de gases es la clave de la respiración.
+
+? ¿Cuántas veces por minuto respiramos en reposo, más o menos?
++ Entre 12 y 20 veces
+- Entre 1 y 2 veces
+- Entre 60 y 100 veces
+- Unas 200 veces
+> Si hacemos ejercicio respiramos más deprisa.
+
+? ¿Qué protege a los pulmones?
++ Las costillas
+- El cráneo
 - El diafragma
-- Las cuerdas vocales
-> Los anillos de cartílago impiden que la tráquea se cierre.
+- La tráquea
+> Forman la caja torácica.
+
+? Los pulmones son dos órganos esponjosos.
+= verdadero
+> Están llenos de bronquiolos y alvéolos.
+
+? Respirar por la boca es mejor que respirar por la nariz.
+= falso
+> En la nariz el aire se limpia, se calienta y se humedece.
+
+?* ¿Cuáles de estos hábitos cuidan el aparato respiratorio?
++ No fumar ni respirar humo
++ Hacer ejercicio al aire libre
++ Toser tapándose con el codo
+- Respirar siempre por la boca
+- Estar en sitios cerrados con mucho humo
+> El humo del tabaco daña los pulmones.
+
+? Completa: La tráquea se divide en dos [bronquios], uno para cada pulmón.
+- alvéolos
+- bronquiolos
+- capilares
+> Dentro de los pulmones se ramifican en bronquiolos.
+
+? ¿Qué conducto comparten el aparato respiratorio y el digestivo?
++ La faringe
+- La laringe
+- La tráquea
+- El esófago
+> Por la faringe pasan el aire y la comida.

@@ -288,6 +288,56 @@ figcaption { font-size: .85rem; color: var(--suave); font-weight: 700; margin-to
 .respuesta p { margin: 4px 0 0; }
 @keyframes aparece { from { opacity: 0; transform: translateY(6px); } }
 
+
+/* ----- Tipos de pregunta: múltiple, ordenar, clasificar, relacionar, huecos ----- */
+.opcion--elegida { border-color: var(--c); background: color-mix(in srgb, var(--c) 14%, var(--tarjeta)); box-shadow: 0 3px 0 var(--c); }
+.opcion--falta { border-color: var(--bien); border-style: dashed; }
+.opcion__casilla { border: 2px solid var(--borde); background: var(--tarjeta); color: var(--c); }
+.opcion--elegida .opcion__casilla { border-color: var(--c); }
+
+.ranuras { list-style: none; margin: 16px 0 0; padding: 0; display: grid; gap: 8px; }
+.ranura { display: flex; align-items: center; gap: 10px; min-height: 52px; padding: 6px 8px; border-radius: 14px; border: 2px dashed var(--borde); }
+.ranura--llena { border-style: solid; background: color-mix(in srgb, var(--c) 10%, var(--tarjeta)); }
+.ranura--bien { border-color: var(--bien); background: var(--bien-fondo); }
+.ranura--mal { border-color: var(--mal); background: var(--mal-fondo); }
+.ranura__num { flex: none; width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; background: var(--c); color: #fff; font-weight: 800; font-size: .9rem; }
+.ranura__vacia { color: var(--suave); font-size: .9rem; font-weight: 700; }
+.ranura__pieza { flex: 1; text-align: left; border: 0; background: none; font-weight: 700; padding: 6px 4px; }
+.ranura__pieza span { color: var(--suave); float: right; }
+.piezas { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.pieza { border: 2px solid var(--c); background: var(--tarjeta); border-radius: 14px; padding: 10px 14px; font-weight: 700; box-shadow: 0 3px 0 color-mix(in srgb, var(--c) 45%, transparent); min-height: 46px; }
+.pieza:active { transform: translateY(2px); }
+
+.clasif { display: grid; gap: 10px; margin-top: 16px; }
+.clasif__item { padding: 10px 12px; border-radius: 14px; border: 2px solid var(--borde); }
+.clasif__item--bien { border-color: var(--bien); background: var(--bien-fondo); }
+.clasif__item--mal { border-color: var(--mal); background: var(--mal-fondo); }
+.clasif__texto { font-weight: 800; margin-bottom: 8px; }
+.clasif__sol { color: var(--bien); font-weight: 800; font-size: .9rem; }
+.clasif__cats { display: flex; flex-wrap: wrap; gap: 6px; }
+.clasif__cats .chip { padding: 6px 12px; font-size: .88rem; }
+.clasif__cats .chip[aria-pressed="true"] { background: var(--c); border-color: var(--c); color: #fff; }
+
+.relac { display: grid; gap: 10px; margin-top: 16px; }
+.relac__fila { display: grid; gap: 6px; padding: 10px 12px; border-radius: 14px; border: 2px solid var(--borde); }
+.relac__fila--bien { border-color: var(--bien); background: var(--bien-fondo); }
+.relac__fila--mal { border-color: var(--mal); background: var(--mal-fondo); }
+.relac__izq { font-weight: 800; }
+.relac__fila select { width: 100%; min-width: 0; text-overflow: ellipsis; }
+select.hueco { max-width: 70vw; }
+.relac__sol { color: var(--bien); font-weight: 800; font-size: .9rem; }
+.relac select, select.hueco {
+  min-height: 46px; border-radius: 12px; border: 2px solid var(--borde); background: var(--tarjeta);
+  padding: 0 10px; font-weight: 700; font-size: 1rem; max-width: 100%;
+}
+
+.huecos__texto { font-family: var(--titulos); font-size: 1.3rem; font-weight: 700; line-height: 2.1; margin: 4px 0 0; }
+input.hueco, select.hueco { font-family: var(--fuente); font-size: 1.05rem; margin: 0 4px; vertical-align: middle; }
+input.hueco { width: 8.5em; min-height: 42px; border: 0; border-bottom: 3px solid var(--c); background: color-mix(in srgb, var(--c) 8%, var(--tarjeta)); border-radius: 8px 8px 0 0; padding: 0 8px; font-weight: 800; text-align: center; max-width: 60vw; }
+input.hueco:focus { outline: 2px solid color-mix(in srgb, var(--c) 50%, transparent); }
+.hueco--bien { border-color: var(--bien) !important; background: var(--bien-fondo) !important; }
+.hueco--mal { border-color: var(--mal) !important; background: var(--mal-fondo) !important; }
+
 /* ----- Resultado ----- */
 .resultado { text-align: center; margin-top: 18px; padding: 26px 18px; }
 .resultado__estrellas { font-size: 2.6rem; letter-spacing: 6px; }

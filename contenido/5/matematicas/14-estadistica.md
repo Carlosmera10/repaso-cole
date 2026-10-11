@@ -8,9 +8,9 @@ La **estadística** sirve para **recoger, organizar y analizar datos**. Por ejem
 
 | Deporte favorito | Recuento | Frecuencia absoluta |
 |---|---|---|
-| Fútbol | IIII III | 8 |
-| Baloncesto | IIII | 5 |
-| Natación | IIII II | 7 |
+| Fútbol | IIIII III | 8 |
+| Baloncesto | IIIII | 5 |
+| Natación | IIIII II | 7 |
 | **Total** | | **20** |
 
 ### Gráficos
@@ -47,6 +47,8 @@ La **probabilidad** indica **lo fácil o difícil** que es que ocurra algo en un
 
 # Examen
 
+preguntas: 20
+
 ? ¿Cómo se llama el número de veces que se repite un dato?
 + Frecuencia absoluta
 - Media
@@ -63,32 +65,47 @@ La **probabilidad** indica **lo fácil o difícil** que es que ocurra algo en un
 - 3
 - 2
 - 4
-> El 5 se repite tres veces, más que ningún otro.
+> El 5 aparece tres veces.
 
 ? ¿Cuál es el rango de estos datos: 12, 7, 15, 9?
 + 8
 - 15
 - 7
 - 43
-> Mayor − menor = 15 − 7 = 8.
+> 15 − 7 = 8.
+
+? Relaciona cada medida con cómo se calcula.
+* Media → Suma de los datos dividida entre el número de datos
+* Moda → El dato que más se repite
+* Rango → Dato mayor menos dato menor
+> Son tres formas de resumir los datos.
+
+? Completa: Las notas de Leo son 6, 8, 7, 8, 5 y 8. La media es [7], la moda es [8] y el rango es [3].
+> 42 ÷ 6 = 7; el 8 se repite tres veces; 8 − 5 = 3.
+
+? Relaciona cada gráfico con su uso.
+* Diagrama de barras → Comparar cantidades con barras
+* Gráfico lineal → Ver cómo cambia algo con el tiempo
+* Gráfico de sectores → Ver partes de un total en un círculo
+* Pictograma → Representar cantidades con dibujos
+> Cada gráfico tiene su utilidad.
 
 ? ¿Qué gráfico usarías para ver cómo cambia la temperatura a lo largo de los meses?
 + Un gráfico lineal
 - Un pictograma
 - Un recuento
-- Una tabla de multiplicar
-> El gráfico lineal muestra cómo cambia algo con el tiempo.
+- Un gráfico de sectores
+> Muestra la evolución en el tiempo.
+
+? Clasifica cada suceso al lanzar un dado normal.
+@ Seguro: sacar un número menor que 7 | sacar un número del 1 al 6
+@ Posible: sacar un 4 | sacar un número par
+@ Imposible: sacar un 8 | sacar un 0
+> El dado tiene los números del 1 al 6.
 
 ? Sacar un 8 con un dado normal de seis caras es un suceso imposible.
 = verdadero
-> El dado solo tiene los números del 1 al 6.
-
-? ¿Qué tipo de suceso es sacar un número menor que 7 con un dado?
-+ Seguro
-- Imposible
-- Posible
-- Improbable
-> Todos los números del dado son menores que 7.
+> Solo hay del 1 al 6.
 
 ? En una bolsa hay 3 bolas rojas y 2 azules. ¿Cuál es la probabilidad de sacar una azul?
 + 2/5
@@ -99,8 +116,50 @@ La **probabilidad** indica **lo fácil o difícil** que es que ocurra algo en un
 
 ? ¿Cuál es la probabilidad de sacar un 6 al lanzar un dado?
 = 1/6
-> 1 caso favorable de 6 posibles.
+> 1 caso favorable de 6.
+
+? ¿Cuál es la probabilidad de sacar un número par al lanzar un dado?
++ 3/6
+- 1/6
+- 2/6
+- 4/6
+> Los pares son 2, 4 y 6.
 
 ? La moda es el dato que menos se repite.
 = falso
-> La moda es el dato que más se repite.
+> Es el que más se repite.
+
+? Ordena estos sucesos de menos probable a más probable al lanzar un dado.
+1. Sacar un 7
+2. Sacar un 6
+3. Sacar un número par
+4. Sacar un número menor que 7
+> 0, 1/6, 3/6 y 6/6.
+
+? En una encuesta, 8 alumnos prefieren fútbol, 5 baloncesto y 7 natación. ¿Cuántos alumnos han respondido?
++ 20
+- 15
+- 13
+- 8
+> Se suman todas las frecuencias absolutas: 8 + 5 + 7 = 20.
+
+? ¿Cuál es la media de 10, 20 y 30?
+= 20
+> 60 ÷ 3 = 20.
+
+?* ¿Qué datos podemos obtener de "8, 5, 8, 3, 6"?
++ La moda es 8
++ El rango es 5
++ La media es 6
+- La moda es 3
+- El rango es 8
+> Media: 30 ÷ 5 = 6; rango: 8 − 3 = 5.
+
+? Completa: Para calcular una probabilidad se dividen los casos [favorables] entre los casos [posibles].
+- imposibles
+- seguros
+> Probabilidad = favorables ÷ posibles.
+
+? En una urna hay 4 bolas verdes y 4 amarillas. Es más probable sacar una verde que una amarilla.
+= falso
+> Hay las mismas de cada color: la probabilidad es igual.

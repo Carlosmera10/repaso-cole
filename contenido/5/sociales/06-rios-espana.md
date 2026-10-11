@@ -41,22 +41,39 @@
 
 # Examen
 
-? ¿Cómo se llama un río que desemboca en otro más grande?
-= afluente | un afluente
-> Por ejemplo, el Manzanares es afluente del Jarama.
+preguntas: 20
+
+? Relaciona cada concepto con su definición.
+* Afluente → Río que desemboca en otro más grande
+* Cuenca → Territorio cuyas aguas van a un mismo río
+* Caudal → Cantidad de agua que lleva un río
+* Vertiente → Cuencas que desembocan en el mismo mar
+* Desembocadura → Lugar donde el río termina
+> Son palabras básicas para estudiar los ríos.
+
+? Ordena las partes del curso de un río.
+1. Nacimiento
+2. Curso alto
+3. Curso medio
+4. Curso bajo
+5. Desembocadura
+> En el curso alto el agua baja con fuerza; en el bajo va muy lenta.
+
+? Clasifica cada río en su vertiente.
+@ Cantábrica: Nalón | Nervión | Bidasoa
+@ Atlántica: Miño | Duero | Tajo | Guadiana | Guadalquivir
+@ Mediterránea: Ebro | Júcar | Segura
+> Los ríos atlánticos son largos y casi todos cruzan la Meseta.
 
 ? ¿Cuál es el río más largo de la península ibérica?
 + El Tajo
 - El Ebro
 - El Guadalquivir
 - El Duero
-> El Tajo mide unos 1.000 km y desemboca en Lisboa.
+> Mide unos 1.000 km y desemboca en Lisboa.
 
 ? ¿Cuál es el río más caudaloso de España?
-+ El Ebro
-- El Tajo
-- El Segura
-- El Nalón
+= Ebro | el ebro
 > Además forma un delta en su desembocadura.
 
 ? ¿Cómo son los ríos de la vertiente cantábrica?
@@ -70,31 +87,80 @@
 + El Guadalquivir
 - El Guadiana
 - El Júcar
-- El Miño
-> Por eso Sevilla tuvo un puerto muy importante.
+- El Segura
+> Por eso Sevilla tuvo un gran puerto.
 
-? ¿Cuál de estos ríos pertenece a la vertiente mediterránea?
-+ El Segura
-- El Duero
-- El Guadiana
-- El Miño
-> Los de la vertiente atlántica son el Miño, Duero, Tajo, Guadiana y Guadalquivir.
+? Relaciona cada río con una ciudad por la que pasa.
+* Manzanares → Madrid
+* Ebro → Zaragoza
+* Guadalquivir → Sevilla
+* Turia → Valencia
+* Pisuerga → Valladolid
+> Muchas ciudades nacieron junto a un río.
 
 ? Un embalse es un lago artificial formado por una presa.
 = verdadero
 > Sirve para guardar agua, regar y producir electricidad.
 
-? ¿Cómo se llama la forma de triángulo que hace el Ebro en su desembocadura?
-= delta | un delta | delta del ebro
-> El río deposita tantos materiales que gana terreno al mar.
+? Completa: Cuando un río deposita tantos materiales que forma un triángulo de tierra, se llama [delta]; si el mar entra en la desembocadura, se llama [estuario].
+- afluente
+- cuenca
+> El Ebro forma un delta.
 
-? ¿Qué caracteriza a la costa cantábrica?
-+ Acantilados altos y rías
-- Largas playas de arena y marismas
-- Deltas y lagunas
-- Es completamente llana
-> Las largas playas y marismas son típicas de la costa atlántica andaluza.
+? ¿Cómo son los ríos de la vertiente mediterránea, salvo el Ebro?
++ Cortos y de caudal irregular
+- Muy largos y caudalosos
+- Siempre helados en invierno
+- Navegables hasta su nacimiento
+> Tienen crecidas en otoño y estiajes en verano.
+
+? Relaciona cada costa con su característica.
+* Cantábrica → Acantilados altos y rías
+* Atlántica gallega → Muy recortada, con Rías Altas y Rías Baixas
+* Atlántica andaluza → Baja y arenosa, con marismas
+* Mediterránea → Baja, con playas, golfos y cabos
+> Cada costa tiene un paisaje distinto.
+
+? Clasifica cada accidente de la costa.
+@ Cabos: Finisterre | Creus | Gata
+@ Golfos: Rosas | Valencia | Cádiz
+> Un cabo es tierra que entra en el mar; un golfo, mar que entra en la tierra.
 
 ? Un golfo es una porción de tierra que entra en el mar.
 = falso
-> Eso es un cabo. Un golfo es una porción de mar que entra en la tierra.
+> Eso es un cabo. El golfo es mar que entra en la tierra.
+
+? ¿Cómo se llama un lago artificial formado al construir una presa?
+= embalse | un embalse | pantano
+> Los embalses guardan agua para regar, beber y producir electricidad.
+
+? ¿Cuál es el lago natural de origen glaciar más grande de España?
++ El lago de Sanabria
+- La Albufera de Valencia
+- Las lagunas de Ruidera
+- El delta del Ebro
+> Está en Zamora.
+
+? ¿Qué son las rías?
++ Desembocaduras de ríos invadidas por el mar
+- Playas de arena muy largas
+- Lagos de agua salada en el interior
+- Ríos que nacen en el mar
+> Son típicas de Galicia y del Cantábrico.
+
+?* ¿Qué ríos pertenecen a la vertiente atlántica?
++ Duero
++ Tajo
++ Guadalquivir
+- Ebro
+- Segura
+> El Ebro y el Segura van al Mediterráneo.
+
+? El Manzanares es afluente del Jarama, que es afluente del Tajo.
+= verdadero
+> Así, el agua del Manzanares acaba en el Tajo.
+
+? Completa: El Tajo desemboca en [Lisboa] y el Guadalquivir es navegable hasta [Sevilla].
+- Toledo
+- Córdoba
+> El Tajo es el río más largo de la Península.

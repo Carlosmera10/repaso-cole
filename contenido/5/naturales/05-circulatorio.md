@@ -146,162 +146,185 @@ La sangre hace **dos circuitos** y pasa **dos veces por el corazón** en cada vu
 
 # Examen
 
-preguntas: 12
+preguntas: 20
 
-? ¿Qué órgano funciona como una bomba que impulsa la sangre?
+? ¿Qué órgano impulsa la sangre por todo el cuerpo?
 + El corazón
 - Los pulmones
 - El hígado
 - Los riñones
-> El corazón es un músculo hueco que se contrae sin parar para empujar la sangre por todo el cuerpo.
+> El corazón es un músculo hueco que se contrae sin parar.
 
 ? ¿Dónde está situado el corazón?
-+ En el centro del pecho, entre los pulmones, un poco hacia la izquierda
-- En el abdomen, junto al estómago
-- En el lado derecho del pecho, debajo del pulmón derecho
-- En la espalda, junto a los riñones
-> Está en la cavidad torácica, protegido por las costillas y el esternón, ligeramente inclinado a la izquierda.
++ En el centro del pecho, entre los pulmones, algo inclinado a la izquierda
+- En el abdomen, entre el estómago y el hígado, algo inclinado a la izquierda
+- En el lado derecho del pecho, por debajo del pulmón derecho
+- En la parte baja de la espalda, a ambos lados de la columna
+> Está en la cavidad torácica, protegido por las costillas y el esternón.
 
-? ¿Qué componentes de la sangre transportan el oxígeno?
-+ Los glóbulos rojos
-- Los glóbulos blancos
-- Las plaquetas
-- El plasma
-> Los glóbulos rojos tienen hemoglobina, que se une al oxígeno. Por eso la sangre es roja.
+?* ¿Cuáles de estas son funciones del sistema circulatorio?
++ Llevar oxígeno y nutrientes a las células
++ Recoger los desechos de las células
++ Repartir el calor por el cuerpo
+- Transformar los alimentos en nutrientes
+- Producir la voz
+> Transformar los alimentos es tarea del aparato digestivo, y la voz se produce en la laringe.
 
-? ¿Para qué sirven las plaquetas?
-+ Para taponar las heridas y que dejen de sangrar
-- Para transportar el oxígeno
-- Para defender el cuerpo de los microbios
-- Para dar color a la sangre
-> Las plaquetas producen la coagulación: forman un tapón que, al secarse, es la costra.
+? Clasifica cada parte en el grupo al que pertenece.
+@ Sangre: plasma | plaquetas | glóbulos blancos
+@ Corazón: aurículas | ventrículos | tabique
+@ Vasos sanguíneos: arterias | venas | capilares
+> El sistema circulatorio tiene tres partes: la sangre, el corazón y los vasos sanguíneos.
 
-? ¿Qué hacen los glóbulos blancos?
-+ Defienden el cuerpo de los microbios
-- Transportan los nutrientes
-- Forman la costra de las heridas
-- Bombean la sangre
-> Los glóbulos blancos (leucocitos) atacan a los microbios que causan enfermedades.
+? Relaciona cada componente de la sangre con su función.
+* Glóbulos rojos → Transportan el oxígeno
+* Glóbulos blancos → Defienden de los microbios
+* Plaquetas → Taponan las heridas
+* Plasma → Transporta nutrientes y desechos
+> Cada componente de la sangre tiene un trabajo distinto.
 
 ? ¿Cómo se llama la parte líquida y amarillenta de la sangre?
 = plasma | plasma sanguíneo
-> El plasma está formado sobre todo por agua y transporta los nutrientes, los desechos y las células de la sangre.
+> El plasma está formado sobre todo por agua.
+
+? ¿Dónde se fabrican las células de la sangre?
++ En la médula ósea roja
+- En el miocardio
+- En los alvéolos pulmonares
+- En las paredes de las venas
+> La médula ósea roja está dentro de algunos huesos.
 
 ? Las arterias llevan la sangre desde el corazón hacia los órganos.
 = verdadero
 > Truco: las Arterias se Alejan del corazón.
 
-? Las venas tienen las paredes más gruesas que las arterias.
+? Las venas tienen las paredes más gruesas y elásticas que las arterias.
 = falso
-> Al revés: las arterias tienen las paredes gruesas y elásticas porque la sangre sale del corazón con mucha fuerza. Las venas son más finas.
+> Son las arterias las que tienen las paredes gruesas, porque la sangre sale del corazón con mucha fuerza.
 
-? ¿En qué vasos sanguíneos la sangre deja el oxígeno y los nutrientes a las células?
+? Todas las arterias del cuerpo llevan sangre rica en oxígeno.
+= falso
+> La arteria pulmonar lleva sangre pobre en oxígeno desde el corazón a los pulmones.
+
+? Completa: Las [aurículas] reciben la sangre que llega al corazón y los [ventrículos] la envían fuera.
+- arterias
+- venas
+- capilares
+> Las aurículas están arriba y los ventrículos abajo.
+
+? Completa: El corazón se contrae en la [sístole|sistole] y se relaja en la [diástole|diastole].
+> Un latido es una sístole más una diástole.
+
+? ¿En qué vasos ocurre el intercambio de sustancias con las células?
 + En los capilares
 - En las arterias
 - En las venas
 - En la aorta
-> Los capilares son finísimos y llegan a todas las células. Ahí ocurre el intercambio de sustancias.
+> Los capilares son tan finos que llegan a todas las células.
 
 ? ¿Cuántas cavidades tiene el corazón?
-+ Cuatro
-- Dos
-- Tres
-- Seis
-> Tiene dos aurículas (arriba) y dos ventrículos (abajo).
+= 4 | cuatro
+> Dos aurículas y dos ventrículos.
 
-? ¿Qué cavidades del corazón reciben la sangre que llega?
-+ Las aurículas
-- Los ventrículos
-- Los capilares
-- Las válvulas
-> Las aurículas reciben la sangre y los ventrículos la envían fuera del corazón.
-
-? ¿Cómo se llama la pared que separa el lado derecho del corazón del lado izquierdo?
+? ¿Cómo se llama la pared que separa las dos mitades del corazón?
 = tabique | tabique del corazón
-> Gracias al tabique, la sangre de los dos lados nunca se mezcla.
+> Gracias a él, la sangre de los dos lados nunca se mezcla.
 
-? En el corazón se mezcla la sangre rica en oxígeno con la sangre pobre en oxígeno.
-= falso
-> El tabique y las válvulas impiden que se mezclen. Por eso decimos que la circulación es completa.
+? ¿Para qué sirven las válvulas del corazón?
++ Para que la sangre circule en un solo sentido
+- Para que la sangre de los dos lados se mezcle
+- Para fabricar los glóbulos rojos
+- Para filtrar la sangre y formar la orina
+> Son como puertecitas que impiden que la sangre retroceda.
 
-? ¿Cuál es la arteria más grande del cuerpo?
-+ La aorta
-- La arteria pulmonar
-- La vena cava
-- La carótida
-> La aorta sale del ventrículo izquierdo y reparte la sangre rica en oxígeno a todo el cuerpo.
+? Ordena el recorrido de la sangre en la circulación pulmonar o menor.
+1. Ventrículo derecho
+2. Arteria pulmonar
+3. Pulmones
+4. Venas pulmonares
+5. Aurícula izquierda
+> En los pulmones la sangre suelta CO₂ y recoge oxígeno.
+
+? Ordena el recorrido de la sangre en la circulación general o mayor.
+1. Ventrículo izquierdo
+2. Arteria aorta
+3. Capilares de los órganos
+4. Venas cavas
+5. Aurícula derecha
+> La sangre reparte oxígeno por todo el cuerpo y vuelve al corazón.
 
 ? ¿Qué lleva la arteria pulmonar?
 + Sangre pobre en oxígeno, del corazón a los pulmones
 - Sangre rica en oxígeno, de los pulmones al corazón
-- Sangre rica en oxígeno, del corazón al cerebro
-- Aire, de la tráquea a los pulmones
-> Es una arteria porque sale del corazón, aunque su sangre lleve poco oxígeno. ¡Es una pregunta trampa muy típica!
-
-? ¿Qué recorrido hace la circulación pulmonar o menor?
-+ Del corazón a los pulmones y de vuelta al corazón
-- Del corazón a todo el cuerpo y de vuelta al corazón
-- De los pulmones a los riñones
-- Del intestino al corazón
-> En la circulación menor la sangre va a los pulmones a soltar CO₂ y recoger oxígeno.
-
-? ¿De qué cavidad sale la sangre que va a todo el cuerpo?
-+ Del ventrículo izquierdo
-- Del ventrículo derecho
-- De la aurícula izquierda
-- De la aurícula derecha
-> Del ventrículo izquierdo sale la aorta, que inicia la circulación general o mayor.
+- Sangre rica en oxígeno, del corazón al resto del cuerpo
+- Sangre pobre en oxígeno, del cuerpo a la aurícula derecha
+> Es una arteria porque sale del corazón, aunque su sangre lleve poco oxígeno.
 
 ? ¿A qué cavidad llegan las venas cavas?
 + A la aurícula derecha
 - A la aurícula izquierda
 - Al ventrículo derecho
 - Al ventrículo izquierdo
-> Las venas cavas traen la sangre pobre en oxígeno de todo el cuerpo a la aurícula derecha.
+> Traen la sangre pobre en oxígeno de todo el cuerpo.
 
-? ¿Cómo se llama el movimiento en el que el corazón se contrae y expulsa la sangre?
-= sístole
-> En la sístole se contrae y expulsa la sangre; en la diástole se relaja y se llena.
+? ¿Qué cavidad tiene la pared más gruesa?
++ El ventrículo izquierdo
+- El ventrículo derecho
+- La aurícula izquierda
+- La aurícula derecha
+> Tiene que empujar la sangre hasta todo el cuerpo.
 
-? Las válvulas del corazón dejan pasar la sangre en un solo sentido.
-= verdadero
-> Son como puertecitas que impiden que la sangre vuelva hacia atrás. Su cierre produce el "pum-pum".
+? Clasifica cada vaso según el tipo de sangre que lleva.
+@ Sangre rica en oxígeno: arteria aorta | venas pulmonares
+@ Sangre pobre en oxígeno: arteria pulmonar | venas cavas
+> El lado izquierdo del corazón trabaja con sangre rica en oxígeno y el derecho con sangre pobre.
 
-? ¿Qué le pasa a la sangre en los capilares de los pulmones?
-+ Deja el dióxido de carbono y recoge oxígeno
+? ¿Qué le ocurre a la sangre en los capilares de los pulmones?
++ Suelta dióxido de carbono y recoge oxígeno
+- Suelta oxígeno y recoge dióxido de carbono
 - Recoge los nutrientes de la comida
-- Deja el oxígeno y recoge dióxido de carbono
-- Se limpia y forma la orina
-> En los alvéolos de los pulmones la sangre se "carga" de oxígeno y suelta el CO₂, que expulsamos al respirar.
+- Se filtra y forma la orina
+> Ese CO₂ lo expulsamos al respirar.
 
-? ¿Cuál de estos hábitos es bueno para el sistema circulatorio?
-+ Hacer ejercicio de forma regular
-- Tomar mucha sal en las comidas
+? ¿Por qué se llama doble circulación?
++ Porque la sangre pasa dos veces por el corazón en cada vuelta completa
+- Porque el cuerpo tiene dos corazones que trabajan a la vez
+- Porque la sangre recorre el cuerpo dos veces más rápido
+- Porque hay dos tipos de sangre que se mezclan en el corazón
+> Una vez en la circulación pulmonar y otra en la general.
+
+?* ¿Cuáles de estos hábitos son buenos para el corazón?
++ Hacer ejercicio a menudo
++ Comer fruta y verdura
++ No fumar
+- Tomar mucha sal
 - Pasar muchas horas sentado
-- Respirar humo de tabaco
-> El ejercicio fortalece el corazón. La sal en exceso, el sedentarismo y el tabaco lo perjudican.
+> El exceso de sal y el sedentarismo perjudican al sistema circulatorio.
 
-? ¿Dónde se fabrican las células de la sangre?
-+ En la médula ósea roja, dentro de algunos huesos
-- En el corazón
-- En los pulmones
-- En el estómago
-> La médula ósea roja fabrica glóbulos rojos, glóbulos blancos y plaquetas.
-
-? Se llama doble circulación porque la sangre pasa dos veces por el corazón en cada vuelta completa.
-= verdadero
-> Una vez en la circulación pulmonar (menor) y otra en la general (mayor).
-
-? ¿Por qué el ventrículo izquierdo tiene la pared más gruesa?
-+ Porque tiene que empujar la sangre a todo el cuerpo
-- Porque recibe la sangre de los pulmones
-- Porque guarda la sangre de reserva
-- Porque fabrica los glóbulos rojos
-> Llevar la sangre hasta los pies y la cabeza necesita mucha más fuerza que llevarla a los pulmones.
-
-? ¿En qué dos lugares es fácil tomarse el pulso?
+? ¿En qué dos lugares se nota fácilmente el pulso?
 + En la muñeca y en el cuello
 - En la rodilla y en el codo
-- En la frente y en la nariz
-- En la espalda y en el hombro
-> En la muñeca y en el cuello hay arterias cerca de la piel, y se nota cada latido del corazón.
+- En la frente y en la oreja
+- En el hombro y en la espalda
+> Ahí hay arterias muy cerca de la piel.
+
+? Relaciona cada enfermedad con su descripción.
+* Anemia → Faltan glóbulos rojos o hemoglobina
+* Hipertensión → La sangre empuja con demasiada fuerza
+* Infarto → Una parte del corazón se queda sin sangre
+> Una dieta sana y el ejercicio ayudan a prevenirlas.
+
+? El sistema circulatorio colabora con el aparato excretor porque los riñones filtran la sangre.
+= verdadero
+> Los riñones quitan los desechos de la sangre y forman la orina.
+
+? ¿Cómo se llama el músculo que forma el corazón?
+= miocardio | el miocardio
+> Es un músculo involuntario: trabaja sin que se lo ordenemos.
+
+? ¿Qué sustancia de los glóbulos rojos se une al oxígeno?
++ La hemoglobina
+- La clorofila
+- La saliva
+- La linfa
+> La hemoglobina además da a la sangre su color rojo.

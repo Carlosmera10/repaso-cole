@@ -47,60 +47,125 @@ Indican el **lugar de procedencia**: *madrileño*, *andaluz*, *gallego*, *españ
 
 # Examen
 
+preguntas: 20
+
 ? ¿Qué es un adjetivo?
 + La palabra que acompaña al sustantivo y expresa una cualidad
 - La palabra que nombra cosas
 - La palabra que expresa acciones
 - La palabra que sustituye al nombre
-> Dice cómo es el sustantivo: grande, azul, juguetón…
+> Dice cómo es el sustantivo.
+
+?* ¿Cuáles de estas palabras son adjetivos?
++ Grande
++ Juguetón
++ Azul
+- Casa
+- Correr
+> Casa es un sustantivo y correr, un verbo.
 
 ? ¿En qué concuerda el adjetivo con el sustantivo?
 + En género y número
 - Solo en número
 - En persona y tiempo
 - No concuerda
-> Gato negro, gatas negras…
+> Gato negro, gatas negras.
 
-? En la oración "Luis es tan alto como Ana", el adjetivo está en grado…
-+ Comparativo de igualdad
-- Comparativo de superioridad
-- Superlativo
-- Positivo
-> Tan… como expresa igualdad.
+? Completa: Las gatas [negras] duermen en el sofá [rojo].
+- negra
+- negros
+- rojos
+> El adjetivo concuerda en género y número.
+
+? Relaciona cada frase con el grado del adjetivo.
+* Luis es alto → Positivo
+* Luis es más alto que Ana → Comparativo de superioridad
+* Luis es tan alto como Ana → Comparativo de igualdad
+* Luis es menos alto que Ana → Comparativo de inferioridad
+* Luis es altísimo → Superlativo
+> El grado indica la intensidad de la cualidad.
 
 ? ¿Cuál es el superlativo de "rápido" terminado en -ísimo?
-= rapidísimo | rapidisimo | rapidísimo
+= rapidísimo | rapidisimo
 > Rápido → rapidísimo.
 
-? ¿Cuál es el comparativo especial de "bueno"?
-+ Mejor
-- Más bueno
-- Óptimo
-- Buenísimo
-> Bueno → mejor → óptimo.
+? Relaciona cada adjetivo con su comparativo especial.
+* Bueno → Mejor
+* Malo → Peor
+* Grande → Mayor
+* Pequeño → Menor
+> No se dice "más bueno" en un texto cuidado.
+
+? Relaciona cada adjetivo con su superlativo especial.
+* Bueno → Óptimo
+* Malo → Pésimo
+* Grande → Máximo
+* Pequeño → Mínimo
+> Son formas cultas del superlativo.
 
 ? ¿Cuál es el superlativo especial de "malo"?
-= pésimo | pesimo | pésimo
+= pésimo | pesimo
 > Malo → peor → pésimo.
 
 ? "Madrileño" es un adjetivo gentilicio.
 = verdadero
-> Indica el lugar de procedencia: Madrid.
+> Indica procedencia: Madrid.
 
-? ¿Qué gentilicio corresponde a Huelva?
-+ Onubense
-- Hueleño
-- Oscense
-- Conquense
-> Oscense es de Huesca y conquense, de Cuenca.
+? Relaciona cada lugar con su gentilicio.
+* Huelva → Onubense
+* Cuenca → Conquense
+* Huesca → Oscense
+* Alcalá de Henares → Alcalaíno
+* Madrid → Madrileño
+> Algunos gentilicios son muy curiosos.
+
+? Los gentilicios se escriben con mayúscula.
+= falso
+> Se escriben con minúscula: madrileño, español.
+
+? Clasifica cada adjetivo según tenga una o dos terminaciones.
+@ Una terminación (igual en masculino y femenino): feliz | amable | verde
+@ Dos terminaciones: bonito | blanco | alto
+> Niño feliz, niña feliz.
+
+? ¿Qué significa "un pobre hombre"?
++ Un hombre que da pena
+- Un hombre sin dinero
+- Un hombre muy alto
+- Un hombre muy rico
+> "Un hombre pobre" sería el que no tiene dinero.
+
+? Completa con el superlativo: La película fue [buenísima|buenisima|muy buena] y el viaje, [larguísimo|larguisimo|muy largo].
+> El superlativo se forma con muy o con -ísimo.
 
 ? En "Luis es el más alto de la clase", el adjetivo está en grado…
 + Superlativo
 - Positivo
 - Comparativo de igualdad
 - Comparativo de inferioridad
-> Expresa la cualidad en grado máximo dentro de un grupo.
+> La cualidad en grado máximo dentro de un grupo.
 
-? Los gentilicios se escriben siempre con mayúscula.
+? ¿Qué adjetivo superlativo significa "muy célebre"?
++ Celebérrimo
+- Celebrísimo
+- Celebradísimo
+- Celebrante
+> Algunos superlativos terminan en -érrimo.
+
+? Ordena de menor a mayor intensidad.
+1. Bueno
+2. Muy bueno
+3. Buenísimo
+> Positivo y luego superlativo.
+
+? El adjetivo siempre va detrás del sustantivo.
 = falso
-> Se escriben con minúscula: madrileño, español, francés.
+> Puede ir delante o detrás: un gran día / un día estupendo.
+
+?* ¿En qué frases hay un gentilicio?
++ Me encanta la tortilla española.
++ Tengo un amigo francés.
++ El queso manchego es muy rico.
+- Mi casa es muy grande.
+- El río es muy largo.
+> Español, francés y manchego indican procedencia.

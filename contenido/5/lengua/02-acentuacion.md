@@ -41,12 +41,18 @@ Solo la llevan algunos para **distinguirse** de otro igual (tilde diacrítica): 
 
 # Examen
 
+preguntas: 20
+
 ? ¿Cuántas sílabas tiene la palabra "mariposa"?
-+ 4
-- 3
-- 5
-- 2
+= 4 | cuatro
 > ma-ri-po-sa.
+
+? Clasifica cada palabra según su número de sílabas.
+@ Monosílaba: sol | pan | mar
+@ Bisílaba: casa | lápiz | reloj
+@ Trisílaba: pelota | ventana | árboles
+@ Polisílaba: caramelo | mariposa | bicicleta
+> Cuenta los golpes de voz.
 
 ? ¿Cuál es la sílaba tónica de "camisa"?
 + mi
@@ -55,49 +61,103 @@ Solo la llevan algunos para **distinguirse** de otro igual (tilde diacrítica): 
 - No tiene
 > ca-MI-sa.
 
+? Clasifica cada palabra según su sílaba tónica.
+@ Aguda: canción | reloj | café | papel
+@ Llana: árbol | mesa | lápiz | joven
+@ Esdrújula: música | pájaro | teléfono | sábado
+> Busca la sílaba que suena más fuerte.
+
+? Relaciona cada tipo de palabra con cuándo lleva tilde.
+* Agudas → Si acaban en vocal, -n o -s
+* Llanas → Si no acaban en vocal, -n o -s
+* Esdrújulas → Siempre
+* Sobresdrújulas → Siempre también
+> Las reglas de las agudas y llanas son contrarias.
+
 ? ¿Cómo se llaman las palabras cuya sílaba tónica es la última?
 = agudas | aguda | palabras agudas
-> Por ejemplo, canción, reloj o café.
+> Como canción, reloj o café.
 
 ? ¿Qué tipo de palabra es "árbol"?
 + Llana
 - Aguda
 - Esdrújula
 - Sobresdrújula
-> Su sílaba tónica es la penúltima: ÁR-bol.
-
-? ¿Cuándo llevan tilde las palabras esdrújulas?
-+ Siempre
-- Nunca
-- Si terminan en vocal, -n o -s
-- Si no terminan en vocal, -n o -s
-> Música, pájaro, teléfono… todas llevan tilde.
+> ÁR-bol.
 
 ? ¿Qué palabra está bien escrita?
 + Camión
 - Camion
 - Cámion
 - Camíon
-> Es aguda y termina en -n, así que lleva tilde.
+> Aguda terminada en -n: lleva tilde.
 
 ? La palabra "reloj" lleva tilde porque es aguda.
 = falso
-> Es aguda, pero termina en -j (no en vocal, -n ni -s), así que no lleva tilde.
+> Es aguda, pero acaba en -j.
 
-? ¿Qué palabra llana debe llevar tilde?
+?* ¿Qué palabras llevan tilde?
 + Lápiz
++ Sofá
++ Música
 - Mesa
-- Joven
-- Casa
-> Lápiz es llana y termina en -z (no en vocal, -n ni -s).
+- Reloj
+- Examen
+> Lápiz: llana en -z. Sofá: aguda en vocal. Música: esdrújula.
+
+? Completa con la palabra bien escrita: Mi [árbol] favorito está junto al [jardín].
+- arból
+- arbol
+- jardin
+> Árbol es llana en -l; jardín, aguda en -n.
+
+? Clasifica cada palabra según lleve tilde o no.
+@ Lleva tilde: canción | fácil | pájaro | compás
+@ No lleva tilde: pared | examen | joven | ciudad
+> Aplica las reglas generales.
 
 ? Los monosílabos, por regla general, no llevan tilde.
 = verdadero
-> Solo la llevan algunos para diferenciarse de otros iguales (tú/tu, él/el…).
+> Solo algunos, para diferenciarse de otros iguales.
 
 ? ¿Qué frase está bien escrita?
 + Tú tienes tu libro.
 - Tu tienes tú libro.
 - Tú tienes tú libro.
 - Tu tienes tu libro.
-> "Tú" (pronombre) lleva tilde; "tu" (posesivo, delante de un nombre) no.
+> Tú (pronombre) lleva tilde; tu (posesivo) no.
+
+? Completa: ¿[Tú] has visto a [mi] hermano? Está con [él].
+- Tu
+- mí
+- el
+> Tú y él son pronombres (con tilde); mi es posesivo (sin tilde).
+
+? ¿Qué tipo de palabra es "dígamelo"?
++ Sobresdrújula
+- Esdrújula
+- Llana
+- Aguda
+> DÍ-ga-me-lo: la tónica está antes de la antepenúltima.
+
+? ¿Cuál es la sílaba tónica de "teléfono"?
+= le
+> te-LÉ-fo-no.
+
+? Relaciona cada monosílabo con su significado.
+* Tú → Pronombre personal
+* Tu → Posesivo
+* Sí → Afirmación
+* Si → Condición
+> La tilde diacrítica sirve para distinguirlos.
+
+? Ordena las sílabas para formar una palabra: po · ma · ri · sa
+1. ma
+2. ri
+3. po
+4. sa
+> Forman la palabra "mariposa".
+
+? Todas las palabras esdrújulas llevan tilde.
+= verdadero
+> Sin excepción.

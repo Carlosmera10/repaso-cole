@@ -48,63 +48,113 @@ Una **mezcla** está formada por dos o más sustancias.
 
 # Examen
 
+preguntas: 20
+
 ? ¿Qué es la materia?
 + Todo lo que ocupa un espacio y tiene masa
-- Solo los objetos sólidos
-- Solo lo que se puede ver
-- Todo lo que está vivo
+- Solo los objetos que se pueden tocar
+- Todo lo que se puede ver a simple vista
+- Solo los seres vivos
 > El aire también es materia, aunque no se vea.
 
-? ¿Con qué instrumento se mide la masa?
-+ Con la balanza
-- Con la probeta
-- Con el termómetro
-- Con la regla
-> La masa se mide en kilogramos o gramos.
+? Relaciona cada propiedad general con su instrumento de medida.
+* Masa → Balanza
+* Volumen → Probeta
+* Temperatura → Termómetro
+> La masa y el volumen son propiedades de toda la materia.
 
 ? ¿Cuál es la unidad principal de masa?
 = kilogramo | kg | el kilogramo
-> También usamos el gramo para cosas ligeras.
+> También se usa el gramo para cosas ligeras.
 
-? ¿Qué estado de la materia tiene forma fija y volumen fijo?
-+ Sólido
-- Líquido
-- Gaseoso
-- Ninguno
-> Los líquidos tienen volumen fijo pero toman la forma del recipiente.
+? Clasifica cada objeto según si flota o se hunde en el agua.
+@ Flota: corcho | madera | pelota de plástico
+@ Se hunde: piedra | clavo de hierro | canica de vidrio
+> Flota lo que es menos denso que el agua.
 
-? ¿Cómo se llama el paso de sólido a líquido?
-+ Fusión
-- Solidificación
-- Condensación
-- Evaporación
-> Por ejemplo, cuando un cubito de hielo se derrite.
+? Relaciona cada propiedad con un material que la tiene.
+* Dureza → Diamante
+* Elasticidad → Goma
+* Fragilidad → Vidrio
+* Transparencia → Agua limpia
+> Son propiedades específicas: sirven para distinguir materiales.
+
+? Clasifica estos materiales según conduzcan o no la electricidad.
+@ Conductores: cobre | hierro | aluminio
+@ Aislantes: plástico | madera | goma
+> Los metales son buenos conductores.
+
+? Relaciona cada estado de la materia con su característica.
+* Sólido → Forma y volumen fijos
+* Líquido → Volumen fijo y toma la forma del recipiente
+* Gaseoso → Ocupa todo el recipiente
+> El agua puede estar en los tres estados.
+
+? Relaciona cada cambio de estado con su nombre.
+* De sólido a líquido → Fusión
+* De líquido a sólido → Solidificación
+* De líquido a gas → Vaporización
+* De gas a líquido → Condensación
+> La sublimación es el paso directo de sólido a gas.
 
 ? El vaho que aparece en el espejo del baño es un ejemplo de condensación.
 = verdadero
-> El vapor de agua (gas) se enfría al tocar el espejo y pasa a líquido.
+> El vapor se enfría y pasa a líquido.
 
-? ¿A qué temperatura hierve el agua?
-+ A 100 °C
-- A 0 °C
-- A 50 °C
-- A 37 °C
-> Y se congela a 0 °C.
+? Completa: El agua se congela a [0] °C y hierve a [100] °C.
+> Son las dos temperaturas clave del agua.
 
-? ¿Cómo separarías una mezcla de agua y arena?
-+ Por filtración
-- Por imantación
-- Con una balanza
-- Calentándola hasta que hierva solo la arena
-> El filtro deja pasar el agua y retiene la arena.
+? Ordena estos estados del agua según aumenta la temperatura.
+1. Hielo
+2. Agua líquida
+3. Vapor de agua
+> Al calentar, el hielo se funde y el agua se evapora.
+
+? Clasifica cada mezcla.
+@ Heterogénea: agua con arena | ensalada | agua con aceite
+@ Homogénea: agua con sal | aire | agua con azúcar
+> En las homogéneas no se distinguen los componentes.
+
+? Relaciona cada mezcla con la forma de separarla.
+* Agua y arena → Filtración
+* Agua y aceite → Decantación
+* Agua y sal → Evaporación
+* Limaduras de hierro y arena → Imantación
+> Cada mezcla necesita un método distinto.
 
 ? El agua con sal es una mezcla heterogénea.
 = falso
-> Es homogénea (una disolución): no distinguimos la sal disuelta.
+> Es homogénea: no se distingue la sal disuelta.
 
 ? ¿Por qué flota un trozo de corcho en el agua?
 + Porque es menos denso que el agua
-- Porque pesa mucho
-- Porque es un metal
-- Porque es transparente
+- Porque pesa más que el agua
+- Porque es un buen conductor
+- Porque es un material transparente
 > Los objetos menos densos que el agua flotan.
+
+? ¿Cómo se llama la vaporización lenta que ocurre en la superficie del líquido?
+= evaporación | evaporacion
+> Si se forman burbujas en todo el líquido, es ebullición.
+
+?* ¿Cuáles de estos son ejemplos de materia?
++ El aire
++ El agua
++ Una mesa
+- La alegría
+- Un sonido
+> La alegría y el sonido no tienen masa ni ocupan espacio.
+
+? ¿Cómo se llama el paso directo de sólido a gas?
++ Sublimación
+- Fusión
+- Condensación
+- Solidificación
+> No pasa por el estado líquido.
+
+? Un gas tiene forma y volumen fijos.
+= falso
+> Un gas ocupa todo el recipiente: no tiene forma ni volumen fijos.
+
+? Completa: Para separar el agua y la arena usamos la [filtración|filtracion], y para separar el agua y la sal, la [evaporación|evaporacion].
+> El filtro retiene la arena; al evaporarse el agua, queda la sal.

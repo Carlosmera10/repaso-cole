@@ -45,60 +45,119 @@ Otros paralelos importantes: el **Trópico de Cáncer** (norte), el **Trópico d
 
 # Examen
 
+preguntas: 20
+
 ? ¿Qué representación muestra la Tierra sin deformarla?
 + El globo terráqueo
 - El planisferio
-- Un plano
 - Un mapa político
+- Un plano
 > El planisferio aplana la Tierra y deforma algunas zonas.
 
-? ¿Qué tipo de mapa muestra las fronteras entre países?
-+ Un mapa político
-- Un mapa físico
-- Un mapa del relieve
-- Un globo terráqueo
-> Los mapas físicos muestran el relieve, los ríos y los mares.
+? Relaciona cada representación con su descripción.
+* Globo terráqueo → Esfera que representa la Tierra sin deformarla
+* Planisferio → Mapa plano de toda la Tierra
+* Plano → Lugar pequeño con mucho detalle
+* Mapa → Parte de la Tierra en una superficie plana
+> Cada representación sirve para algo distinto.
+
+? Clasifica qué muestra cada tipo de mapa.
+@ Mapa físico: el relieve | los ríos | los mares
+@ Mapa político: los países | las fronteras | las capitales
+> Los mapas temáticos muestran un tema concreto, como el clima.
+
+? Relaciona cada elemento del mapa con su función.
+* Título → Dice de qué trata el mapa
+* Leyenda → Explica los símbolos y colores
+* Escala → Indica cuánto se ha reducido la realidad
+* Rosa de los vientos → Señala el norte
+> Sin estos elementos sería difícil interpretar un mapa.
 
 ? ¿Qué elemento del mapa explica el significado de los símbolos y colores?
 = leyenda | la leyenda
-> Sin leyenda no sabríamos interpretar el mapa.
+> Está normalmente en una esquina del mapa.
 
 ? En un mapa a escala 1 : 100.000, ¿a cuántos kilómetros equivalen 3 cm?
 + 3 km
 - 30 km
 - 300 km
 - 0,3 km
-> Cada centímetro equivale a 100.000 cm, que es 1 km.
+> 1 cm del mapa son 100.000 cm reales, es decir, 1 km.
 
-? ¿Cuál es el paralelo principal?
-+ El ecuador
-- El meridiano de Greenwich
-- El Trópico de Cáncer
-- El Círculo Polar Ártico
-> Divide la Tierra en hemisferio norte y hemisferio sur.
+? En un mapa a escala 1 : 100.000, dos pueblos están a 7 cm. ¿A cuántos kilómetros están en la realidad?
+= 7 | 7 km
+> Cada centímetro equivale a 1 km.
 
-? Los meridianos sirven para medir la longitud.
-= verdadero
-> La longitud va de 0° a 180° este u oeste.
+? Clasifica cada tipo de escala.
+@ Numérica: 1 : 50.000 | 1 : 200.000
+@ Gráfica: una barra dividida en partes con kilómetros
+> Las dos indican cuánto se ha reducido la realidad.
 
-? ¿Cómo se llama la distancia de un punto al ecuador?
-= latitud | la latitud
-> Va de 0° a 90° norte o sur.
-
-? ¿Cuál es el meridiano principal?
-+ El de Greenwich
-- El ecuador
-- El Trópico de Capricornio
-- El de Madrid
-> Pasa por Londres y divide la Tierra en hemisferio este y oeste.
+? Ordena los puntos cardinales en el sentido de las agujas del reloj, empezando por el norte.
+1. Norte
+2. Este
+3. Sur
+4. Oeste
+> Así aparecen en la rosa de los vientos.
 
 ? Si miras hacia donde sale el Sol, ¿qué punto cardinal tienes delante?
 + El este
 - El norte
 - El oeste
 - El sur
-> El Sol sale por el este y se pone por el oeste.
+> El Sol sale por el este.
+
+? Si extiendes el brazo derecho hacia donde sale el Sol, ¿qué tienes delante?
++ El norte
+- El sur
+- El este
+- El oeste
+> A tu izquierda queda el oeste y detrás, el sur.
+
+? Relaciona cada concepto con su definición.
+* Paralelos → Sirven para medir la latitud
+* Meridianos → Sirven para medir la longitud
+* Ecuador → Paralelo de 0°
+* Greenwich → Meridiano de 0°
+> Latitud y longitud forman las coordenadas geográficas.
+
+? ¿Cuál es el paralelo principal?
++ El ecuador
+- El meridiano de Greenwich
+- El Trópico de Cáncer
+- El Círculo Polar Ártico
+> Divide la Tierra en hemisferio norte y sur.
+
+? ¿Cómo se llama el meridiano principal?
+= Greenwich | meridiano de greenwich | el meridiano de greenwich
+> Pasa por Londres y por el este de España.
+
+? Completa: La latitud va de 0° a [90]° y la longitud va de 0° a [180]°.
+> La latitud se mide desde el ecuador y la longitud desde Greenwich.
+
+? Clasifica cada línea imaginaria.
+@ Paralelos: ecuador | Trópico de Cáncer | Trópico de Capricornio | Círculo Polar Ártico
+@ Meridianos: meridiano de Greenwich
+> Los paralelos son horizontales; los meridianos van de polo a polo.
 
 ? España está en el hemisferio sur.
 = falso
 > España está en el hemisferio norte, a unos 40° de latitud norte.
+
+? El ecuador divide la Tierra en hemisferio norte y hemisferio sur.
+= verdadero
+> El meridiano de Greenwich la divide en hemisferio este y oeste.
+
+? ¿Cuáles son aproximadamente las coordenadas de Madrid?
++ 40° N y 3° O
+- 40° S y 3° E
+- 3° N y 40° O
+- 0° y 0°
+> Madrid está en el hemisferio norte y un poco al oeste de Greenwich.
+
+? ¿Qué tipo de mapa usarías para ver las montañas y los ríos de España?
++ Un mapa físico
+- Un mapa político
+- Un plano del barrio
+- Un mapa de carreteras
+> Los mapas físicos muestran el relieve con colores.
