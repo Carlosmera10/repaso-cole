@@ -44,63 +44,120 @@ Son los cuidados básicos que se dan a una persona herida o enferma **hasta que 
 
 # Examen
 
+preguntas: 20
+
 ? ¿Qué es la salud?
-+ El bienestar físico, mental y social
-- Solo no tener fiebre
-- Hacer mucho deporte
-- No ir nunca al médico
-> La salud también incluye sentirse bien con uno mismo y con los demás.
++ El estado de bienestar físico, mental y social
+- Solo no tener ninguna enfermedad
+- Hacer mucho deporte todos los días
+- Tomar medicamentos cuando hace falta
+> También es sentirse bien con uno mismo y con los demás.
 
-? ¿Qué causa las enfermedades infecciosas?
-+ Los microbios
-- Los malos hábitos solamente
-- La herencia de los padres
-- El frío
-> Virus, bacterias, hongos y parásitos pueden causar enfermedades infecciosas.
+? Clasifica cada enfermedad.
+@ Infecciosa: gripe | resfriado | varicela | sarampión
+@ No infecciosa: diabetes | asma | alergia | caries
+> Las infecciosas las causan microbios.
 
-? ¿Cuál de estas enfermedades es infecciosa?
-+ La gripe
-- La diabetes
-- Una alergia
-- La caries
-> La gripe la causa un virus y se contagia.
-
-? Los antibióticos curan las enfermedades causadas por virus.
+? Las enfermedades no infecciosas se contagian.
 = falso
-> Los antibióticos solo sirven contra las bacterias.
+> No las causan microbios y no se contagian.
 
-? ¿Qué células de la sangre nos defienden de los microbios?
-+ Los glóbulos blancos
-- Los glóbulos rojos
-- Las plaquetas
-- Las neuronas
-> Atacan a los microbios y fabrican anticuerpos.
+?* ¿Qué microbios pueden causar enfermedades infecciosas?
++ Virus
++ Bacterias
++ Hongos
+- Glóbulos blancos
+- Anticuerpos
+> Los glóbulos blancos y los anticuerpos nos defienden.
 
-? ¿Para qué sirven las vacunas?
-+ Para que nuestras defensas reconozcan un microbio antes de que nos ataque
-- Para curar una herida
-- Para quitar el dolor de cabeza
-- Para dormir mejor
-> Las vacunas previenen enfermedades.
+? ¿Contra qué sirven los antibióticos?
++ Contra las bacterias
+- Contra los virus
+- Contra las alergias
+- Contra cualquier enfermedad
+> No sirven contra los virus, como el de la gripe.
+
+? Los virus son tan pequeños que no son células.
+= verdadero
+> Son mucho más pequeños que las bacterias.
+
+? Relaciona cada defensa con lo que hace.
+* Piel → Barrera que impide que entren los microbios
+* Lágrimas y saliva → Arrastran y frenan microbios
+* Glóbulos blancos → Atacan a los microbios que entran
+* Anticuerpos → Los fabrican los glóbulos blancos
+> Forman el sistema inmunitario y las barreras.
+
+? ¿Cómo funcionan las vacunas?
++ Enseñan a nuestras defensas a reconocer un microbio antes de que nos ataque
+- Matan todas las bacterias y los virus que hay dentro del cuerpo
+- Curan la enfermedad cuando ya la tienes y te encuentras mal
+- Sustituyen a los glóbulos blancos para que no tengan que trabajar
+> Así no enfermamos o enfermamos menos.
+
+? Completa: Los medicamentos solo se toman con la indicación de un [médico] y los antibióticos no sirven contra los [virus].
+- amigo
+- hongos
+> Hay que tomarlos con cuidado.
+
+? Clasifica cada hábito.
+@ Saludable: lavarse las manos | dormir lo suficiente | hacer ejercicio | comer fruta y verdura
+@ Perjudicial: fumar | no cepillarse los dientes | pasar el día sentado | tomar alcohol
+> Los hábitos saludables previenen enfermedades.
+
+? ¿Cuál es una de las formas más eficaces de no contagiarse?
++ Lavarse bien las manos con agua y jabón
+- Tomar antibióticos todos los días
+- No salir nunca de casa
+- Beber mucha agua fría
+> La higiene es fundamental.
+
+? ¿Qué significan las letras de la regla PAS?
++ Proteger, Avisar y Socorrer
+- Parar, Ayudar y Salir
+- Pedir, Atender y Sanar
+- Prevenir, Actuar y Salvar
+> Es la regla de oro de los primeros auxilios.
+
+? Ordena los pasos de la regla PAS.
+1. Proteger
+2. Avisar
+3. Socorrer
+> Primero asegurarse de que el lugar es seguro.
 
 ? ¿Qué número de teléfono hay que marcar en una emergencia?
 = 112
-> El 112 funciona en toda España y en la Unión Europea.
+> Es el teléfono de emergencias.
 
-? ¿Qué significan las letras PAS de los primeros auxilios?
-+ Proteger, avisar y socorrer
-- Parar, andar y saltar
-- Preguntar, ayudar y salir
-- Pensar, actuar y sonreír
-> Primero hay que asegurarse de que el lugar es seguro.
-
-? Si sangra la nariz, hay que echar la cabeza hacia atrás.
+? Si a alguien le sangra la nariz, debe inclinar la cabeza hacia atrás.
 = falso
-> Hay que inclinar la cabeza hacia delante y apretar la nariz.
+> Hay que inclinarla hacia delante y apretar la nariz.
 
-? ¿Qué debes hacer con una quemadura leve?
-+ Ponerla bajo agua fría unos minutos
-- Ponerle pasta de dientes
-- Frotarla con fuerza
-- Taparla con hielo directamente
-> El agua fría alivia el dolor y enfría la piel.
+? Relaciona cada caso con lo que hay que hacer.
+* Herida pequeña → Lavarla con agua y jabón y taparla
+* Sangrado de nariz → Cabeza hacia delante y apretar la nariz
+* Quemadura leve → Poner la zona bajo agua fría
+* Golpe → Aplicar frío envuelto en un paño
+> Son primeros auxilios básicos.
+
+? ¿Qué NO se debe poner en una quemadura leve?
++ Pasta de dientes
+- Agua fría
+- Un chorro de agua del grifo
+- Agua fresca durante unos minutos
+> Tampoco hielo directo.
+
+? ¿Qué son los primeros auxilios?
++ Los cuidados básicos que se dan hasta que llega ayuda
+- Las operaciones que hacen los médicos en el hospital
+- Las vacunas que nos ponen cuando somos pequeños
+- Los medicamentos que tomamos cada día en casa
+> Hay que hacer solo lo que sepas, sin peligro.
+
+? ¿Cómo se llama el conjunto de nuestras defensas formado por los glóbulos blancos?
+= sistema inmunitario | el sistema inmunitario | sistema inmune
+> Fabrican anticuerpos.
+
+? Al llamar al 112 hay que explicar qué ha pasado y dónde.
+= verdadero
+> Así la ayuda llega antes.

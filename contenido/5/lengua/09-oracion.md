@@ -122,9 +122,9 @@ preguntas: 20
 
 ? ¿Cuál es el predicado en "Ayer llovió mucho en Madrid"?
 + Ayer llovió mucho en Madrid
-- Ayer
-- Madrid
-- Llovió
+- Ayer llovió
+- Llovió mucho
+- Mucho en Madrid
 > Es una oración sin sujeto: toda la oración es predicado.
 
 ?* ¿En qué oraciones el sujeto es "las niñas"?

@@ -57,57 +57,126 @@ No siguen la regla: hay que **aprenderlos de memoria**.
 
 # Examen
 
-? ¿Cuál es el pasado de "play"?
-= played
-> Verbo regular: se añade -ed.
+preguntas: 20
 
-? ¿Cuál es el pasado de "go"?
-+ went
-- goed
-- gone
-- goes
-> Es un verbo irregular.
+? ¿Cuándo se usa el past simple?
++ Para acciones terminadas en el pasado
+- Para lo que está pasando ahora
+- Para rutinas del presente
+- Para planes futuros
+> I visited my grandparents last Sunday.
 
-? ¿Cuál es el pasado de "study"?
-+ studied
-- studyed
-- studed
-- studies
+? Clasifica cada verbo según cómo forma el pasado.
+@ Añade -ed: play → played | watch → watched | walk → walked
+@ Añade solo -d: dance → danced | like → liked | live → lived
+@ Cambia -y por -ied: study → studied | cry → cried | try → tried
+> Si el verbo acaba en -e, solo se añade -d.
+
+? Escribe el pasado de "stop".
+= stopped
+> Verbo corto con vocal + consonante: se dobla la p.
+
+? Escribe el pasado de "study".
+= studied
 > Consonante + y → -ied.
 
-? ¿Cuál es el pasado de "eat"?
-= ate
-> Eat → ate (irregular).
+? Relaciona cada verbo irregular con su pasado.
+* go → went
+* eat → ate
+* see → saw
+* buy → bought
+* write → wrote
+* take → took
+> Los irregulares se aprenden de memoria.
 
-? Elige la negativa correcta.
+? ¿Cuál es el pasado de "have"?
++ had
+- haved
+- has
+- hadded
+> have → had.
+
+? Escribe el pasado de "drink".
+= drank
+> drink → drank.
+
+? Completa: Yesterday I [went] to the park and I [saw] my friends.
+- goed
+- seed
+- go
+> go → went; see → saw.
+
+? El past simple es igual para todas las personas.
+= verdadero
+> I played, she played, they played.
+
+? ¿Qué frase negativa es correcta?
 + She didn't go to school.
 - She didn't went to school.
-- She don't went to school.
-- She wasn't go to school.
+- She doesn't went to school.
+- She not went to school.
 > Con didn't, el verbo va en forma básica.
 
-? Elige la pregunta correcta.
+? ¿Qué pregunta es correcta?
 + Did you watch the film?
 - Did you watched the film?
 - Do you watched the film?
-- You did watch the film?
+- Watched you the film?
 > Did + sujeto + verbo en forma básica.
 
-? ¿Cuál es el pasado de "buy"?
-+ bought
-- buyed
-- brought
-- buied
-> Buy → bought.
+? Relaciona cada pregunta con su respuesta.
+* Did you like the cake? → Yes, I did.
+* Did she call you? → No, she didn't.
+* Where did you go? → I went to London.
+* What did you eat? → I ate pasta.
+> Con did/didn't el verbo va en forma básica.
 
-? Respuesta corta: "Did you see the match?" — "No, I ___."
-= didn't | didnt | didn't | did not
-> Yes, I did. / No, I didn't.
+? Ordena las palabras para formar una frase.
+1. We
+2. didn't
+3. play
+4. football
+5. yesterday.
+> We didn't play football yesterday.
 
-? El past simple de los verbos regulares es igual para todas las personas.
+?* ¿Qué frases son correctas?
++ I bought a new bike last week.
++ They didn't come to the party.
++ Did he find his keys?
+- She didn't bought a dress.
+- Did they went home?
+> Con did y didn't el verbo no va en pasado.
+
+? "Read" en pasado se escribe igual pero se pronuncia "red".
 = verdadero
-> I played, you played, he played…
+> read → read.
 
-? "Yesterday I swimmed in the sea" es correcto.
+? Clasifica cada verbo según sea regular o irregular.
+@ Regular: walk | dance | play | study
+@ Irregular: run | sing | give | make
+> Los irregulares no terminan en -ed.
+
+? Escribe el pasado de "swim".
+= swam
+> swim → swam.
+
+? Completa: Last summer we [made] a cake and my brother [sang] a song.
+- maked
+- singed
+- make
+> make → made; sing → sang.
+
+? ¿Cuál es el pasado de "say"?
++ said
+- sayed
+- sid
+- says
+> say → said.
+
+? "I didn't played tennis" es correcto.
 = falso
-> Swim es irregular: Yesterday I swam in the sea.
+> Lo correcto es I didn't play tennis.
+
+? Escribe en inglés: "Ella encontró un gato". She ___ a cat.
+= found
+> find → found.

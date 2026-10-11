@@ -50,8 +50,8 @@ preguntas: 20
 ? ¿Cómo viaja la luz?
 + En línea recta y a enorme velocidad
 - En círculos y muy despacio
-- Solo a través del agua
-- Más despacio que el sonido
+- En zigzag y solo por el agua
+- En línea recta, pero más lenta que el sonido
 > Viaja a unos 300.000 km por segundo.
 
 ? Clasifica cada fuente de luz.

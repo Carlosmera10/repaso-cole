@@ -64,60 +64,129 @@ Tienen al menos **una superficie curva**.
 
 # Examen
 
-? ¿Cómo se llaman los segmentos donde se unen dos caras de un poliedro?
-+ Aristas
-- Vértices
-- Bases
-- Diagonales
-> Los vértices son los puntos donde se unen las aristas.
+preguntas: 20
 
-? ¿Cuántas caras tiene un cubo?
-= 6 | seis
-> Seis caras cuadradas iguales.
+? ¿Qué son los poliedros?
++ Cuerpos formados solo por caras planas que son polígonos
+- Cuerpos con al menos una superficie curva
+- Figuras planas que tienen muchos lados rectos
+- Cuerpos redondos que no tienen ningún vértice
+> Por ejemplo, el cubo o la pirámide.
 
-? ¿Qué forma tienen las caras laterales de una pirámide?
-+ Triángulos
-- Rectángulos
-- Círculos
-- Pentágonos
-> Las caras laterales se unen en un vértice llamado cúspide.
+? Clasifica cada cuerpo geométrico.
+@ Poliedro: cubo | pirámide cuadrangular | prisma hexagonal | octaedro
+@ Cuerpo redondo: cilindro | cono | esfera
+> Los cuerpos redondos tienen al menos una superficie curva.
 
-? ¿Cuál de estos es un cuerpo redondo?
-+ El cilindro
-- El cubo
-- El prisma
-- La pirámide
-> Tiene una superficie curva. Los otros son poliedros.
+? Relaciona cada elemento de un poliedro con su definición.
+* Caras → Los polígonos que lo forman
+* Aristas → Los segmentos donde se unen dos caras
+* Vértices → Los puntos donde se unen varias aristas
+> Caras, aristas y vértices.
 
-? ¿Cuál es la fórmula de Euler?
-+ Caras + vértices = aristas + 2
-- Caras + aristas = vértices
-- Caras × vértices = aristas
-- Caras − vértices = aristas + 2
-> Se cumple en todos los poliedros simples.
+? ¿Cómo son las caras laterales de un prisma?
++ Rectángulos o paralelogramos
+- Triángulos iguales
+- Círculos o elipses
+- Pentágonos regulares
+> Las de la pirámide son triángulos.
 
-? ¿Cuántos vértices tiene una pirámide cuadrangular?
+? Completa: Una pirámide tiene [una] base y sus caras laterales son [triángulos].
+- dos
+- rectángulos
+> Las caras laterales se unen en la cúspide.
+
+? Un prisma se llama según el polígono de sus bases.
+= verdadero
+> Prisma triangular, pentagonal, hexagonal…
+
+? ¿Qué dice la fórmula de Euler?
++ Caras + Vértices = Aristas + 2
+- Caras + Aristas = Vértices + 2
+- Caras × Vértices = Aristas
+- Caras + Vértices + Aristas = 2
+> En el cubo: 6 + 8 = 12 + 2.
+
+? Un poliedro tiene 6 caras y 8 vértices. ¿Cuántas aristas tiene?
+= 12
+> 6 + 8 = A + 2 → A = 12.
+
+? Relaciona cada poliedro con su número de aristas.
+* Cubo → 12
+* Prisma triangular → 9
+* Pirámide cuadrangular → 8
+* Pirámide triangular → 6
+> Comprueba con la fórmula de Euler.
+
+? ¿Cuántas caras tiene una pirámide cuadrangular?
 + 5
 - 4
-- 8
 - 6
-> Los 4 de la base y la cúspide.
+- 8
+> 1 base cuadrada + 4 caras triangulares.
+
+? Ordena los poliedros regulares de menos a más caras.
+1. Tetraedro
+2. Cubo
+3. Octaedro
+4. Dodecaedro
+5. Icosaedro
+> 4, 6, 8, 12 y 20 caras.
+
+? ¿Cuántos poliedros regulares existen?
+= 5 | cinco
+> Tetraedro, cubo, octaedro, dodecaedro e icosaedro.
+
+? ¿Qué forma tienen las caras del dodecaedro?
++ Pentágonos
+- Triángulos
+- Cuadrados
+- Hexágonos
+> 12 caras pentagonales.
+
+? Relaciona cada cuerpo redondo con un objeto que se le parece.
+* Cilindro → Una lata de refresco
+* Cono → Un cucurucho
+* Esfera → Una pelota
+> Todos tienen una superficie curva.
+
+? El cono tiene dos bases circulares.
+= falso
+> El cono tiene una base; el cilindro tiene dos.
+
+?* ¿Qué cuerpos tienen alguna base circular?
++ Cilindro
++ Cono
+- Esfera
+- Cubo
+- Pirámide triangular
+> La esfera no tiene bases.
 
 ? ¿Cuál es el volumen de una caja de 5 cm × 4 cm × 3 cm?
-= 60 | 60 cm3 | 60 cm³
-> V = largo × ancho × alto = 5 × 4 × 3 = 60 cm³.
-
-? ¿Cuál es el volumen de un cubo de 3 cm de arista?
-+ 27 cm³
-- 9 cm³
-- 18 cm³
++ 60 cm³
 - 12 cm³
-> 3 × 3 × 3 = 27 cm³.
+- 47 cm³
+- 60 cm²
+> V = largo × ancho × alto.
 
-? La esfera es un poliedro.
-= falso
-> Es un cuerpo redondo: toda su superficie es curva.
+? ¿Cuál es el volumen de un cubo de 3 cm de arista? (en cm³)
+= 27 | 27 cm³
+> 3 × 3 × 3 = 27.
 
-? Solo existen cinco poliedros regulares.
+? Una caja mide 2 dm × 3 dm × 5 dm. ¿Cuántos litros caben?
++ 30 litros
+- 10 litros
+- 300 litros
+- 3 litros
+> 30 dm³ = 30 L.
+
+? Ordena los cubos de menor a mayor volumen.
+1. Arista de 2 cm
+2. Arista de 3 cm
+3. Arista de 4 cm
+4. Arista de 5 cm
+> 8, 27, 64 y 125 cm³.
+
+? El ortoedro tiene 6 caras rectangulares, como una caja de zapatos.
 = verdadero
-> Tetraedro, cubo, octaedro, dodecaedro e icosaedro.
+> Es un prisma rectangular.

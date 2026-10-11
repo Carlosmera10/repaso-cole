@@ -52,6 +52,8 @@ Piensa en un **termómetro**:
 
 # Examen
 
+preguntas: 20
+
 ? ¿Cuántos ceros tiene un billón en español?
 + 12
 - 9
@@ -59,53 +61,119 @@ Piensa en un **termómetro**:
 - 15
 > Un billón es un millón de millones: 1.000.000.000.000.
 
-? ¿Cómo se escribe "mil millones" con cifras?
-+ 1.000.000.000
-- 1.000.000
-- 1.000.000.000.000
-- 100.000.000
-> Mil millones tiene 9 ceros.
+? Relaciona cada número con su nombre.
+* 1.000.000 → Un millón
+* 1.000.000.000 → Mil millones
+* 1.000.000.000.000 → Un billón
+> En inglés, billion son mil millones.
 
-? ¿Qué número entero representa el segundo sótano de un edificio?
-+ −2
-- +2
-- 0
-- −20
-> Las plantas bajo el suelo se representan con números negativos.
+? ¿Cómo se lee 3.250.000.000?
++ Tres mil doscientos cincuenta millones
+- Tres billones doscientos cincuenta millones
+- Trescientos veinticinco millones
+- Tres millones doscientos cincuenta mil
+> 3.250 millones.
 
-? ¿Qué número es mayor, −2 o −7?
+? ¿Qué son los números enteros?
++ Los positivos, el cero y los negativos
+- Solo los números positivos y el cero
+- Solo los números negativos y el cero
+- Los números con coma y parte decimal
+> …, −2, −1, 0, +1, +2, …
+
+? El 0 es un número positivo.
+= falso
+> El 0 no es ni positivo ni negativo.
+
+? Relaciona cada situación con su número entero.
+* 5 grados bajo cero → −5
+* Segundo sótano → −2
+* Tercera planta → +3
+* Deber 30 € → −30
+* 200 m bajo el nivel del mar → −200
+> Lo que está por debajo de cero o se debe es negativo.
+
+? ¿Cómo se escribe con un número entero el año 218 a. C.?
++ −218
+- +218
+- 218,0
+- −2.018
+> Los años antes de Cristo se pueden escribir en negativo.
+
+? Ordena de menor a mayor.
+1. −7
+2. −2
+3. 0
+4. +3
+5. +8
+> Los negativos están a la izquierda del 0.
+
+? ¿Cuál es mayor, −2 o −7?
 + −2
 - −7
 - Son iguales
-- No se pueden comparar
-> Entre negativos, es mayor el que está más cerca del 0.
+- No se puede saber
+> Entre dos negativos, es mayor el que está más cerca del 0.
 
-? Cualquier número positivo es mayor que cualquier número negativo.
-= verdadero
-> En la recta numérica, los positivos están a la derecha.
+? Clasifica cada comparación según sea verdadera o falsa.
+@ Verdadera: +1 > −10 | −3 > −5 | 0 > −1
+@ Falsa: −8 > −4 | −1 > +1 | −6 > 0
+> Cualquier positivo es mayor que cualquier negativo.
 
-? ¿Cuál es el opuesto de +9?
-= −9 | -9 | −9 | menos 9 | menos nueve
-> El opuesto tiene el mismo valor absoluto y el signo contrario.
+? ¿Cuál es el valor absoluto de −6?
+= 6
+> Es la distancia al 0, sin signo.
 
-? Hace −3 °C y la temperatura sube 5 grados. ¿Qué temperatura hace ahora?
-+ 2 °C
+? ¿Cuál es el opuesto de +4?
+= −4 | -4
+> El mismo número con el signo contrario.
+
+? Completa: El valor absoluto de +9 es [9] y su opuesto es [−9].
+- +9
+- 0
+> |+9| = 9; opuesto: −9.
+
+? Hace −3 °C y la temperatura sube 5 grados. ¿Qué temperatura hace?
++ +2 °C
 - −8 °C
-- 8 °C
+- +8 °C
 - −2 °C
 > −3 + 5 = +2.
 
-? Hace 4 °C y la temperatura baja 6 grados. ¿Qué temperatura hace ahora?
-+ −2 °C
-- 2 °C
-- 10 °C
-- −10 °C
+? Hace 4 °C y la temperatura baja 6 grados. ¿Qué temperatura hace?
+= −2 | -2 | −2 °C | -2 °C
 > 4 − 6 = −2.
 
-? ¿Cuál es el valor absoluto de −15?
-= 15
-> El valor absoluto es la distancia al cero, sin signo.
+? ¿Cuántos grados de diferencia hay entre −3 °C y +5 °C?
+= 8 | 8 grados
+> 3 grados hasta el 0 y 5 más: 8.
 
-? El cero es un número negativo.
+? En la recta numérica, los números negativos están a la derecha del 0.
 = falso
-> El cero no es ni positivo ni negativo.
+> Los negativos están a la izquierda.
+
+?* ¿Qué números son negativos?
++ −15
++ −1
++ −100
+- 0
+- +3
+> Llevan el signo −.
+
+? Un ascensor está en la planta +2 y baja 4 plantas. ¿En qué planta está?
++ −2
+- −6
+- +6
+- 0
+> 2 − 4 = −2.
+
+? Ordena estas temperaturas de la más fría a la más cálida.
+1. −12 °C
+2. −4 °C
+3. −1 °C
+4. 6 °C
+> Cuanto más lejos del 0 por la izquierda, más frío.
+
+? |−8| y |+8| son iguales.
+= verdadero
+> Los dos valen 8.

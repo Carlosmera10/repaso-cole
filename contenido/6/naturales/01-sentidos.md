@@ -51,60 +51,130 @@ Está en la **piel**, el órgano más grande del cuerpo. Sus receptores captan e
 
 # Examen
 
-? ¿Qué tres elementos participan en la función de relación?
-+ Los sentidos, el sistema nervioso y el aparato locomotor
-- El corazón, los pulmones y el estómago
-- Los riñones, la piel y el hígado
-- Solo el cerebro
-> Los sentidos captan, el sistema nervioso decide y el aparato locomotor responde.
+preguntas: 20
 
-? ¿Qué parte del ojo le da su color?
-+ El iris
-- La pupila
-- La retina
-- El cristalino
-> En el centro del iris está la pupila.
+? ¿Qué nos permite la función de relación?
++ Recibir información de lo que nos rodea y responder a ella
+- Obtener energía y materiales de los alimentos
+- Tener descendientes parecidos a nosotros
+- Transportar la sangre por todo el cuerpo
+> Participan los sentidos, el sistema nervioso y el aparato locomotor.
 
-? ¿En qué parte del ojo se forma la imagen?
-= retina | la retina
-> La retina tiene los receptores de la luz. La imagen se forma al revés y el cerebro la pone al derecho.
+? Ordena lo que ocurre cuando atrapas una pelota.
+1. Los ojos captan la pelota que se acerca
+2. El sistema nervioso decide atraparla
+3. Los músculos mueven los brazos
+> Estímulo, interpretación y respuesta.
 
-? La pupila se hace más grande cuando hay mucha luz.
-= falso
-> Al revés: con mucha luz se cierra (se hace pequeña) para proteger el ojo.
+? Relaciona cada parte del ojo con su función.
+* Iris → Parte de color que regula la luz que entra
+* Pupila → Agujero del centro del iris
+* Cristalino → Lente que enfoca las imágenes
+* Retina → Capa con los receptores de la luz
+* Nervio óptico → Lleva la información al cerebro
+* Córnea → Capa transparente de delante
+> La imagen se forma al revés en la retina.
 
-? ¿Qué parte del oído se encarga del equilibrio?
+? ¿Qué le pasa a la pupila cuando hay mucha luz?
++ Se hace más pequeña
+- Se hace más grande
+- Cambia de color
+- No cambia
+> Así entra menos luz.
+
+? ¿Dónde se forma la imagen en el ojo?
+= retina | la retina | en la retina
+> Se forma al revés y el cerebro la interpreta al derecho.
+
+? Clasifica cada parte del oído.
+@ Oído externo: oreja | conducto auditivo
+@ Oído medio: tímpano | martillo | yunque | estribo
+@ Oído interno: caracol | canales semicirculares
+> Los huesecillos están en el oído medio.
+
+? ¿Qué parte del oído controla el equilibrio?
 + Los canales semicirculares
-- El tímpano
-- La oreja
-- El martillo
-> Están en el oído interno, junto al caracol.
+- El tímpano del oído medio
+- La oreja o pabellón auditivo
+- El martillo y el yunque
+> Están en el oído interno.
 
-? ¿Cómo se llama la membrana del oído medio que vibra con los sonidos?
-= tímpano | timpano | el timpano
-> Detrás del tímpano están los huesecillos: martillo, yunque y estribo.
+? Ordena el camino del sonido.
+1. Oreja
+2. Conducto auditivo
+3. Tímpano
+4. Huesecillos
+5. Caracol
+6. Nervio auditivo
+> El sonido hace vibrar el tímpano y los huesecillos.
 
-? ¿Dónde están los receptores del gusto?
-+ En las papilas gustativas de la lengua
-- En la pituitaria
-- En la retina
-- En el caracol
-> Las papilas captan los sabores dulce, salado, ácido, amargo y umami.
+? Completa: Los receptores del olfato están en la [pituitaria amarilla] y los del gusto, en las [papilas gustativas].
+- pituitaria roja
+- fosas gustativas
+- cuerdas vocales
+> Nariz y lengua.
 
-? ¿Cuál es el órgano del sentido del tacto?
-+ La piel
-- La lengua
-- La nariz
-- El cerebro
-> La piel es el órgano más grande del cuerpo.
+?* ¿Cuáles son sabores básicos?
++ Dulce
++ Amargo
++ Umami
+- Picante
+- Frío
+> Dulce, salado, ácido, amargo y umami.
 
-? El olfato y el gusto trabajan juntos.
+? Con la nariz tapada, la comida sabe menos.
 = verdadero
-> Por eso, cuando estamos resfriados, la comida nos sabe menos.
+> El olfato y el gusto trabajan juntos.
 
-? ¿Qué es un estímulo?
-+ Un cambio del entorno que captan los sentidos
-- Un hueso del oído
-- Un tipo de músculo
-- Una respuesta del cerebro
-> La luz, un sonido o un olor son estímulos.
+? ¿Cuál es el órgano más grande del cuerpo?
+= piel | la piel
+> Es el órgano del tacto.
+
+? ¿Qué capta el tacto?
++ El contacto, la presión, la temperatura y el dolor
+- Solo el frío y el calor de los objetos
+- Los olores y los sabores de los alimentos
+- Los colores y las formas de las cosas
+> Sus receptores están en la piel.
+
+? Hay más receptores del tacto en las yemas de los dedos que en la espalda.
+= verdadero
+> También en los labios y la lengua.
+
+? Relaciona cada sentido con su órgano.
+* Vista → Ojo
+* Oído → Oreja
+* Olfato → Nariz
+* Gusto → Lengua
+* Tacto → Piel
+> Cada sentido tiene receptores especiales.
+
+? ¿Cómo se llaman las células que captan los estímulos?
++ Receptores
+- Neuronas motoras
+- Glóbulos
+- Gametos
+> Están en los órganos de los sentidos.
+
+? ¿Qué protege los ojos?
++ Los párpados, las pestañas, las cejas y las lágrimas
+- El tímpano, el caracol y los huesecillos
+- Las papilas gustativas y la saliva
+- La pituitaria y los pelos de la nariz
+> Son las protecciones del ojo.
+
+? Clasifica cada hábito.
+@ Cuida los sentidos: leer con buena luz | usar crema solar | escuchar música a volumen moderado
+@ Perjudica los sentidos: mirar directamente al Sol | meter objetos en los oídos | poner los auriculares muy altos
+> Los sentidos son delicados.
+
+? El cerebro "ve" la imagen al derecho.
+= verdadero
+> Aunque en la retina se forme al revés.
+
+? ¿Qué parte del oído es una membrana que vibra?
++ El tímpano
+- El caracol
+- El yunque
+- La oreja
+> Separa el oído externo del medio.

@@ -55,9 +55,9 @@ preguntas: 20
 
 ? ¿Quiénes eran los Reyes Católicos?
 + Isabel de Castilla y Fernando de Aragón
-- Carlos I y Felipe II
-- Felipe V y Carlos III
-- Felipe III y Felipe IV
+- Carlos I de España y Felipe II
+- Felipe V de Borbón y Carlos III
+- Felipe III de Austria y Felipe IV
 > Se casaron en 1469.
 
 ?* ¿Qué ocurrió en 1492?
@@ -157,9 +157,9 @@ preguntas: 20
 
 ? ¿Qué defendía la Ilustración del siglo XVIII?
 + La razón, la ciencia y la educación para mejorar la sociedad
-- Que el rey tuviera todo el poder sin leyes
-- Volver a las costumbres de la Edad Media
-- Prohibir los libros y las escuelas
+- Que el rey tuviera todo el poder sin respetar ninguna ley
+- Volver a las costumbres y las creencias de la Edad Media
+- Prohibir los libros y cerrar las escuelas y universidades
 > Carlos III fue un rey ilustrado.
 
 ? ¿Qué monumento de Madrid se construyó en tiempos de Carlos III?

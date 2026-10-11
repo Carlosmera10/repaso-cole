@@ -47,10 +47,10 @@ El **sustantivo** (o **nombre**) es la palabra que sirve para **nombrar** person
 preguntas: 20
 
 ? ¿Qué es un sustantivo?
-+ La palabra que sirve para nombrar personas, animales, cosas, lugares o ideas
-- La palabra que expresa una acción
-- La palabra que dice cómo es un nombre
-- La palabra que une oraciones
++ La palabra que nombra personas, animales, cosas o ideas
+- La palabra que expresa una acción o un estado
+- La palabra que dice cómo es un nombre o una cosa
+- La palabra que une dos oraciones o dos palabras
 > También se llama nombre.
 
 ? Clasifica cada sustantivo.

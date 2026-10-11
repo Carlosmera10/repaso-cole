@@ -34,60 +34,127 @@ En un **cambio químico** (o **reacción química**) unas sustancias se transfor
 
 # Examen
 
-? ¿Cómo se llaman las partículas diminutas que forman la materia?
-= átomos | atomos | atomo
-> Los átomos se unen para formar moléculas.
+preguntas: 20
 
-? En un cambio físico, ¿qué ocurre con la sustancia?
-+ Sigue siendo la misma sustancia
-- Se transforma en otra sustancia diferente
-- Desaparece
-- Se convierte siempre en gas
-> Solo cambia su forma, tamaño o estado.
+? ¿De qué está formada toda la materia?
++ De átomos
+- De células
+- De moléculas de agua
+- De energía
+> Los átomos se unen y forman moléculas.
 
-? ¿Cuál de estos es un cambio químico?
-+ Quemar un papel
-- Romper un papel
-- Derretir hielo
-- Disolver sal en agua
-> Al quemar el papel se forman cenizas y humo: sustancias nuevas.
+? ¿Cuántos átomos tiene una molécula de agua (H₂O)?
++ 3: dos de hidrógeno y uno de oxígeno
+- 2: uno de hidrógeno y uno de oxígeno
+- 3: dos de oxígeno y uno de hidrógeno
+- 4: dos de hidrógeno y dos de oxígeno
+> H₂O: H, H y O.
 
-? Que un clavo se oxide es un cambio químico.
+? Clasifica cada material.
+@ Sustancia pura: agua destilada | oro | sal
+@ Mezcla: agua de mar | aire | ensalada
+> Las mezclas tienen varias sustancias.
+
+? ¿Qué ocurre en un cambio físico?
++ La sustancia sigue siendo la misma
+- Se forma una sustancia nueva
+- La sustancia desaparece
+- Siempre se desprende luz
+> Solo cambia su forma, su tamaño o su estado.
+
+? Clasifica cada cambio.
+@ Físico: el hielo se derrite | romper un papel | disolver azúcar en leche | un cable se dilata con el calor
+@ Químico: quemar madera | un clavo se oxida | la leche se convierte en yogur | freír un huevo
+> En los químicos se forman sustancias nuevas.
+
+? Relaciona cada cambio químico con lo que ocurre.
+* Combustión → Una sustancia arde y desprende luz y calor
+* Oxidación → Un metal se combina con el oxígeno y se forma óxido
+* Fermentación → Unos microorganismos transforman sustancias
+* Digestión → Los alimentos se transforman en nutrientes
+> Se forman sustancias diferentes.
+
+? Los cambios químicos normalmente se pueden deshacer.
+= falso
+> Normalmente no se puede volver atrás.
+
+? Congelar y descongelar agua es un cambio reversible.
 = verdadero
-> El hierro se combina con el oxígeno y forma óxido, una sustancia nueva.
+> Es un cambio físico.
 
-? ¿Qué cambio químico transforma la leche en yogur?
+?* ¿Qué señales indican que ha habido un cambio químico?
++ Cambio de color
++ Aparición de burbujas
++ Cambio de olor
+- Cambio de tamaño
+- Cambio de forma al cortarlo
+> También desprender luz o calor.
+
+? ¿Qué le pasa a un material al calentarlo?
++ Se dilata (se hace un poco más grande)
+- Se contrae
+- Se convierte en otra sustancia
+- Pierde masa
+> Con el frío se contrae.
+
+? ¿Qué tres cosas hacen falta para que haya combustión?
++ Combustible, oxígeno y calor
+- Agua, oxígeno y luz
+- Combustible, agua y calor
+- Hierro, oxígeno y agua
+> Si quitas una, el fuego se apaga.
+
+? ¿Por qué una manta apaga el fuego?
++ Porque le quita el oxígeno
+- Porque le quita el combustible
+- Porque añade agua
+- Porque enfría la madera
+> Sin oxígeno no hay combustión.
+
+? Completa: La leche se convierte en yogur por [fermentación] y un clavo se pone marrón por [oxidación].
+- combustión
+- dilatación
+> Son cambios químicos.
+
+? ¿Qué tipo de cambio es hacer un bizcocho?
++ Químico
+- Físico
+- De estado
+- Reversible
+> El bizcocho ya no puede volver a ser huevo, harina y azúcar.
+
+? Disolver sal en agua es un cambio químico.
+= falso
+> La sal sigue siendo sal: es un cambio físico.
+
+? ¿Cómo se llama la reacción en la que una sustancia arde al combinarse con el oxígeno?
+= combustion | la combustion | combustión
+> Desprende luz y calor.
+
+? Ordena lo que ocurre al quemar un tronco.
+1. Se calienta la madera
+2. La madera arde con el oxígeno del aire
+3. Se desprenden luz, calor y humo
+4. Quedan cenizas
+> La madera se transforma en otras sustancias.
+
+? ¿Qué hace subir la masa del pan?
 + La fermentación
-- La combustión
 - La oxidación
 - La dilatación
-> Unos microorganismos (bacterias) transforman la leche.
+- La combustión
+> Unos microorganismos producen gas.
 
-? ¿Qué tres cosas se necesitan para que haya combustión?
-+ Combustible, oxígeno y calor
-- Agua, luz y aire
-- Hielo, sal y calor
-- Metal, agua y oxígeno
-> Si falta una de las tres, el fuego se apaga.
+? Relaciona cada ejemplo con su tipo de cambio.
+* Fundir chocolate → Cambio de estado
+* Cortar una manzana → Cambio de forma
+* Una manzana cortada se pone marrón → Oxidación
+* Quemar papel → Combustión
+> Los dos primeros son físicos; los otros, químicos.
 
-? Disolver azúcar en agua es un cambio químico.
-= falso
-> Es un cambio físico: el azúcar sigue siendo azúcar, aunque no lo veamos.
-
-? ¿Qué les pasa a los materiales cuando se calientan?
-+ Se dilatan (aumentan un poco de tamaño)
-- Se contraen siempre
-- Se transforman en otra sustancia
-- No les pasa nada
-> Es un cambio físico llamado dilatación.
-
-? ¿Cuál de estas señales indica que ha habido un cambio químico?
-+ Aparecen burbujas y cambia el color
-- Cambia de forma al doblarlo
-- Se rompe en trozos
-- Pasa de líquido a sólido
-> Las burbujas indican que se ha formado un gas nuevo.
-
-? ¿Cómo se llama el cambio en el que una sustancia arde y desprende luz y calor?
-= combustión | combustion | la combustion
-> La madera, el gas o la gasolina son combustibles.
+? ¿Qué es una molécula?
++ La unión de varios átomos
+- Una célula muy pequeña
+- Un tipo de mezcla
+- Un átomo partido
+> La molécula de agua tiene tres átomos.

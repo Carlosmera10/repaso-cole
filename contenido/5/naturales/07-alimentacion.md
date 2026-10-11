@@ -139,9 +139,9 @@ preguntas: 20
 
 ? ¿Dónde se encuentra la fibra?
 + En frutas, verduras, legumbres y cereales integrales
-- En el aceite, la mantequilla y la nata
-- En la carne, el pescado y los huevos
-- En los refrescos y la bollería
+- En el aceite, la mantequilla, la nata y el tocino
+- En la carne, el pescado, los huevos y el queso
+- En los refrescos, las chucherías y la bollería
 > La fibra ayuda al intestino.
 
 ? Ordena estas comidas según el momento del día.

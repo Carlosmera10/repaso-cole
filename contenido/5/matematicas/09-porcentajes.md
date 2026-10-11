@@ -122,9 +122,9 @@ preguntas: 20
 
 ? ¿Cómo se calcula rápido el 20 % de una cantidad?
 + Se calcula el 10 % y se multiplica por 2
-- Se divide entre 20
-- Se multiplica por 20
-- Se divide entre 2
+- Se divide la cantidad entre 20
+- Se multiplica la cantidad por 20
+- Se calcula la mitad y se suma 10
 > 20 % de 60: 10 % = 6; 6 × 2 = 12.
 
 ? En una clase de 20 alumnos, el 50 % son chicas. ¿Cuántas chicas hay?

@@ -47,10 +47,10 @@ Los demostrativos, posesivos, numerales, indefinidos e interrogativos también p
 preguntas: 20
 
 ? ¿Para qué sirven los pronombres?
-+ Para sustituir al sustantivo y no repetirlo
-- Para expresar acciones
++ Para no repetir el sustantivo
+- Para expresar acciones y estados
 - Para decir cómo es un sustantivo
-- Para unir oraciones
+- Para unir palabras y oraciones
 > Marta llegó. Ella…
 
 ? Clasifica cada pronombre personal según su persona.
@@ -136,9 +136,9 @@ preguntas: 20
 
 ? ¿Qué pronombre sustituye a "Marta y yo"?
 + Nosotras o nosotros
-- Ellas
-- Vosotras
-- Ustedes
+- Ellas o ellos
+- Vosotras o vosotros
+- Ustedes o ellas
 > Si estoy yo, es primera persona del plural.
 
 ? ¿Qué pronombre sustituye a "Pedro y Luis"?

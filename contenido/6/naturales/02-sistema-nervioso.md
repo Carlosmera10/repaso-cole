@@ -52,60 +52,122 @@ Está formado por los **nervios**, que recorren todo el cuerpo:
 
 # Examen
 
+preguntas: 20
+
+? ¿Cuál es la función del sistema nervioso?
++ Recibir información, interpretarla y enviar órdenes
+- Transportar el oxígeno por la sangre
+- Digerir los alimentos y absorberlos
+- Fabricar las células de la sangre
+> Es el centro de control del cuerpo.
+
 ? ¿Cómo se llaman las células del sistema nervioso?
-= neuronas | neurona
-> Transmiten la información en forma de impulsos nerviosos.
+= neuronas | neurona | las neuronas
+> Transmiten impulsos nerviosos.
 
-? ¿Qué parte de la neurona envía la información a otra célula?
-+ El axón
-- Las dendritas
-- El núcleo
-- La sinapsis
-> Las dendritas reciben la información y el axón la envía.
+? Relaciona cada parte de la neurona con su función.
+* Dendritas → Reciben la información
+* Axón → Envía la información a otra célula
+* Cuerpo celular → Donde está el núcleo
+> Las dendritas son cortas; el axón, largo.
 
-? ¿Qué órgano controla el equilibrio y la coordinación de los movimientos?
-+ El cerebelo
-- El cerebro
-- El bulbo raquídeo
-- La médula espinal
-> El cerebelo está detrás y debajo del cerebro.
+? ¿Cómo se llama el pequeño espacio por el que pasa la información de una neurona a otra?
++ Sinapsis
+- Axón
+- Dendrita
+- Médula
+> Las neuronas no se tocan.
 
-? ¿Qué órgano controla el latido del corazón y la respiración?
-+ El bulbo raquídeo
-- El cerebelo
-- La médula espinal
-- Los nervios motores
-> Controla funciones involuntarias que hacemos sin pensar.
+? Clasifica cada parte del sistema nervioso.
+@ Sistema nervioso central: cerebro | cerebelo | bulbo raquídeo | médula espinal
+@ Sistema nervioso periférico: nervios sensitivos | nervios motores
+> El central está protegido por huesos.
+
+? Relaciona cada órgano con su función.
+* Cerebro → Pensamiento, memoria y movimientos voluntarios
+* Cerebelo → Equilibrio y coordinación
+* Bulbo raquídeo → Latido del corazón y respiración
+* Médula espinal → Actos reflejos
+> Los tres primeros forman el encéfalo.
+
+? ¿Qué órganos forman el encéfalo?
++ Cerebro, cerebelo y bulbo raquídeo
+- Cerebro y médula espinal
+- Cerebelo y nervios
+- Bulbo raquídeo y médula espinal
+> Está dentro del cráneo.
 
 ? ¿Qué huesos protegen el sistema nervioso central?
 + El cráneo y la columna vertebral
 - Las costillas y el esternón
-- El fémur y la tibia
+- La pelvis y el fémur
 - La clavícula y el omóplato
-> El encéfalo está dentro del cráneo y la médula espinal dentro de la columna.
+> El encéfalo está en el cráneo y la médula, en la columna.
 
-? Los actos reflejos los controla la médula espinal.
-= verdadero
-> Por eso son tan rápidos: no pasan por el cerebro.
+? Completa: Los nervios [sensitivos] llevan información de los sentidos al sistema nervioso central y los nervios [motores] llevan órdenes a los músculos.
+- ópticos
+- reflejos
+> Unos llevan información y otros órdenes.
 
-? Escribir un mensaje es un acto reflejo.
+? Clasifica cada acto.
+@ Voluntario: escribir | chutar un balón | levantar la mano en clase
+@ Reflejo: retirar la mano al quemarte | cerrar los ojos si algo se acerca | estornudar
+> Los reflejos son rápidos, automáticos e involuntarios.
+
+? Los actos reflejos los controla el cerebro.
 = falso
-> Es un acto voluntario: lo decidimos y lo controla el cerebro.
+> Los controla la médula espinal, sin pasar por el cerebro.
 
-? ¿Qué nervios llevan las órdenes a los músculos?
-+ Los nervios motores
-- Los nervios sensitivos
+? ¿Por qué nos protegen los actos reflejos?
++ Porque son mucho más rápidos que pensar
+- Porque los decidimos con calma
+- Porque los controla el cerebelo
+- Porque no usan los nervios
+> La respuesta llega antes.
+
+? Ordena el camino de un acto voluntario.
+1. Los sentidos captan un estímulo
+2. Los nervios sensitivos llevan la información
+3. El cerebro decide qué hacer
+4. Los nervios motores llevan la orden
+5. Los músculos se mueven
+> En los actos voluntarios interviene el cerebro.
+
+? ¿Qué parte controla el equilibrio cuando montas en bici?
+= cerebelo | el cerebelo
+> Coordina los movimientos.
+
+? El bulbo raquídeo controla funciones involuntarias como el latido del corazón.
+= verdadero
+> También la respiración.
+
+?* ¿Qué hábitos cuidan el sistema nervioso?
++ Dormir lo suficiente
++ Usar casco en bici y patinete
++ Aprender cosas nuevas
+- Dormir muy poco
+- Tomar alcohol
+> El cerebro necesita descanso y protección.
+
+? ¿Qué parte de la neurona es larga y envía la información?
++ El axón
 - Las dendritas
-- El cerebelo
-> Los nervios sensitivos hacen lo contrario: llevan la información de los sentidos.
+- El núcleo
+- La sinapsis
+> Las dendritas reciben; el axón envía.
 
-? ¿Qué forman el cerebro, el cerebelo y el bulbo raquídeo?
-= encéfalo | encefalo | el encefalo
-> El encéfalo y la médula espinal forman el sistema nervioso central.
+? Los impulsos nerviosos son pequeñas señales eléctricas.
+= verdadero
+> Así viaja la información por las neuronas.
 
-? ¿Dónde están el pensamiento, la memoria y el lenguaje?
-+ En el cerebro
-- En el cerebelo
-- En la médula espinal
-- En los nervios
-> El cerebro es el órgano más grande del sistema nervioso.
+? ¿Dónde está la médula espinal?
++ Dentro de la columna vertebral
+- Dentro del cráneo
+- En el corazón
+- Detrás del cerebelo, dentro del cráneo
+> Comunica el encéfalo con el resto del cuerpo.
+
+? Completa: Durante el sueño, el cerebro [descansa] y [ordena] lo aprendido.
+- olvida
+- crece
+> Por eso hay que dormir lo suficiente.

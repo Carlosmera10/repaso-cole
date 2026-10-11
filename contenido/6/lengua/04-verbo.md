@@ -58,60 +58,126 @@ El verbo **haber** se usa como **auxiliar** para formar los tiempos compuestos: 
 
 # Examen
 
-? ¿Qué modo verbal expresa hechos reales?
-+ Indicativo
-- Subjuntivo
-- Imperativo
-- Infinitivo
-> Por ejemplo: Mañana llueve.
+preguntas: 20
 
-? ¿En qué modo está "ojalá llueva"?
+? Relaciona cada modo verbal con lo que expresa.
+* Indicativo → Hechos reales o seguros
+* Subjuntivo → Deseos, dudas o posibilidades
+* Imperativo → Órdenes o ruegos
+> Mañana llueve. Ojalá llueva. ¡Abre la ventana!
+
+? Clasifica cada forma verbal según su modo.
+@ Indicativo: amaba | comeré | vivimos
+@ Subjuntivo: ame | comiera | viváis
+@ Imperativo: ama | comed | vive
+> Fíjate en si expresa un hecho, un deseo o una orden.
+
+? ¿En qué modo está "Ojalá llueva"?
 + Subjuntivo
 - Indicativo
 - Imperativo
-- Condicional
+- Infinitivo
 > Expresa un deseo.
 
-? ¿Qué tiempo es "había amado"?
-+ Pretérito pluscuamperfecto de indicativo
-- Pretérito perfecto compuesto de indicativo
-- Pretérito anterior
-- Pluscuamperfecto de subjuntivo
-> Haber en imperfecto (había) + participio.
+? Relaciona cada forma de "amar" con su tiempo de indicativo.
+* amo → Presente
+* amaba → Pretérito imperfecto
+* amé → Pretérito perfecto simple
+* amaré → Futuro simple
+* amaría → Condicional simple
+> Son los tiempos simples del indicativo.
 
-? ¿Qué tiempo es "hube amado"?
-= pretérito anterior | preterito anterior | pretérito anterior
-> Es un tiempo compuesto del indicativo, hoy casi no se usa.
+? Relaciona cada forma compuesta con su tiempo.
+* he amado → Pretérito perfecto compuesto
+* había amado → Pretérito pluscuamperfecto
+* habré amado → Futuro compuesto
+* habría amado → Condicional compuesto
+> Se forman con haber + participio.
 
-? ¿Cuál es el pretérito imperfecto de subjuntivo de "amar" (yo)?
-+ Amara o amase
-- Amaba
-- Amé
-- Ame
-> Tiene dos formas: amara y amase.
+? ¿Qué verbo se usa como auxiliar para formar los tiempos compuestos?
+= haber
+> He comido, habíamos salido.
 
-? ¿Cuál es la forma correcta del imperativo para "vosotros" del verbo callarse?
+? Completa: El pretérito imperfecto de subjuntivo de "amar" es [amara] o [amase].
+- amaría
+- amaba
+> Las dos formas son correctas.
+
+? ¿Cuál es la forma correcta?
 + ¡Callaos!
 - ¡Callaros!
 - ¡Callados!
 - ¡Callarse!
-> Callad + os = callaos (se pierde la d).
+> Callad + os: se pierde la d.
 
-? "Jugar" es un verbo irregular.
+? ¿Cuál es la forma correcta para dar una orden a tus compañeros?
++ ¡Sentaos!
+- ¡Sentaros!
+- ¡Sentarse!
+- ¡Sentados!
+> Sentad + os = sentaos.
+
+? El imperativo tiene formas de primera persona.
+= falso
+> Solo tiene segunda persona: ama, amad.
+
+? Completa la orden negativa: ¡No [corras] por el pasillo!
+- corre
+- correr
+> En negativo se usa el subjuntivo.
+
+? Clasifica las formas no personales de "comer".
+@ Infinitivo: comer | haber comido
+@ Gerundio: comiendo | habiendo comido
+@ Participio: comido
+> No indican persona ni número.
+
+?* ¿Qué verbos son irregulares?
++ jugar
++ pedir
++ tener
+- cantar
+- vivir
+> Juego, pido, tuve: la raíz cambia.
+
+? Ordena los pasos para saber si "poder" es irregular.
+1. Conjugar el presente: puedo
+2. Conjugar el pretérito perfecto simple: pude
+3. Conjugar el futuro: podré
+4. Comprobar si cambia la raíz: es irregular
+> Si la raíz cambia en alguno, es irregular.
+
+? "Comer" es un verbo regular.
 = verdadero
-> Cambia la raíz: juego, juegas, juega…
+> Mantiene la raíz com- en todas sus formas.
 
-? ¿Qué verbo auxiliar se usa para formar los tiempos compuestos?
-= haber | el verbo haber
-> He comido, habíamos salido, habrá terminado…
+? ¿Cuál es el gerundio compuesto de "salir"?
++ habiendo salido
+- haber salido
+- saliendo
+- había salido
+> Gerundio de haber + participio.
 
-? ¿Cómo se dice en voz pasiva "Cervantes escribió el Quijote"?
-+ El Quijote fue escrito por Cervantes
-- Cervantes fue escrito por el Quijote
-- El Quijote escribió a Cervantes
-- Cervantes había escrito el Quijote
+? Escribe la oración en voz pasiva: "Cervantes escribió el Quijote". El Quijote ___ escrito por Cervantes.
+= fue
 > Voz pasiva: ser + participio.
 
-? El gerundio indica persona y número.
+? Clasifica cada oración según su voz.
+@ Activa: Los alumnos pintaron el mural. | La policía detuvo al ladrón. | Mi abuela hizo la tarta.
+@ Pasiva: El mural fue pintado por los alumnos. | El ladrón fue detenido por la policía. | La tarta fue hecha por mi abuela.
+> En la pasiva, el sujeto recibe la acción.
+
+? En "El Quijote fue escrito por Cervantes", el sujeto realiza la acción.
 = falso
-> El gerundio es una forma no personal: no indica persona ni número.
+> Es voz pasiva: el sujeto recibe la acción.
+
+? ¿Qué parte del verbo indica persona, número, tiempo y modo?
++ La desinencia
+- La raíz
+- El infinitivo
+- El auxiliar
+> La raíz aporta el significado.
+
+? Escribe el pretérito pluscuamperfecto de indicativo de "comer" para "nosotros".
+= habíamos comido | habiamos comido
+> Había + participio.

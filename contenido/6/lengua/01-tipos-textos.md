@@ -49,60 +49,124 @@ Es un texto periodístico que informa de un **hecho reciente**. Partes: **titula
 
 # Examen
 
-? ¿Qué tipo de texto es una receta de cocina?
-+ Instructivo
-- Narrativo
-- Argumentativo
-- Lírico
-> Da instrucciones paso a paso.
+preguntas: 20
 
-? ¿Qué tipo de texto defiende una opinión con razones?
-= argumentativo | texto argumentativo
-> Tiene una tesis y unos argumentos.
+? Relaciona cada tipo de texto con lo que hace.
+* Narrativo → Cuenta hechos que les pasan a unos personajes
+* Descriptivo → Explica cómo es algo o alguien
+* Dialogado → Reproduce una conversación
+* Expositivo → Informa y explica un tema
+* Argumentativo → Defiende una opinión para convencer
+* Instructivo → Da instrucciones para hacer algo
+> Cada tipo tiene una intención distinta.
+
+? Clasifica cada texto según su tipo.
+@ Narrativo: un cuento | una novela | una biografía
+@ Instructivo: una receta | las reglas de un juego | las instrucciones de un mueble
+@ Argumentativo: un artículo de opinión | un debate | una carta al director
+> Fíjate en la intención de cada texto.
 
 ? ¿Qué tipo de texto es una entrada de una enciclopedia?
 + Expositivo
+- Narrativo
 - Dialogado
 - Instructivo
-- Narrativo
-> Informa y explica un tema de forma objetiva.
+> Informa y explica un tema de forma clara.
 
-? ¿Cómo se llama la idea que se defiende en un texto argumentativo?
-+ Tesis
-- Moraleja
-- Titular
-- Desenlace
-> Los argumentos son las razones que la apoyan.
+? Ordena la estructura de un texto narrativo.
+1. Planteamiento
+2. Nudo
+3. Desenlace
+> Se presentan los personajes, aparece el problema y se resuelve.
 
-? ¿Cómo se llama la descripción del carácter de una persona?
-+ Etopeya
-- Prosopografía
-- Retrato físico
-- Topografía
-> La prosopografía describe el aspecto físico; la etopeya, el carácter.
-
-? En un texto dialogado escrito, las intervenciones se introducen con una raya.
-= verdadero
-> —¿Vienes? —preguntó Hugo.
-
-? ¿Cómo se llama el narrador que lo sabe todo, incluso lo que piensan los personajes?
+? ¿Cómo se llama el narrador en tercera persona que lo sabe todo, incluso lo que piensan los personajes?
 = omnisciente | narrador omnisciente
-> Cuenta la historia en tercera persona.
+> Omnisciente significa que lo sabe todo.
 
-? ¿Qué partes tiene una noticia?
-+ Titular, entradilla y cuerpo
-- Planteamiento, nudo y desenlace
-- Tesis, argumentos y conclusión
-- Actos y escenas
-> La entradilla resume lo más importante.
+? Los textos narrativos usan sobre todo verbos en pasado y conectores de tiempo.
+= verdadero
+> Primero, después, de repente, al final…
 
-? Una descripción objetiva incluye los sentimientos de quien describe.
+? ¿Qué tipo de descripción incluye sentimientos y opiniones de quien describe?
++ Subjetiva
+- Objetiva
+- Técnica
+- Científica
+> La objetiva cuenta las cosas como son.
+
+? Completa: El retrato de una persona une la [prosopografía], que describe el aspecto físico, y la [etopeya], que describe el carácter.
+- topografía
+- biografía
+> Retrato = prosopografía + etopeya.
+
+? ¿Con qué signo se introduce cada intervención en un diálogo escrito?
++ Con la raya (—)
+- Con comillas («»)
+- Con paréntesis
+- Con dos puntos
+> —¿Vienes al parque? —preguntó Hugo.
+
+?* ¿Cuáles son textos dialogados?
++ Una entrevista
++ Una obra de teatro
++ Un chat
+- Una receta
+- Una noticia
+> Reproducen una conversación.
+
+? Ordena la estructura de un texto expositivo.
+1. Introducción
+2. Desarrollo
+3. Conclusión
+> Presenta el tema, lo explica y lo resume.
+
+? Relaciona cada parte del texto argumentativo con su definición.
+* Tesis → La opinión que se defiende
+* Argumentos → Las razones que la apoyan
+* Conclusión → Se repite la tesis reforzada
+> Sirve para convencer.
+
+? Clasifica cada conector.
+@ De tiempo: de repente | al final | después
+@ De orden: en primer lugar | además | por último
+@ Argumentativos: en mi opinión | por lo tanto | en conclusión
+> Cada tipo de texto usa conectores distintos.
+
+? ¿Cómo se llama el resumen que va debajo del titular en una noticia?
+= entradilla | la entradilla
+> Partes: titular, entradilla y cuerpo.
+
+? Ordena las partes de una noticia.
+1. Titular
+2. Entradilla
+3. Cuerpo
+> Del más breve al más detallado.
+
+? Una noticia informa de un hecho reciente.
+= verdadero
+> Responde a qué, quién, cuándo, dónde, cómo y por qué.
+
+? Un texto expositivo usa un lenguaje subjetivo, lleno de opiniones.
 = falso
-> Eso es una descripción subjetiva. La objetiva describe las cosas tal como son.
+> Usa un lenguaje claro y objetivo.
 
-? ¿Qué conector es típico de un texto argumentativo?
-+ En mi opinión
-- Había una vez
-- Añade dos huevos
-- A la derecha
-> Sirve para introducir la opinión de quien escribe.
+? «Primero, bate los huevos. Después, añade la harina.» ¿Qué tipo de texto es?
++ Instructivo
+- Narrativo
+- Argumentativo
+- Descriptivo
+> Da instrucciones para hacer algo.
+
+? «Al fondo de la sala había una chimenea; a la derecha, una estantería llena de libros.» ¿Qué tipo de texto es?
++ Descriptivo
+- Instructivo
+- Expositivo
+- Dialogado
+> Explica cómo es un lugar con conectores de lugar.
+
+? «En mi opinión, los deberes deberían ser más cortos, ya que necesitamos tiempo para jugar.» ¿Qué tipo de texto es?
++ Argumentativo
+- Narrativo
+- Expositivo
+- Instructivo
+> Defiende una opinión con un argumento.

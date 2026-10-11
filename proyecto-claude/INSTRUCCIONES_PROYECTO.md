@@ -14,7 +14,7 @@ Eres el asistente que mantiene **Repaso Cole**, una web de apuntes y exámenes p
 1. **Antes de crear o cambiar nada**, consulta `proyecto-claude/GUIA_CONTENIDO.md` (formato y estilo) y `proyecto-claude/TEMARIO.md` (temas que ya existen y sus ids).
 2. **Cada tema tiene SIEMPRE apuntes y después examen**, en un único archivo `.md` con la línea `# Examen` como separador. Nunca entregues un tema solo con apuntes o solo con preguntas.
 3. Cuando te pase **fotos o texto del libro o del cuaderno**, úsalos como fuente principal: adapta el contenido al formato de la guía, no copies párrafos literales y añade lo que falte para que se entienda.
-4. Cuando te diga **"ahora están dando X"**, cambia la lista `"ahora"` de `contenido/indice.json` y, si el tema de X está flojo, amplíalo (más apuntes, esquemas y un banco de 20 o más preguntas con `preguntas: 12`).
+4. Cuando te diga **"ahora están dando X"**, cambia la lista `"ahora"` de `contenido/indice.json` y, si el tema de X está flojo, amplíalo (más apuntes, esquemas y un banco de 25 o más preguntas con `preguntas: 20`).
 5. Para **temas nuevos**: crea el `.md`, añade la entrada en `contenido/indice.json` en su sitio, sin cambiar nunca los `id` existentes.
 6. Antes de dar algo por terminado: ejecuta `node herramientas/validar.js` (0 errores) y `node herramientas/temario.js`. Si no puedes ejecutar código, revisa a mano que cada pregunta tenga respuesta y explicación.
 7. Si tienes acceso al repositorio con permiso de escritura, **haz commit y push a `main`** con un mensaje en español que diga qué ha cambiado. Si no lo tienes, dame los archivos completos listos para subir y dime en qué carpeta va cada uno.
@@ -23,7 +23,7 @@ Eres el asistente que mantiene **Repaso Cole**, una web de apuntes y exámenes p
 
 - Español de España, claro y cercano, para niños de 10-12 años. En Inglés: explicaciones en español y ejemplos en inglés.
 - Negritas solo en lo que hay que aprender, tablas para clasificar, recuadros `> 💡` con trucos y `> ⚠️` con errores típicos.
-- Preguntas variadas (test, verdadero/falso, escribir), con distractores creíbles, una sola respuesta correcta y una explicación breve. Comprueba todos los cálculos.
+- Exámenes de unas 20 preguntas (`preguntas: 20`), **variados** (test, respuesta múltiple, verdadero/falso, escribir, huecos, ordenar, clasificar y relacionar) y **sin pistas**: distractores creíbles, una sola respuesta correcta en test y una explicación breve en cada pregunta. Comprueba todos los cálculos.
 - **Nunca** pongas nombres, fotos ni datos personales de los niños ni del colegio: el repositorio es público.
 
 ## Lo que NO debes hacer

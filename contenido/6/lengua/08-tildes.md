@@ -57,63 +57,126 @@ Sirve para **distinguir** palabras que se escriben igual pero tienen distinto si
 
 # Examen
 
-? ¿Cuáles son las vocales cerradas?
-+ i, u
-- a, e, o
-- a, i
-- e, u
-> Las abiertas son a, e, o.
+preguntas: 20
+
+? Relaciona cada clase de palabra con cuándo lleva tilde.
+* Aguda → Si acaba en vocal, -n o -s
+* Llana → Si no acaba en vocal, -n o -s
+* Esdrújula → Siempre
+> Las sobresdrújulas también llevan tilde siempre.
+
+? Clasifica cada palabra según su sílaba tónica.
+@ Aguda: sofá | camión | compás
+@ Llana: árbol | lápiz | cómic
+@ Esdrújula: música | pájaro | lámpara
+@ Sobresdrújula: dígaselo | cómetelo | explícamelo
+> Cuenta las sílabas desde el final.
+
+? ¿Por qué lleva tilde "bíceps"?
++ Es llana y acaba en -s precedida de otra consonante
+- Es aguda y acaba en -s, como compás
+- Es esdrújula y todas llevan tilde
+- Lleva tilde diacrítica para distinguirla
+> Bí-ceps: llana terminada en -ps.
+
+? Clasifica cada vocal.
+@ Abiertas: a | e | o
+@ Cerradas: i | u
+> También se llaman fuertes y débiles.
 
 ? ¿Qué es un diptongo?
-+ Dos vocales seguidas en la misma sílaba
-- Dos vocales seguidas en sílabas distintas
++ Dos vocales en la misma sílaba
+- Dos vocales en sílabas distintas
 - Tres vocales en la misma sílaba
-- Una vocal con tilde
-> Por ejemplo: ai-re, cua-dro.
+- Dos consonantes juntas
+> Ai-re, pie-dra, ciu-dad.
 
-? ¿Cómo se separan las sílabas de "león"?
-+ le-ón (hiato)
-- león (una sílaba)
-- l-e-ón
-- leo-n
-> Dos vocales abiertas forman hiato.
+? Clasifica cada palabra según tenga diptongo o hiato.
+@ Diptongo: aire | piedra | ciudad | causa
+@ Hiato: león | día | baúl | aéreo
+> En el hiato las vocales van en sílabas distintas.
 
-? ¿Por qué lleva tilde "día"?
-+ Porque la i tónica forma hiato con la a
-- Porque es esdrújula
-- Porque es aguda terminada en vocal
-- No debería llevar tilde
-> La vocal cerrada tónica junto a una abierta siempre lleva tilde.
+? ¿Cómo se separa "Uruguay" en sílabas?
++ U-ru-guay
+- U-ru-gu-ay
+- Ur-u-guay
+- U-rug-uay
+> Guay tiene un triptongo.
 
-? ¿Qué palabra está bien escrita?
-+ País
-- Pais
-- Páis
-- Paìs
-> Pa-ís: hiato con la i tónica.
-
-? En "Si llueve, no iremos", "si" no lleva tilde porque expresa condición.
+? En un hiato con vocal cerrada tónica, la cerrada siempre lleva tilde.
 = verdadero
-> Lleva tilde cuando es afirmación (sí, quiero) o pronombre (para sí).
+> Dí-a, ba-úl, rí-o.
 
-? ¿Qué frase está bien escrita?
-+ No sé qué hacer.
-- No se que hacer.
-- No sé que hacer.
-- No se qué hacer.
-> Sé (verbo saber) y qué (interrogativo indirecto) llevan tilde.
+? Completa: Mi tía vive en el [país] vecino y tiene un [baúl] lleno de juguetes.
+- pais
+- baul
+- páis
+> Hiato con i o u tónica: siempre tilde.
 
-? ¿Cómo se llama la unión de tres vocales en una misma sílaba?
-= triptongo | un triptongo
-> Por ejemplo, Uruguay o averiguáis.
+? ¿Por qué "canción" lleva tilde en la o?
++ Es aguda acabada en -n y en el diptongo la tilde va sobre la abierta
+- Es llana acabada en consonante distinta de -n o -s
+- Tiene un hiato con la vocal cerrada tónica, como en día
+- Es esdrújula y las esdrújulas llevan siempre tilde
+> Can-ción.
 
-? Según las normas actuales, la palabra "solo" debe llevar siempre tilde.
-= falso
-> Hoy se escribe sin tilde, también cuando significa "solamente".
+? ¿Qué palabra está mal escrita?
++ caér
+- león
+- caer
+- aéreo
+> Caer es aguda acabada en -r: no lleva tilde.
 
-? ¿Qué frase está bien escrita?
-+ Quiero tomar un té contigo.
-- Quiero tomar un te contigo.
-- Té quiero mucho.
-- ¿Té vienes?
-> Té (bebida) lleva tilde; te (pronombre) no.
+?* ¿Qué palabras llevan tilde por tener un hiato con vocal cerrada tónica?
++ maíz
++ río
++ grúa
+- canción
+- también
+> Canción y también la llevan por ser agudas.
+
+? Relaciona cada palabra con su uso.
+* tú → Pronombre personal
+* tu → Posesivo
+* té → Bebida
+* el → Artículo
+* sí → Afirmación
+* si → Condición
+> Es la tilde diacrítica.
+
+? Completa: [Tú] sabes que [tu] hermano viene hoy.
+- Tu
+- tú
+> Pronombre con tilde; posesivo sin tilde.
+
+? Completa: No lo [sé], pero creo que [se] fue a casa.
+- sí
+> Sé (saber) con tilde; se (pronombre) sin tilde.
+
+? Completa: ¿Quieres [más] [té]? Lo intentó, [mas] no pudo.
+- te
+> Más (cantidad), té (bebida), mas (= pero).
+
+? Completa: Que me [dé] el libro [de] cuentos.
+- del
+> Dé (verbo dar) con tilde; de (preposición) sin tilde.
+
+? Según las normas actuales, "solo" no lleva tilde.
+= verdadero
+> Tampoco los demostrativos este, ese, aquel.
+
+? ¿Cuál está bien escrita?
++ Tengo 3 o 4 libros.
+- Tengo 3 ó 4 libros.
+- Tengo 3 ò 4 libros.
+- Tengo 3 o' 4 libros.
+> La o nunca lleva tilde, aunque vaya entre números.
+
+? "Cuídalo" lleva la tilde en la segunda vocal cerrada del diptongo.
+= verdadero
+> Cuí-da-lo: esdrújula; en ui la tilde va en la segunda.
+
+? Completa: ¿[Cómo] estás? Lo hice [como] me dijiste.
+- Como
+- cómo
+> Interrogativo con tilde; como sin tilde.

@@ -133,9 +133,9 @@ preguntas: 20
 
 ? ¿Qué significa el prefijo "re-" en "releer"?
 + Volver a hacer algo
-- Antes
-- Debajo
-- Negación
+- Antes de hacer algo
+- Debajo de algo
+- Lo contrario de algo
 > Releer es volver a leer.
 
 ? Completa: Una casa pequeña es una [casita] y una casa grande es una [casona].

@@ -50,60 +50,125 @@ Se refieren a un **sustantivo nombrado antes** (el **antecedente**) e introducen
 
 # Examen
 
-? En "Ese es mi coche", ¿qué es "ese"?
-+ Pronombre demostrativo
-- Determinante demostrativo
-- Artículo
-- Adverbio
-> Va solo, sin acompañar a un sustantivo.
+preguntas: 20
 
-? En "Ese coche es nuevo", ¿qué es "ese"?
-+ Determinante demostrativo
-- Pronombre demostrativo
-- Pronombre personal
-- Adjetivo
-> Acompaña al sustantivo coche.
+? ¿Cuál es la diferencia entre un determinante y un pronombre?
++ El determinante acompaña a un sustantivo; el pronombre va solo y lo sustituye
+- El determinante va solo y sustituye; el pronombre acompaña a un sustantivo
+- El determinante siempre lleva tilde; el pronombre nunca la lleva
+- El determinante expresa acciones; el pronombre expresa cualidades
+> Ese coche es nuevo (determinante). Ese es nuevo (pronombre).
 
-? ¿Cuál es el ordinal que corresponde al número 11?
-+ Undécimo
-- Onceavo
-- Oncésimo
-- Unésimo
-> 11.º es undécimo y 12.º, duodécimo. "Onceavo" es una fracción (1/11).
+? Clasifica la palabra destacada en cada oración.
+@ Determinante: **Ese** coche es nuevo. | Tengo **muchos** libros. | **Mi** casa es azul.
+@ Pronombre: **Ese** es nuevo. | Tengo **muchos**. | La casa es **mía**.
+> Si acompaña a un sustantivo, es determinante.
 
-? ¿Qué palabra es SOLO pronombre (nunca determinante)?
-+ Nadie
-- Muchos
-- Este
-- Tres
-> Alguien, nadie, algo y nada siempre son pronombres.
+? Relaciona cada determinante con su clase.
+* aquellas → Demostrativo
+* nuestro → Posesivo
+* undécimo → Numeral ordinal
+* cien → Numeral cardinal
+* varios → Indefinido
+* lo → Artículo
+> Lo es el artículo neutro.
 
-? En "El libro que me prestaste es genial", ¿qué tipo de pronombre es "que"?
-= relativo | pronombre relativo
-> Se refiere a un antecedente: el libro.
+? ¿Qué ordinal corresponde al número 12?
++ duodécimo
+- doceavo
+- decimodos
+- doceno
+> Doceavo es una fracción (1/12), no un ordinal.
 
-? ¿Cuál es el antecedente en "La niña que ganó la carrera es mi prima"?
-+ La niña
-- La carrera
-- Mi prima
-- Que
-> El relativo "que" se refiere a la niña.
+? ¿Qué ordinal corresponde al número 20?
+= vigésimo
+> Vigésimo: el que ocupa el lugar 20.
 
-? Los pronombres interrogativos llevan tilde.
-= verdadero
-> ¿Quién? ¿Qué? ¿Cuál? ¿Cuánto?
+? Completa: En "el libro mío", "mío" es una forma [tónica] del posesivo y en "mi libro", "mi" es una forma [átona].
+- neutra
+- plural
+> Las átonas van delante del nombre.
 
-? ¿Qué tipo de determinante es "varios"?
-+ Indefinido
-- Numeral
-- Posesivo
+?* ¿Qué palabras son solo pronombres (nunca determinantes)?
++ alguien
++ nadie
++ algo
+- algún
+- varios
+> Algún y varios pueden acompañar a un sustantivo.
+
+? Clasifica cada pronombre personal según su persona.
+@ Primera persona: conmigo | nos | mí
+@ Segunda persona: contigo | os | usted
+@ Tercera persona: consigo | les | ello
+> Usted es segunda persona aunque el verbo va en tercera.
+
+? En "¿Quién ha llamado?", ¿qué clase de pronombre es "quién"?
++ Interrogativo
+- Relativo
+- Personal
 - Demostrativo
-> Indica una cantidad imprecisa.
+> Pregunta y lleva tilde.
 
-? En "El libro es mío", "mío" es la forma átona del posesivo.
+? En "El libro que me prestaste es genial", ¿cuál es el antecedente de "que"?
+= el libro | libro
+> El relativo que se refiere a el libro.
+
+? Los pronombres relativos llevan tilde.
 = falso
-> "Mío" es la forma tónica. La átona es "mi", que va delante del nombre.
+> Los relativos no llevan tilde; los interrogativos y exclamativos, sí.
 
-? ¿Qué pronombre personal completa: "¿Quieres venir ___ al cine?" (con yo)?
-= conmigo
-> Con + yo = conmigo.
+? Completa: ¿[Qué] quieres? Quiero el libro [que] me regalaste.
+- Que
+- qué
+> Interrogativo con tilde; relativo sin tilde.
+
+? Completa: ¡[Cuánto] has crecido! Es la chica [cuyo] perro ladra.
+- Cuanto
+- cuya
+> Exclamativo con tilde; cuyo concuerda con perro.
+
+? Relaciona cada pronombre con su clase.
+* quien (en "El chico con quien hablé") → Relativo
+* ¿quién? → Interrogativo
+* nadie → Indefinido
+* aquel → Demostrativo
+* tuyo → Posesivo
+> Fíjate en la tilde y en el significado.
+
+? En "Vinieron tres", ¿qué es "tres"?
++ Un pronombre numeral
+- Un determinante numeral
+- Un adjetivo
+- Un adverbio
+> No acompaña a ningún sustantivo.
+
+? ¿Qué oración tiene un determinante interrogativo?
++ ¿Qué película quieres ver?
+- ¿Qué quieres?
+- La película que vimos.
+- ¡Qué bien!
+> Qué acompaña al sustantivo película.
+
+? "Donde" es un pronombre relativo en "Esta es la casa donde nací".
+= verdadero
+> Se refiere a la casa.
+
+? Ordena estos ordinales de menor a mayor.
+1. tercero
+2. décimo
+3. undécimo
+4. duodécimo
+5. vigésimo
+> 3.º, 10.º, 11.º, 12.º y 20.º.
+
+? ¿Cuál es el artículo neutro?
+= lo
+> Lo bueno, lo difícil…
+
+? ¿Qué palabra es un pronombre personal de tercera persona?
++ consigo
+- conmigo
+- contigo
+- nosotras
+> Conmigo es de primera y contigo de segunda.

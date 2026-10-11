@@ -45,60 +45,132 @@ Se usa para:
 
 # Examen
 
-? Completa: I think people ___ live on Mars in the future.
-+ will
-- are going
+preguntas: 20
+
+? ¿Cómo se forma el futuro con will?
++ will + verbo en forma básica
+- will + verbo con -ing
+- will + to + verbo
+- will + verbo con -s
+> She will win.
+
+? ¿Cuál es la forma negativa de "will"?
+= won't | will not
+> She won't win.
+
+? Clasifica cada frase según su uso de will.
+@ Predicción u opinión: I think it will rain tomorrow. | People will live on Mars.
+@ Decisión rápida: It's cold. I'll close the window. | The phone is ringing. I'll answer it.
+@ Promesa u ofrecimiento: I won't tell anyone. | I'll help you with your bag.
+> Will tiene varios usos.
+
+? ¿Cómo se forma be going to?
++ am / is / are + going to + verbo en forma básica
+- will + going to + verbo en forma básica
+- going to + verbo con -ing, sin am / is / are
+- do / does + going to + verbo en forma básica
+> I'm going to visit my aunt.
+
+? Completa: I [am] going to visit my aunt and my brothers [are] going to play football.
+- is
+- will
+> I am; they are.
+
+? ¿Qué frase expresa un plan ya decidido?
++ I'm going to visit my aunt next weekend.
+- I think it will be sunny.
+- It's cold. I'll close the window.
+- I won't tell anyone.
+> Going to = algo planeado.
+
+? Look at those clouds! It ___ rain.
++ 's going to
+- will
 - going to
-- wills
-> Es una predicción u opinión sobre el futuro.
-
-? ¿Cuál es la negativa de "will"?
-= won't | wont | won't | will not
-> She won't win = Ella no ganará.
-
-? Completa: Look at those clouds! It ___ rain.
-+ is going to
-- will to
-- going
-- are going to
+- is go to
 > Predicción con pruebas: going to.
 
-? Completa: I ___ visit my grandparents next weekend. (ya lo he planeado)
-+ am going to
-- will to
-- is going to
-- going to
-> Un plan decidido: am going to.
+? ¿Qué forma de futuro se usa para una decisión que tomas en el momento?
++ will
+- be going to
+- present continuous
+- past simple
+> It's cold. I'll close the window.
 
-? Elige la oración correcta.
-+ She will help you.
-- She wills help you.
-- She will helps you.
-- She will to help you.
-> Will no lleva -s y va con el verbo en forma básica.
+? Relaciona cada pregunta con su respuesta corta.
+* Will you come? → Yes, I will.
+* Will she win? → No, she won't.
+* Are you going to swim? → Yes, I am.
+* Is he going to study? → No, he isn't.
+> La respuesta corta repite will o am/is/are.
 
-? "It's cold. I'll close the window" es una decisión tomada en el momento.
-= verdadero
-> Para decisiones rápidas usamos will.
-
-? Respuesta corta: "Will you come to my party?" — "Yes, I ___."
-= will
-> Yes, I will. / No, I won't.
-
-? ¿Qué significa "next year"?
-+ El año que viene
-- El año pasado
-- Este año
-- Dentro de dos años
-> Next = próximo, que viene.
-
-? ¿Cómo se dice "bombero" en inglés?
-+ firefighter
-- police officer
-- farmer
-- nurse
-> Fire (fuego) + fighter (luchador).
-
-? "They is going to play tennis" es correcto.
+? "She will wins the race" es correcto.
 = falso
-> Con they se usa are: They are going to play tennis.
+> Will va con el verbo en forma básica: she will win.
+
+? ¿Qué frase negativa es correcta?
++ He isn't going to play.
+- He doesn't going to play.
+- He won't going to play.
+- He isn't go to play.
+> is not + going to + verbo.
+
+? Ordena las palabras para formar una pregunta.
+1. What
+2. are you
+3. going to
+4. do tomorrow?
+> What are you going to do tomorrow?
+
+? Relaciona cada expresión con su significado.
+* tomorrow → mañana
+* the day after tomorrow → pasado mañana
+* next week → la semana que viene
+* tonight → esta noche
+* soon → pronto
+> Future time expressions.
+
+? Ordena de más cercano a más lejano en el tiempo.
+1. tonight
+2. tomorrow
+3. the day after tomorrow
+4. next year
+5. in 2050
+> De hoy al futuro lejano.
+
+? Relaciona cada profesión con su significado.
+* nurse → enfermero/a
+* firefighter → bombero/a
+* vet → veterinario/a
+* engineer → ingeniero/a
+* chef → cocinero/a
+* farmer → granjero/a
+> Jobs.
+
+? ¿Qué significa "What are you going to be when you grow up?"?
++ ¿Qué vas a ser de mayor?
+- ¿Qué estás haciendo ahora?
+- ¿Qué hiciste ayer?
+- ¿Qué quieres comer?
+> Grow up = crecer, hacerse mayor.
+
+?* ¿Qué frases son correctas?
++ I'll help you.
++ They're going to travel to Italy.
++ It won't be easy.
+- She will to come.
+- We are going play tennis.
+> Will sin to; going to + verbo.
+
+? Escribe en inglés: "Ella va a ser médica". She's going ___ be a doctor.
+= to
+> Going to + verbo.
+
+? "Will" es igual para todas las personas.
+= verdadero
+> I will, she will, they will.
+
+? Completa: It's hot. I [will] open the window. Next summer we [are going to] travel to Rome.
+- going
+- am going
+> Decisión rápida con will; plan con going to.

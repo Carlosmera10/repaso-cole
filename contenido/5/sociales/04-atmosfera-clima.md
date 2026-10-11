@@ -100,9 +100,9 @@ preguntas: 20
 
 ? ¿Qué suele traer un anticiclón?
 + Buen tiempo y cielo despejado
-- Nubes y lluvia
-- Nieve y granizo
-- Tormentas fuertes
+- Nubes bajas y lluvia
+- Nieve y granizo fuerte
+- Viento fuerte y tormentas
 > Las borrascas, en cambio, traen nubes y lluvia.
 
 ? Completa: Las altas presiones forman un [anticiclón|anticiclon] y las bajas presiones, una [borrasca].
@@ -128,9 +128,9 @@ preguntas: 20
 
 ? ¿Cómo son las temperaturas cerca del mar?
 + Más suaves, con poca diferencia entre invierno y verano
-- Más extremas que en el interior
-- Siempre muy frías
-- Siempre muy calurosas
+- Más extremas, con inviernos muy fríos y veranos muy cálidos
+- Siempre muy frías, tanto en invierno como en verano
+- Siempre muy calurosas, incluso en pleno invierno
 > El mar suaviza las temperaturas.
 
 ? Relaciona cada zona climática con su situación.

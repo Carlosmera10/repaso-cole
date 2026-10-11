@@ -56,57 +56,138 @@
 
 # Examen
 
-? ¿Cómo se llama la parte de la palabra que lleva el significado principal?
-+ Lexema
-- Prefijo
-- Sufijo
-- Morfema flexivo
-> En "panadero", el lexema es pan-.
+preguntas: 20
 
-? ¿Qué tipo de palabra es "girasol"?
-+ Compuesta
-- Simple
-- Derivada
-- Sigla
-> Está formada por dos palabras: gira + sol.
+? ¿Qué es el lexema?
++ La parte de la palabra que lleva el significado principal
+- La parte que indica el género y el número
+- Un prefijo que se coloca delante de la palabra
+- La última sílaba de la palabra, que es átona
+> Pan- en panadero.
 
-? ¿Qué tipo de palabra es "florero"?
-+ Derivada
-- Compuesta
-- Simple
-- Acrónimo
-> Lexema flor + sufijo -ero.
+? Clasifica cada morfema.
+@ Flexivo: -a (niña) | -s (niñas) | -amos (cantamos)
+@ Derivativo: des- (deshacer) | -ero (panadero) | re- (reescribir)
+> Los derivativos forman palabras nuevas.
 
-? ¿Qué significa el prefijo "sub-" en "subterráneo"?
-= debajo | por debajo | debajo de
-> Subterráneo: que está debajo de la tierra.
+? Clasifica cada palabra según cómo se forma.
+@ Simple: mar | flor | luz
+@ Derivada: marinero | florero | deshacer
+@ Compuesta: sacapuntas | girasol | abrelatas
+@ Parasintética: enrojecer | aterrizar | quinceañero
+> Las compuestas unen dos lexemas.
 
-? ¿Qué sufijo es despectivo?
-+ -ucho (casucha)
-- -ito (casita)
-- -ero (casero)
-- -ble (lavable)
-> Los sufijos despectivos dan un sentido negativo o de desprecio.
+? ¿Qué es una palabra compuesta?
++ La formada por dos o más lexemas
+- La que lleva prefijo y sufijo
+- La que tiene un solo lexema
+- La que viene de otra lengua
+> Para + aguas = paraguas.
 
-? "ONU" es una sigla.
+? "Fin de semana" es una palabra compuesta.
 = verdadero
-> Está formada por las iniciales de Organización de las Naciones Unidas.
+> Es una compuesta separada (expresión fija).
 
-? ¿Cómo se llaman las palabras que vienen de otras lenguas?
-= préstamos | prestamos | préstamos | prestamo
-> Por ejemplo, fútbol viene del inglés.
+? Relaciona cada prefijo con su significado.
+* re- → Repetición
+* pre- → Antes
+* sub- → Debajo
+* inter- → Entre
+* auto- → Uno mismo
+* multi- → Muchos
+> Reescribir, prever, subterráneo, internacional, autorretrato, multicolor.
+
+? ¿Qué significa el prefijo "in-" en "inútil"?
++ Negación
+- Dentro
+- Repetición
+- Muchos
+> Inútil: que no es útil.
+
+? Relaciona cada sufijo con su significado.
+* -ito → Diminutivo
+* -azo → Aumentativo
+* -ucho → Despectivo
+* -ero → Oficio
+* -ble → Que puede ser
+* -eza → Cualidad
+> Pajarito, cochazo, casucha, carpintero, lavable, belleza.
+
+? Clasifica cada palabra según su sufijo.
+@ Diminutivo: pajarito | chiquillo | pequeñín
+@ Aumentativo: cochazo | grandote | cabezón
+@ Despectivo: casucha | libraco | animalejo
+> Los sufijos añaden matices de tamaño o desprecio.
+
+? Escribe el sustantivo abstracto que se forma de "bueno" con el sufijo -dad.
+= bondad
+> Bueno → bondad.
+
+?* ¿Qué palabras son derivadas?
++ jugador
++ lavable
++ reescribir
+- girasol
+- sol
+> Girasol es compuesta y sol es simple.
+
+? Relaciona cada sigla con su significado.
+* ONU → Organización de las Naciones Unidas
+* DNI → Documento Nacional de Identidad
+* UE → Unión Europea
+> Las siglas se escriben en mayúsculas y sin puntos.
+
+? ¿Qué es "ovni"?
++ Un acrónimo
+- Una abreviatura
+- Una palabra derivada
+- Un préstamo del francés
+> Objeto volador no identificado, que se lee como una palabra.
+
+? Completa: "pág." es una [abreviatura] de "página" y "ONU" es una [sigla].
+- acrónimo
+- palabra compuesta
+> Las abreviaturas terminan en punto.
+
+? Relaciona cada préstamo con su lengua de origen.
+* fútbol → Inglés
+* chalé → Francés
+* almohada → Árabe
+* chocolate → Náhuatl
+> Son palabras que vienen de otras lenguas.
+
+? ¿Qué es un neologismo?
++ Una palabra nueva para nombrar una realidad nueva
+- Una palabra muy antigua que ya no se usa
+- Una palabra formada por dos o más lexemas
+- Una palabra mal escrita o mal pronunciada
+> Tuitear, bloguero, wifi.
+
+? Las siglas se escriben con puntos entre las letras: O.N.U.
+= falso
+> Se escriben en mayúsculas y sin puntos: ONU.
+
+? Ordena las partes de la palabra "niñitas".
+1. niñ- (lexema)
+2. -it- (sufijo diminutivo)
+3. -a (género)
+4. -s (número)
+> Lexema + morfema derivativo + morfemas flexivos.
 
 ? ¿Qué palabra es parasintética?
-+ Enrojecer
-- Rojo
-- Rojizo
-- Pelirrojo
-> Se forma a la vez con prefijo (en-) y sufijo (-ecer).
++ enrojecer
+- rojizo
+- rojo
+- pelirrojo
+> En-roj-ecer: prefijo y sufijo a la vez.
 
-? Las abreviaturas terminan con un punto.
-= verdadero
-> Sr., pág., Avda., etc.
+? Escribe la palabra derivada que nombra a la persona que hace pan.
+= panadero | panadera
+> Pan + -adero.
 
-? "Tuitear" es una palabra muy antigua del castellano.
-= falso
-> Es un neologismo: una palabra nueva creada para una realidad nueva.
+? ¿Qué prefijo significa "después"?
++ pos-
+- pre-
+- sub-
+- inter-
+> Posguerra: después de la guerra.

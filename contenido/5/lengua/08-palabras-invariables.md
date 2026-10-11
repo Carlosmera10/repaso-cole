@@ -143,10 +143,10 @@ preguntas: 20
 > Muy (cantidad) y deprisa (modo).
 
 ? ¿Qué tipo de adverbio es "nunca"?
-+ De negación (o de tiempo)
++ De negación
 - De lugar
 - De cantidad
-- De modo
+- De afirmación
 > Nunca también indica tiempo.
 
 ? Completa con una preposición: Salimos [desde|de] el colegio [hasta|hacia] el parque.

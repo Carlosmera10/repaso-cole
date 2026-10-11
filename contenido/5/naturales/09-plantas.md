@@ -164,7 +164,7 @@ preguntas: 20
 
 ? ¿Qué diferencia a las gimnospermas de las angiospermas?
 + Las gimnospermas no tienen un fruto que envuelva la semilla
-- Las gimnospermas no tienen flores ni semillas
-- Las angiospermas se reproducen por esporas
-- Las angiospermas no hacen la fotosíntesis
+- Las gimnospermas no tienen flores ni producen semillas
+- Las angiospermas se reproducen por esporas y no por semillas
+- Las angiospermas no hacen la fotosíntesis en sus hojas
 > El pino, por ejemplo, tiene piñas, no frutos carnosos.

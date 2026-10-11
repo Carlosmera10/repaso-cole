@@ -49,57 +49,128 @@ Una lengua no se habla igual en todas partes.
 
 # Examen
 
-? ¿Cuál es la lengua oficial de todo el Estado español?
-+ El castellano
-- El catalán
-- El gallego
-- El euskera
-> Las demás lenguas españolas son cooficiales en sus comunidades.
+preguntas: 20
 
-? ¿En qué comunidad es oficial el gallego?
-= Galicia | galicia
-> Es una lengua romance, como el castellano.
+? ¿Qué significa que España es un país plurilingüe?
++ Que en él se hablan varias lenguas
+- Que todos hablan inglés
+- Que solo hay una lengua
+- Que tiene muchos dialectos del inglés
+> Castellano, catalán, gallego, euskera…
 
-? ¿Qué lengua de España NO viene del latín?
-+ El euskera
-- El catalán
-- El gallego
-- El castellano
-> El euskera es anterior a la llegada de los romanos.
+? Según la Constitución, ¿cuál es la lengua oficial de todo el Estado?
+= castellano | español | el castellano | el español
+> Las demás son también oficiales en sus comunidades.
 
-? ¿Cómo se llaman las lenguas que vienen del latín?
-= romances | lenguas romances | romanicas | lenguas romanicas
-> Castellano, catalán, gallego, francés, italiano, portugués y rumano.
+? Relaciona cada lengua con la comunidad donde es oficial junto al castellano.
+* Catalán → Cataluña e Islas Baleares
+* Valenciano → Comunitat Valenciana
+* Gallego → Galicia
+* Euskera → País Vasco y zona vascohablante de Navarra
+* Aranés → Valle de Arán
+> En esas comunidades hay dos lenguas oficiales.
 
-? ¿Qué es el seseo?
-+ Pronunciar la z y la c como s
-- Pronunciar la s como z
-- Pronunciar igual la ll y la y
-- No pronunciar la s final
-> Por ejemplo, decir "sapato" en lugar de "zapato".
+? Clasifica cada lengua según su origen.
+@ Viene del latín: castellano | catalán | gallego | portugués | francés
+@ No viene del latín: euskera
+> El euskera es anterior a los romanos.
 
-? ¿Qué institución publica el diccionario y la ortografía del español?
-+ La Real Academia Española (RAE)
-- La ONU
-- El Congreso de los Diputados
-- El Instituto Cervantes
-> La RAE se fundó en 1713.
+? ¿De dónde vienen las lenguas romances?
++ Del latín
+- Del griego
+- Del árabe
+- Del euskera
+> El latín llegó con los romanos.
 
-? Una comunidad donde hay dos lenguas oficiales es bilingüe.
-= verdadero
-> Como Cataluña, Galicia o el País Vasco.
-
-? ¿Qué palabra es un vulgarismo?
-+ Haiga
-- Haya
-- Así
-- Dijiste
-> Lo correcto es "haya".
-
-? En el español de América se suele usar "ustedes" en lugar de "vosotros".
-= verdadero
-> Por ejemplo: "¿Ustedes vienen?".
-
-? El registro coloquial es el adecuado para hacer un examen o escribir una carta oficial.
+? El euskera viene del latín.
 = falso
-> En esas situaciones se usa el registro formal. El coloquial es para hablar con amigos y familia.
+> Es anterior a los romanos y su origen no se conoce con certeza.
+
+?* ¿Qué lenguas son romances?
++ Italiano
++ Rumano
++ Gallego
+- Euskera
+- Inglés
+> Vienen del latín.
+
+? ¿Cómo se llama una comunidad donde conviven dos lenguas oficiales?
+= bilingüe | bilingue
+> Las personas que hablan las dos también son bilingües.
+
+? ¿Cuántas personas hablan español como lengua materna, aproximadamente?
++ Cerca de 500 millones
+- Cerca de 50 millones
+- Cerca de 5.000 millones
+- Cerca de 5 millones
+> Es una de las lenguas más habladas del mundo.
+
+? Completa: La [Real Academia Española] se fundó en [1713].
+- Biblioteca Nacional
+- 1492
+> Publica el diccionario, la gramática y la ortografía.
+
+? Relaciona cada rasgo con su definición.
+* Seseo → Pronunciar la z y la c como s
+* Ceceo → Pronunciar la s como z
+* Yeísmo → Pronunciar igual ll e y
+* Voseo → Usar vos en lugar de tú
+> Son rasgos de distintas variedades.
+
+? Clasifica cada variedad del castellano.
+@ Meridionales (sur): andaluz | extremeño | murciano | canario
+@ Septentrionales (norte): castellano de Castilla y León | castellano de Aragón
+> Las meridionales tienen rasgos como el seseo o la aspiración de la s.
+
+? "Sapato" por "zapato" es un ejemplo de…
++ seseo
+- ceceo
+- yeísmo
+- voseo
+> La z se pronuncia como s.
+
+? Relaciona cada palabra del español de América con su equivalente en España.
+* carro → coche
+* computadora → ordenador
+* ustedes → vosotros
+> Todas son correctas en su zona.
+
+? En el español de América se usa "ustedes" en lugar de "vosotros".
+= verdadero
+> ¿Ustedes vienen?
+
+? Clasifica cada frase según su registro.
+@ Formal: Buenos días, ¿podría ayudarme, por favor? | Le agradezco mucho su atención.
+@ Coloquial: ¡Ey! ¿Qué pasa, tío? | ¡Qué pasada de peli!
+> El registro depende de la situación.
+
+? Relaciona cada vulgarismo con su forma correcta.
+* haiga → haya
+* asín → así
+* dijistes → dijiste
+> Los vulgarismos son errores que hay que evitar.
+
+? ¿Qué forma es correcta?
++ Ayer dijiste que vendrías.
+- Ayer dijistes que vendrías.
+- Ayer dijisteis tú que vendrías.
+- Ayer dicistes que vendrías.
+> La segunda persona del singular es dijiste, sin -s.
+
+? ¿Qué es el asturleonés?
++ Una variedad que se conserva en zonas como Asturias (bable)
+- La lengua oficial de Galicia junto al castellano
+- Un dialecto del español que se habla en América
+- Una lengua que llegó a la Península con los árabes
+> También se conserva el aragonés (fabla).
+
+? Todas las lenguas y variedades tienen el mismo valor y merecen respeto.
+= verdadero
+> Hablar varias lenguas es una riqueza.
+
+? Ordena estos hechos de más antiguo a más reciente.
+1. Ya se hablaba euskera
+2. Los romanos traen el latín
+3. Nacen las lenguas romances
+4. Se funda la Real Academia Española
+> La RAE se fundó en 1713.

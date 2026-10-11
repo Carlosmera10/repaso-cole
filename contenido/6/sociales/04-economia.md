@@ -44,60 +44,128 @@ Ofrece **servicios** a las personas. Es el sector que da **más empleo en Españ
 
 # Examen
 
-? ¿Qué sector económico obtiene los recursos directamente de la naturaleza?
-+ El primario
-- El secundario
-- El terciario
-- El de servicios
-> Agricultura, ganadería, pesca, explotación forestal y minería.
+preguntas: 20
 
-? ¿A qué sector pertenece una fábrica de coches?
-+ Al secundario
-- Al primario
-- Al terciario
-- A ninguno
-> La industria transforma materias primas en productos elaborados.
+? ¿Qué es la economía?
++ El conjunto de actividades para producir bienes y ofrecer servicios
+- Solo el dinero que guardan los bancos en sus cuentas
+- La ciencia que estudia los ríos, los mares y los lagos
+- El comercio de productos únicamente con otros países
+> Sirve para satisfacer nuestras necesidades.
 
-? ¿A qué sector pertenecen un médico y una profesora?
-+ Al terciario
-- Al primario
-- Al secundario
-- A la industria
-> Ofrecen servicios a las personas.
+? Clasifica cada ejemplo.
+@ Bien: pan | ropa | un coche
+@ Servicio: la consulta del médico | una clase | un viaje en autobús
+> Los bienes son objetos; los servicios, actividades.
 
-? ¿Cómo se llama la agricultura que solo usa el agua de la lluvia?
-= secano | de secano | agricultura de secano
-> La que usa riego se llama de regadío.
+? Relaciona cada sector con lo que hace.
+* Sector primario → Obtiene recursos directamente de la naturaleza
+* Sector secundario → Transforma materias primas en productos
+* Sector terciario → Ofrece servicios a las personas
+> Las actividades económicas se agrupan en tres sectores.
 
-? ¿Qué tipo de ganadería cría muchos animales en granjas con piensos?
-+ Intensiva
-- Extensiva
-- De bajura
-- De secano
-> En la extensiva los animales pastan en el campo.
+? Clasifica cada actividad según su sector.
+@ Primario: agricultura | ganadería | pesca | minería
+@ Secundario: industria textil | construcción | fábrica de coches
+@ Terciario: turismo | transporte | sanidad | comercio
+> Cada sector tiene su función.
 
-? La construcción pertenece al sector secundario.
+? ¿Qué es la agricultura de secano?
++ La que solo usa el agua de la lluvia
+- La que usa riego
+- La que cultiva en invernaderos
+- La que cría animales
+> Cereales, vid y olivo.
+
+? Completa: La agricultura de [regadío] usa riego y en ella se cultivan [frutas y hortalizas].
+- secano
+- cereales y olivos
+> En la de secano se cultivan cereales, vid y olivo.
+
+? Relaciona cada tipo de ganadería o pesca con su descripción.
+* Ganadería extensiva → Los animales pastan en el campo
+* Ganadería intensiva → En granjas, con muchos animales y piensos
+* Pesca de bajura → Cerca de la costa, con barcos pequeños
+* Pesca de altura → Lejos de la costa, con grandes barcos
+* Acuicultura → Criar peces en piscifactorías
+> Son actividades del sector primario.
+
+? La explotación forestal aprovecha la madera y el corcho de los bosques.
 = verdadero
-> Junto con la industria, la energía y la artesanía.
+> Pertenece al sector primario.
+
+? Ordena la cadena del aceite de oliva.
+1. El agricultor recoge las aceitunas
+2. La almazara fabrica el aceite
+3. La tienda vende el aceite
+> Primario, secundario y terciario.
+
+? ¿A qué sector pertenece la construcción?
++ Secundario
+- Primario
+- Terciario
+- A ninguno
+> Transforma materiales en edificios y carreteras.
 
 ? ¿Qué sector da más empleo en España?
-+ El terciario (servicios)
++ El terciario o de servicios
 - El primario
 - El secundario
-- Los tres por igual
-> Más de tres de cada cuatro trabajadores trabajan en servicios.
+- Todos dan el mismo empleo
+> Más de tres de cada cuatro trabajadores.
 
-? ¿Cómo se llama vender productos a otros países?
-= exportar | exportacion
-> Comprar productos a otros países es importar.
+?* ¿Qué productos produce mucho España?
++ Aceite de oliva
++ Vino
++ Frutas y hortalizas
+- Petróleo
+- Café
+> Son productos del sector primario español.
 
-? La pesca de altura se hace cerca de la costa con barcos pequeños.
+? Relaciona cada concepto con su definición.
+* Exportar → Vender productos a otros países
+* Importar → Comprar productos de otros países
+* Materia prima → Recurso natural que se transforma
+> Así funciona el comercio exterior.
+
+? Si España vende aceite a Japón, está importando.
 = falso
-> Esa es la pesca de bajura. La de altura se hace lejos, con grandes barcos.
+> Está exportando.
 
-? En la cadena del aceite, ¿qué sector es la almazara que fabrica el aceite?
+? ¿Cómo se llama criar peces en piscifactorías?
+= acuicultura | la acuicultura
+> Pertenece al sector primario.
+
+? ¿Qué es la artesanía?
++ Productos hechos a mano
+- Productos de grandes fábricas
+- Un tipo de pesca
+- Un servicio de transporte
+> Pertenece al sector secundario.
+
+? España es uno de los países más visitados del mundo.
+= verdadero
+> El turismo es muy importante en nuestra economía.
+
+? Clasifica cada materia según sea materia prima o producto elaborado.
+@ Materia prima: algodón | madera | hierro
+@ Producto elaborado: camiseta | mesa | coche
+> La industria transforma materias primas.
+
+? ¿En qué sector trabaja una profesora?
++ Terciario
+- Primario
+- Secundario
+- Ninguno
+> La educación es un servicio.
+
+? ¿Qué sector transforma las materias primas en productos elaborados?
+= secundario | el secundario | sector secundario
+> Industria, construcción, energía y artesanía.
+
+? ¿A qué sector pertenecen las centrales que producen electricidad?
 + Secundario
 - Primario
 - Terciario
 - Ninguno
-> El agricultor es del primario y la tienda, del terciario.
+> La producción de energía es del sector secundario.

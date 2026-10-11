@@ -56,63 +56,131 @@ Se ponen **al principio y al final**: *¿Vienes?* *¡Qué susto!* Después de el
 
 # Examen
 
-? ¿Qué signo se usa para separar los elementos de una enumeración?
-+ La coma
-- El punto final
-- Los dos puntos
-- El paréntesis
-> Compré pan, leche, huevos y fruta.
+preguntas: 20
 
-? ¿Qué frase está bien puntuada?
-+ Lucía, ven aquí.
-- Lucía ven, aquí.
-- Lucía ven aquí,
-- Lucía. Ven, aquí
-> El vocativo (Lucía) se separa con coma.
+? ¿Para qué sirven los signos de puntuación?
++ Para organizar lo que escribimos y evitar malentendidos
+- Solo para decorar el texto y que quede bonito
+- Para saber cuántas palabras tiene cada oración
+- Para separar las sílabas de las palabras largas
+> No es lo mismo "Vamos a comer, niños" que "Vamos a comer niños".
 
-? ¿Qué frase está bien puntuada?
+? Relaciona cada clase de punto con su uso.
+* Punto y seguido → Separa oraciones del mismo párrafo
+* Punto y aparte → Termina un párrafo
+* Punto final → Termina un texto
+> Después de punto se escribe mayúscula.
+
+? Clasifica cada uso de la coma.
+@ Enumeración: Compré pan, leche y fruta. | Tengo lápices, gomas y reglas.
+@ Vocativo: Lucía, ven aquí. | Ven aquí, Lucía.
+@ Explicación: Madrid, la capital de España, es grande. | Mi perro, que es muy listo, abre la puerta.
+> El vocativo es el nombre de a quien se llama.
+
+? ¿Qué oración está bien puntuada?
 + Mi hermano juega al fútbol.
 - Mi hermano, juega al fútbol.
 - Mi, hermano juega al fútbol.
 - Mi hermano juega, al fútbol.
 > Nunca se pone coma entre el sujeto y el verbo.
 
-? ¿Qué signo se pone después del saludo de una carta?
-= dos puntos (:) | dos puntos | los dos puntos | :
+? En una enumeración se pone coma antes de "y".
+= falso
+> Compré pan, leche, huevos y fruta.
+
+? Completa con el signo adecuado: Quería ir[,] pero estaba cansado.
+- ;
+- :
+- .
+> Antes de pero se pone coma.
+
+? Completa con el signo adecuado: Tengo tres mascotas[:] un perro, un gato y un pez.
+- ,
+- ;
+- …
+> Dos puntos antes de una enumeración anunciada.
+
+? Relaciona cada signo con un uso.
+* Dos puntos → Antes de una cita textual
+* Punto y coma → Separar elementos que ya llevan comas
+* Puntos suspensivos → Dejar algo sin terminar
+* Paréntesis → Encerrar aclaraciones o datos
+* Raya → Introducir las intervenciones de un diálogo
+> Cada signo tiene sus usos.
+
+? ¿Qué signo va después del saludo de una carta?
++ Dos puntos
+- Coma
+- Punto y coma
+- Punto
 > Querida Ana:
 
-? ¿Qué signo usamos para dejar una enumeración incompleta?
-+ Los puntos suspensivos
-- El punto y coma
-- La raya
-- Las comillas
-> Había peras, manzanas, plátanos…
+? Ordena de menor a mayor la pausa que indica cada signo.
+1. Coma
+2. Punto y coma
+3. Punto
+> El punto y coma es intermedio.
+
+?* ¿En qué casos se usan las comillas?
++ Para reproducir las palabras exactas de alguien
++ Para los títulos de cuentos o poemas
++ Para indicar que una palabra es extranjera
+- Para separar los elementos de una enumeración
+- Para cerrar un párrafo
+> Dijo: «Ya voy». Leí «El patito feo».
 
 ? Después de un signo de interrogación de cierre se pone punto.
 = falso
-> El signo de cierre ya marca el final: ¿Vienes? No hace falta punto.
+> ¿Vienes? No se pone punto después.
 
-? ¿Qué signo introduce las intervenciones de los personajes en un diálogo?
-+ La raya
-- El guion corto
-- El paréntesis
-- El punto y coma
-> —Hola —dijo Pablo.
+? ¿Qué oración está bien puntuada?
++ Unos traían bocadillos; otros, fruta; los demás, zumos.
+- Unos traían bocadillos, otros; fruta, los demás; zumos.
+- Unos traían bocadillos: otros fruta: los demás zumos.
+- Unos traían, bocadillos otros, fruta los demás, zumos.
+> El punto y coma separa elementos que ya llevan comas.
 
-? ¿Cómo se llama el punto que termina un párrafo?
-+ Punto y aparte
-- Punto y seguido
-- Punto final
-- Punto y coma
-> Después se sigue escribiendo en otra línea.
+? ¿Qué oración usa bien la raya?
++ —Hola —dijo Pablo.
+- -Hola, -dijo Pablo-.
+- «Hola» —dijo Pablo—.
+- Hola —dijo— Pablo.
+> La raya introduce la intervención y el comentario del narrador.
 
-? Las comillas se usan para reproducir las palabras exactas de alguien.
+? Completa: Cervantes [(]1547-1616[)] escribió el Quijote.
+- «
+- »
+- ;
+> El paréntesis encierra datos o aclaraciones.
+
+? Clasifica cada palabra según sea una abreviatura o no.
+@ Abreviatura: Sr. | pág. | etc. | Avda.
+@ No es abreviatura: señor | página | avenida
+> Las abreviaturas terminan en punto.
+
+? Las abreviaturas terminan en punto.
 = verdadero
-> Dijo: «Ya voy».
+> Sr., pág., etc.
 
-? ¿Dónde se pone la coma en "Quería ir pero estaba cansado"?
-+ Delante de "pero"
-- Detrás de "pero"
-- Después de "Quería"
-- No lleva coma
-> Se pone coma antes de pero, aunque y sino.
+? Completa: Había peras, manzanas, plátanos[…]
+- .
+- ;
+- :
+> Los puntos suspensivos indican una enumeración incompleta.
+
+? ¿Qué oración está bien puntuada?
++ Además, hoy no hay clase.
+- Además hoy, no hay clase.
+- Además hoy no, hay clase.
+- Además; hoy no hay clase.
+> Detrás de además se pone coma.
+
+? Ordena las partes de esta oración bien puntuada.
+1. Mi madre dijo:
+2. «Haz
+3. los deberes».
+> Dos puntos antes de la cita textual y comillas.
+
+? ¿Cómo se llama el nombre de la persona a la que llamamos, que va entre comas?
+= vocativo | el vocativo
+> Lucía, ven aquí.

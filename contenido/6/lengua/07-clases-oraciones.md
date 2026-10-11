@@ -39,60 +39,131 @@ No tienen sujeto. Las más típicas hablan del **tiempo atmosférico**: *Llueve.
 
 # Examen
 
-? ¿Qué clase de oración es "Quizá llueva mañana"?
+preguntas: 20
+
+? Relaciona cada oración con su clase según la intención.
+* El tren llega a las cinco. → Enunciativa
+* ¿A qué hora llega el tren? → Interrogativa
+* ¡Qué bonito día! → Exclamativa
+* Cierra la puerta, por favor. → Imperativa
+* Ojalá aprobemos. → Desiderativa
+* Quizá llueva mañana. → Dubitativa
+> La modalidad depende de lo que quiere expresar el hablante.
+
+? Clasifica cada oración enunciativa.
+@ Afirmativa: Hoy hace sol. | Me gusta el chocolate. | Mañana iremos al cine.
+@ Negativa: No tengo hambre. | Nunca he visto el mar. | Hoy no hay clase.
+> Las enunciativas informan de un hecho.
+
+? ¿Qué expresa una oración desiderativa?
++ Un deseo
+- Una duda
+- Una orden
+- Una pregunta
+> Ojalá haga sol el sábado.
+
+? ¿De qué clase es "Tal vez venga Luis"?
 + Dubitativa
 - Desiderativa
-- Exclamativa
 - Imperativa
-> Expresa duda.
-
-? ¿Qué clase de oración es "Ojalá ganemos el partido"?
-= desiderativa
-> Expresa un deseo.
-
-? ¿Qué clase de oración es "Cierra la ventana"?
-+ Imperativa
 - Enunciativa
-- Interrogativa
-- Dubitativa
-> Da una orden.
+> Expresa duda o posibilidad.
 
-? "No me gusta el brócoli" es una oración…
-+ Enunciativa negativa
-- Interrogativa
-- Imperativa
-- Exclamativa
-> Informa de un hecho de forma negativa.
+? En español, los signos de interrogación y exclamación se ponen solo al final.
+= falso
+> Se ponen al principio y al final: ¿…? ¡…!
 
-? En español, los signos de interrogación se ponen al principio y al final de la pregunta.
-= verdadero
-> ¿Dónde vives?
+? Clasifica cada pregunta.
+@ Interrogativa directa: ¿Dónde vives? | ¿Cuándo vienes? | ¿Qué hora es?
+@ Interrogativa indirecta: Me preguntó dónde vivía. | No sé cuándo vendrá. | Dime qué hora es.
+> Las indirectas no llevan signos, pero el interrogativo mantiene la tilde.
+
+? ¿Qué oración es una interrogativa indirecta bien escrita?
++ Me preguntó dónde vivía.
+- Me preguntó donde vivía.
+- Me preguntó ¿dónde vivía.
+- ¿Me preguntó dónde vivía?
+> Sin signos y con tilde en dónde.
 
 ? ¿Cuántos verbos tiene una oración simple?
 + Uno
 - Dos
-- Tres o más
 - Ninguno
-> Si tiene dos o más, es compuesta.
+- Tres o más
+> Los pájaros cantan.
 
-? ¿Cuál de estas oraciones es impersonal?
-+ Nieva en la montaña.
-- Mi hermano come.
+? Clasifica cada oración según su estructura.
+@ Simple: Los pájaros cantan. | Mi hermano estudia en Madrid. | Mañana iremos al museo.
+@ Compuesta: Los pájaros cantan y los niños juegan. | Quería ir, pero no pude. | ¿Estudias o juegas?
+> Las compuestas tienen dos o más verbos.
+
+? Relaciona cada oración coordinada con su clase.
+* Leo un libro y escucho música. → Copulativa
+* ¿Estudias o juegas? → Disyuntiva
+* Quería ir, pero no pude. → Adversativa
+> Se unen con conjunciones.
+
+? Completa: Ni come [ni] deja comer. No es azul, [sino] verde.
+- si no
+- y
+> Copulativa con ni; adversativa con sino.
+
+? ¿Qué oración es impersonal?
++ Nieva en la sierra.
+- Mi hermano duerme.
 - Los niños juegan.
-- Tú cantas muy bien.
-> No tiene sujeto: habla del tiempo atmosférico.
+- La nieve es blanca.
+> No tiene sujeto.
 
-? ¿Cuál es la forma correcta?
+?* ¿Qué oraciones son impersonales?
++ Llueve mucho.
++ Hace frío.
++ Hay muchos niños.
+- El perro ladra.
+- Ana tiene frío.
+> No tienen sujeto: hablan del tiempo o usan haber.
+
+? ¿Qué oración está bien escrita?
 + Hubo muchas fiestas.
 - Hubieron muchas fiestas.
 - Habían muchas fiestas.
-- Hubiesen muchas fiestas.
-> El verbo haber impersonal va siempre en singular.
+- Hubieran muchas fiestas.
+> Haber impersonal va siempre en singular.
 
-? "Me preguntó dónde vivía" es una interrogativa indirecta.
-= verdadero
-> No lleva signos de interrogación, pero contiene una pregunta.
+? Completa: Ayer [había] dos coches en la puerta y [hubo] mucho ruido.
+- habían
+- hubieron
+> Haber impersonal siempre en singular.
 
-? "Leo un libro y escucho música" es una oración simple.
+? "Habían muchos niños en el parque" es correcta.
 = falso
-> Tiene dos verbos (leo, escucho): es compuesta coordinada copulativa.
+> Lo correcto es "Había muchos niños".
+
+? ¿De qué clase es "Ven aquí ahora mismo"?
+= imperativa | exhortativa
+> Da una orden.
+
+? ¿Qué oración está bien escrita?
++ ¡Qué susto!
+- Qué susto!
+- ¡Qué susto
+- ¿Qué susto!
+> En español, la exclamación se abre con ¡ y se cierra con !.
+
+? Ordena las palabras para formar una oración desiderativa.
+1. Ojalá
+2. mañana
+3. haga
+4. sol
+> Ojalá mañana haga sol.
+
+? Una oración compuesta coordinada está formada por oraciones que tienen sentido por sí mismas.
+= verdadero
+> Leo un libro. Escucho música.
+
+? ¿Cuál es el sujeto de "Llueve"?
++ No tiene sujeto
+- La lluvia
+- El cielo
+- Ello
+> Es una oración impersonal.

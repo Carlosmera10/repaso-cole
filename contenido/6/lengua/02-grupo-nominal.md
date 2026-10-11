@@ -39,60 +39,123 @@ Un grupo nominal puede ser:
 
 # Examen
 
-? ¿Cuál es el núcleo de un grupo nominal?
-+ Un sustantivo (o un pronombre)
-- Un verbo
-- Un adverbio
-- Una preposición
-> El núcleo es la palabra más importante y es obligatoria.
+preguntas: 20
 
-? En "Los dos perros negros de mi vecino", ¿cuál es el núcleo?
+? ¿Qué palabra es el núcleo de un grupo nominal?
++ Un sustantivo o un pronombre
+- Un verbo o un adverbio
+- Un adjetivo o un adverbio
+- Un determinante o un artículo
+> El núcleo es obligatorio.
+
+? En "los dos perros negros de mi vecino", ¿cuál es el núcleo?
 = perros
-> Los y dos son determinantes; negros y de mi vecino son complementos.
+> Los demás elementos acompañan a perros.
 
-? En "vaso de agua", ¿qué función tiene "de agua"?
-+ Complemento del nombre
-- Adyacente
-- Núcleo
-- Determinante
-> Es un complemento introducido por la preposición de.
+? Clasifica cada parte de "los dos perros negros de mi vecino".
+@ Determinantes: los | dos
+@ Núcleo: perros
+@ Complementos: negros | de mi vecino
+> Determinantes delante, complementos detrás.
 
-? En "perros negros", ¿qué es "negros"?
-+ Un adyacente
-- Un complemento del nombre
-- Una aposición
-- Un determinante
-> Es un adjetivo que acompaña al núcleo.
+? Relaciona cada complemento con su clase.
+* perros negros → Adyacente
+* vaso de agua → Complemento del nombre
+* el rey Felipe → Aposición
+> Adjetivo, grupo con preposición o sustantivo.
+
+? ¿Qué es un complemento del nombre?
++ Un grupo que empieza por preposición y complementa al núcleo
+- Un adjetivo que acompaña al núcleo y concuerda con él
+- Un sustantivo que explica al núcleo, a veces entre comas
+- La palabra que va delante del núcleo y lo presenta
+> Casa de madera.
 
 ? En "Madrid, la capital, es muy grande", ¿qué es "la capital"?
 + Una aposición
 - Un adyacente
-- Un verbo
 - Un complemento del nombre
-> Es un grupo nominal que explica al núcleo Madrid.
+- Un determinante
+> Es un grupo nominal que explica al núcleo, entre comas.
 
-? En un grupo nominal, el núcleo es obligatorio.
+? Un grupo nominal puede estar formado solo por el núcleo.
 = verdadero
-> Los determinantes y complementos pueden aparecer o no.
+> Lucía es un grupo nominal.
 
-? ¿Qué significa "la cometa" (en femenino)?
-+ Un juguete que vuela con el viento
-- Un astro con cola
-- Una ciudad importante
-- Dinero
-> "El cometa" es el astro.
+? Completa: En "las casas blancas", el determinante y el adjetivo [concuerdan] con el núcleo en [género] y número.
+- persona
+- tiempo
+- se oponen
+> Las (femenino plural) casas blancas.
 
-? Los determinantes no concuerdan con el núcleo.
-= falso
-> Concuerdan en género y número: las casas, el coche.
+? ¿Qué grupo nominal tiene un error de concordancia?
++ Los camisetas rojas
+- El coche rojo
+- Las casas blancas
+- Unos árboles altos
+> Debe ser: las camisetas rojas.
 
-? ¿Qué sustantivo solo se usa en plural?
-+ Gafas
-- Mesa
-- Lápiz
-- Árbol
-> Decimos "las gafas" aunque sea un solo objeto.
+? Relaciona cada sustantivo con su significado.
+* el capital → el dinero
+* la capital → la ciudad principal
+* el cometa → el astro
+* la cometa → el juguete que vuela
+> Algunos sustantivos cambian de significado según el género.
+
+?* ¿Qué sustantivos se usan solo en plural?
++ gafas
++ tijeras
++ víveres
+- salud
+- sed
+> Salud y sed se usan casi solo en singular.
+
+? Ordena las palabras para formar un grupo nominal.
+1. la
+2. casa
+3. blanca
+4. de la colina
+> Determinante, núcleo, adyacente y complemento del nombre.
 
 ? En "Ana compró un libro de aventuras", ¿cuál es el núcleo del grupo nominal "un libro de aventuras"?
 = libro
-> "Un" es determinante y "de aventuras", complemento del nombre.
+> De aventuras es su complemento del nombre.
+
+? Clasifica cada grupo nominal según su función en la oración.
+@ Sujeto: El perro de Ana (ladra mucho) | Mis primos (vienen hoy) | La profesora nueva (es simpática)
+@ Parte del predicado: (Ana compró) un libro de aventuras | (Vimos) una película | (Comí) dos manzanas
+> El sujeto concuerda con el verbo.
+
+? En "un vaso de agua fría", ¿cuál es el núcleo?
++ vaso
+- agua
+- fría
+- un
+> De agua fría complementa a vaso.
+
+? Un adyacente es siempre un adjetivo que acompaña al núcleo.
+= verdadero
+> Perros negros.
+
+? El determinante es obligatorio en el grupo nominal.
+= falso
+> Lo único obligatorio es el núcleo.
+
+? Completa: En "el rey Felipe", "Felipe" es una [aposición] y en "zapatos de cuero", "de cuero" es un [complemento del nombre].
+- adyacente
+- núcleo
+> Aposición: sustantivo; CN: con preposición.
+
+? ¿Qué clase de sustantivo es "rebaño"?
++ Colectivo
+- Propio
+- Abstracto
+- Incontable
+> En singular nombra un conjunto.
+
+? ¿Qué significa "la orden"?
++ El mandato de hacer algo
+- La colocación de las cosas
+- Un número
+- Un tipo de pan
+> El orden es la colocación de las cosas.

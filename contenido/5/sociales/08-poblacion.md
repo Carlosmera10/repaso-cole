@@ -49,23 +49,23 @@ preguntas: 20
 
 ? ¿Qué es la población?
 + El conjunto de personas que viven en un lugar
-- El número de casas de una ciudad
-- La superficie de un país
-- Los nacimientos de un año
+- El número de casas y edificios de una ciudad
+- La superficie que ocupa un país o una región
+- Los niños que nacen en un lugar durante un año
 > Se cuenta con censos y padrones.
 
 ? ¿Qué organismo hace los censos de población en España?
 + El Instituto Nacional de Estadística (INE)
-- El Ayuntamiento de Madrid
-- La Real Academia Española
-- El Banco de España
+- El Ayuntamiento de la capital (Madrid)
+- La Real Academia Española (RAE)
+- El Banco de España y los bancos privados
 > El INE recoge y publica los datos de población.
 
 ? ¿Qué indica la densidad de población?
 + Cuántas personas viven de media en cada km²
-- Cuántos niños nacen cada año
-- Cuántas personas trabajan
-- Cuántas ciudades tiene un país
+- Cuántos niños nacen de media cada año
+- Cuántas personas trabajan en cada empresa
+- Cuántas ciudades grandes tiene cada país
 > Se calcula dividiendo habitantes entre superficie.
 
 ? Un municipio tiene 3.000 habitantes y 60 km². ¿Cuál es su densidad?

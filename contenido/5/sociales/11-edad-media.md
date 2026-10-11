@@ -144,9 +144,9 @@ preguntas: 20
 
 ? ¿Qué batalla de 1212 fue decisiva para la Reconquista?
 + Las Navas de Tolosa
-- Covadonga
-- Guadalete
-- Bailén
+- La batalla de Covadonga
+- La batalla de Guadalete
+- La batalla de Bailén
 > Abrió el camino hacia el sur.
 
 ? Ordena estos hechos de la Edad Media.

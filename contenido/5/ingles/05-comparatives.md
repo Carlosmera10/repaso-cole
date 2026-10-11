@@ -44,57 +44,125 @@ Se usan para decir que algo es **el más… de un grupo**. Llevan **the** delant
 
 # Examen
 
-? ¿Cuál es el comparativo de "big"?
-+ bigger
-- biger
-- more big
-- biggest
+preguntas: 20
+
+? ¿Para qué se usan los comparativos?
++ Para comparar dos cosas
+- Para decir que algo es el más de un grupo
+- Para hablar del pasado
+- Para contar cosas
+> An elephant is bigger than a mouse.
+
+? ¿Qué palabra va después del comparativo?
++ than
+- that
+- then
+- as
+> Bigger than…
+
+? Clasifica cada adjetivo según cómo forma el comparativo.
+@ Añade -er: tall | small | fast
+@ Dobla la consonante: big | hot | thin
+@ Cambia -y por -ier: happy | funny | easy
+@ Lleva more: beautiful | expensive | difficult
+> Los adjetivos largos usan more.
+
+? Escribe el comparativo de "big".
+= bigger
 > Vocal + consonante: se dobla la g.
 
-? ¿Cuál es el comparativo de "happy"?
+? Escribe el comparativo de "happy".
 = happier
 > -y → -ier.
 
-? Completa: An elephant is ___ than a mouse.
-+ bigger
-- the biggest
-- big
+? ¿Cuál es el comparativo de "expensive"?
++ more expensive
+- expensiver
+- most expensive
+- expensivier
+> Adjetivo largo: more + adjetivo.
+
+? Relaciona cada adjetivo con su superlativo.
+* tall → the tallest
+* nice → the nicest
+* big → the biggest
+* happy → the happiest
+* beautiful → the most beautiful
+> Los superlativos llevan the.
+
+? Escribe el superlativo de "fast": The cheetah is ___ animal in the world.
+= the fastest | fastest
+> fast → the fastest.
+
+? Relaciona cada adjetivo irregular con su comparativo.
+* good → better
+* bad → worse
+* far → farther
+> Se aprenden de memoria.
+
+? ¿Cuál es el superlativo de "good"?
++ the best
+- the goodest
+- the better
+- the most good
+> good → better → the best.
+
+? Completa: My dog is [bigger] than my cat, but my horse is [the biggest] of all.
+- biger
+- the most big
 - more big
-> Comparamos dos cosas: comparativo + than.
+> Comparativo para dos; superlativo para el grupo.
 
-? ¿Cuál es el superlativo de "beautiful"?
-+ the most beautiful
-- the beautifulest
-- more beautiful
-- the more beautiful
-> Los adjetivos largos usan the most.
+? ¿Qué frase es correcta?
++ Maths is more difficult than Art.
+- Maths is difficulter than Art.
+- Maths is more difficult that Art.
+- Maths is the more difficult than Art.
+> Difficult es largo: more difficult than.
 
-? ¿Cuál es el comparativo de "good"?
-= better
-> Good → better → the best.
-
-? ¿Cuál es el superlativo de "bad"?
-+ the worst
-- the baddest
-- worse
-- the most bad
-> Bad → worse → the worst.
-
-? Completa: The cheetah is ___ animal in the world.
-+ the fastest
-- faster
-- the most fast
-- fastest than
-> Es el más rápido de todos: superlativo.
-
-? "Maths is more difficult than Art" significa "Las Mates son más difíciles que Plástica".
+? "Tom is as tall as Ben" significa que Tom y Ben son igual de altos.
 = verdadero
-> More difficult than = más difícil que.
-
-? Completa con la palabra que falta: Tom is as tall ___ Ben.
-= as
 > As + adjetivo + as = tan… como.
 
-? "My house is more big than your house" es correcto.
+? Ordena de más pequeño a más grande.
+1. a mouse
+2. a cat
+3. a horse
+4. an elephant
+> An elephant is bigger than a horse.
+
+?* ¿Qué frases son correctas?
++ Today is hotter than yesterday.
++ This is the worst film.
++ She is the happiest girl in the class.
+- He is more tall than me.
+- It is the most big house.
+> Tall y big son cortos: taller, the biggest.
+
+? Relaciona cada adjetivo con su contrario.
+* tall → short
+* fast → slow
+* cheap → expensive
+* heavy → light
+* strong → weak
+> Opposites.
+
+? Escribe el comparativo de "nice".
+= nicer
+> Acaba en -e: solo se añade -r.
+
+? "Gooder" es el comparativo de "good".
 = falso
-> Big es corto: My house is bigger than your house.
+> El comparativo de good es better.
+
+? Completa: Lucy is [as] tall [as] her sister.
+- than
+- more
+> As + adjetivo + as.
+
+? ¿Qué significa "the worst"?
++ El peor
+- El mejor
+- Peor
+- Más lejos
+> bad → worse → the worst.

@@ -117,9 +117,9 @@ preguntas: 20
 
 ? ¿Qué clima tiene la ciudad de Madrid?
 + Mediterráneo de interior
-- Oceánico
-- Subtropical
-- De montaña
+- Oceánico de costa
+- Subtropical húmedo
+- De alta montaña
 > Inviernos fríos y veranos calurosos, con pocas lluvias.
 
 ? Completa: Los árboles que pierden las hojas en otoño son [caducifolios] y los que las mantienen todo el año son [perennifolios].
@@ -129,9 +129,9 @@ preguntas: 20
 
 ? ¿Para qué sirven los espacios naturales protegidos?
 + Para conservar los paisajes más valiosos
-- Para construir nuevas ciudades
-- Para cultivar trigo y cebada
-- Para cazar sin límites
+- Para construir nuevas ciudades y carreteras
+- Para cultivar trigo y cebada en grandes campos
+- Para poder cazar y pescar sin ningún límite
 > Los parques nacionales y naturales protegen la naturaleza.
 
 ? En el clima oceánico hay prados verdes donde pastan las vacas.
@@ -140,7 +140,7 @@ preguntas: 20
 
 ? ¿Cuál es la principal diferencia entre el clima mediterráneo de costa y el de interior?
 + En el interior los inviernos son mucho más fríos
-- En la costa nieva mucho más
-- En el interior llueve mucho más
-- En la costa los veranos son frescos
+- En la costa nieva mucho más que en el interior
+- En el interior llueve mucho más durante todo el año
+- En la costa los veranos son frescos y lluviosos
 > El mar suaviza las temperaturas de la costa.

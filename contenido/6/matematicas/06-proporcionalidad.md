@@ -52,60 +52,125 @@ En mapas y planos, la **escala** relaciona la medida del dibujo con la real.
 
 # Examen
 
+preguntas: 20
+
+? ¿Qué es una proporción?
++ La igualdad entre dos razones
+- La comparación de dos cantidades mediante una suma
+- Un tipo de porcentaje
+- La diferencia entre dos números
+> 2/3 = 4/6.
+
+? En una clase hay 12 chicas y 15 chicos. ¿Cuál es la razón entre chicas y chicos?
++ 12/15
+- 15/12
+- 12/27
+- 3/27
+> Chicas entre chicos.
+
+? 2/3 y 4/6 forman una proporción.
+= verdadero
+> 2 × 6 = 3 × 4 = 12.
+
+? Clasifica cada pareja de magnitudes.
+@ Directamente proporcionales: kilos de naranjas y precio | litros de gasolina y lo que se paga | número de entradas y dinero total
+@ No proporcionales: edad y altura de una persona | peso de una persona y su nota en un examen | día del mes y temperatura
+> Son proporcionales si al doble de una le corresponde el doble de la otra.
+
+? Si 1 kilo de naranjas cuesta 1,50 €, ¿cuánto cuestan 5 kilos?
+= 7,50 | 7,5 | 7,50 € | 7,5 €
+> 1,50 × 5 = 7,50.
+
 ? Si 3 cuadernos cuestan 6 €, ¿cuánto cuestan 7 cuadernos?
 + 14 €
-- 21 €
 - 10 €
-- 18 €
-> Un cuaderno cuesta 2 €; 7 × 2 = 14 €.
+- 21 €
+- 12 €
+> 1 cuaderno = 2 €; 7 × 2 = 14.
+
+? Ordena los pasos para resolver por reducción a la unidad: "4 entradas cuestan 20 €; ¿cuánto cuestan 9?".
+1. Calcular lo que cuesta 1 entrada: 20 ÷ 4 = 5 €
+2. Multiplicar por el número de entradas: 9 × 5
+3. Obtener el resultado: 45 €
+> Primero el valor de 1 y luego se multiplica.
+
+? Completa: Si 2 kg de pan cuestan 5 €, 6 kg cuestan [15] € y 1 kg cuesta [2,50] €.
+- 12
+- 2,25
+- 30
+> 6 kg es el triple; 1 kg es la mitad de 2 kg.
 
 ? ¿Cuánto es el 15 % de 200?
 = 30
 > 200 × 15 ÷ 100 = 30.
 
+? Relaciona cada cálculo con su resultado.
+* 10 % de 300 → 30
+* 25 % de 80 → 20
+* 50 % de 46 → 23
+* 20 % de 60 → 12
+* 5 % de 200 → 10
+> a % de una cantidad = cantidad × a ÷ 100.
+
 ? Un abrigo cuesta 80 € y tiene un 20 % de descuento. ¿Cuánto pagas?
 + 64 €
-- 60 €
 - 16 €
+- 60 €
 - 96 €
-> 20 % de 80 = 16 €; 80 − 16 = 64 €.
+> 20 % de 80 = 16; 80 − 16 = 64.
+
+? Un producto de 50 € sube un 10 %. ¿Cuánto cuesta ahora?
+= 55 | 55 €
+> 10 % de 50 = 5; 50 + 5 = 55.
 
 ? ¿Qué porcentaje es 9 de 36?
 + 25 %
 - 9 %
 - 36 %
 - 4 %
-> 9 ÷ 36 = 0,25 → 25 %.
+> 9 ÷ 36 × 100 = 25.
 
-? Si 4 kg de manzanas cuestan 6 €, ¿cuánto cuesta 1 kg?
-= 1,50 | 1,5 | 1,50 € | 1,5 €
-> 6 ÷ 4 = 1,50 €.
-
-? 2/5 y 6/15 forman una proporción.
-= verdadero
-> 2 × 15 = 5 × 6 = 30.
-
-? En un mapa a escala 1 : 100.000, ¿a cuántos kilómetros reales equivalen 5 cm?
-+ 5 km
-- 50 km
-- 500 km
-- 0,5 km
-> 5 × 100.000 = 500.000 cm = 5 km.
-
-? Un producto cuesta 50 € y sube un 10 %. ¿Cuál es el nuevo precio?
-+ 55 €
-- 45 €
-- 60 €
-- 51 €
-> 10 % de 50 = 5 €; 50 + 5 = 55 €.
-
-? Si dos magnitudes son directamente proporcionales, al duplicar una, la otra se reduce a la mitad.
+? En un descuento, el porcentaje se suma al precio.
 = falso
-> Al duplicar una, la otra también se duplica.
+> En un descuento se resta; en un aumento se suma.
 
-? Un coche gasta 6 litros cada 100 km. ¿Cuántos litros gasta en 250 km?
-+ 15 litros
-- 12 litros
-- 25 litros
-- 150 litros
-> 250 × 6 ÷ 100 = 15 litros.
+? En un mapa a escala 1 : 50.000, ¿cuánto es 1 cm en la realidad?
++ 500 m
+- 50 m
+- 5 km
+- 50 km
+> 50.000 cm = 500 m.
+
+? En un mapa a escala 1 : 200.000, ¿cuántos kilómetros reales son 4 cm?
+= 8 | 8 km
+> 4 × 200.000 = 800.000 cm = 8 km.
+
+?* ¿Qué parejas forman una proporción?
++ 1/2 y 5/10
++ 3/4 y 9/12
++ 2/5 y 6/15
+- 2/3 y 3/4
+- 4/6 y 6/8
+> Los productos cruzados son iguales: 1 × 10 = 2 × 5, etc.
+
+? Ordena los descuentos de menor a mayor rebaja sobre una camiseta de 40 €.
+1. 5 % de descuento
+2. 10 % de descuento
+3. 25 % de descuento
+4. 50 % de descuento
+> 2 €, 4 €, 10 € y 20 €.
+
+? En un mapa a escala 1 : 100.000, dos pueblos están a 7 cm. ¿A qué distancia real están?
++ 7 km
+- 70 km
+- 700 m
+- 70 m
+> 700.000 cm = 7 km.
+
+? Para pasar de centímetros a kilómetros se divide entre 100.000.
+= verdadero
+> 1 km = 100.000 cm.
+
+? En una clase de 25 alumnos, 5 llevan gafas. ¿Qué porcentaje lleva gafas?
+= 20 | 20 %
+> 5 ÷ 25 × 100 = 20.

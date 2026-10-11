@@ -136,9 +136,9 @@ preguntas: 20
 
 ? ¿Qué son las constelaciones?
 + Grupos de estrellas que vistos desde la Tierra forman figuras
-- Grupos de planetas que giran juntos
-- Nubes de gas que rodean a la Tierra
-- Satélites artificiales que giran en órbita
+- Grupos de planetas que giran juntos alrededor del Sol
+- Nubes de gas y polvo que rodean a la Tierra por la noche
+- Satélites artificiales que giran en órbita alrededor de la Tierra
 > La Osa Mayor y Orión son constelaciones.
 
 ? ¿Cómo se llama el camino que sigue un planeta alrededor del Sol?
@@ -159,8 +159,8 @@ preguntas: 20
 
 ? ¿Qué es el universo?
 + Todo lo que existe: estrellas, planetas, galaxias y el espacio
-- El conjunto de los ocho planetas
-- La galaxia en la que vivimos
+- El conjunto de los ocho planetas y el Sol
+- La galaxia en la que vivimos, la Vía Láctea
 - El espacio que hay entre la Tierra y la Luna
 > Es tan grande que no sabemos dónde termina.
 

@@ -162,8 +162,8 @@ preguntas: 20
 > En primera persona narra el protagonista.
 
 ? ¿Qué es la sinalefa?
-+ Unir en una sílaba la vocal final de una palabra y la inicial de la siguiente
-- Repetir un sonido al final de los versos
-- Exagerar la realidad
-- Contar las palabras de un verso
++ La unión en una sílaba de la vocal final de una palabra y la inicial de la siguiente
+- La repetición de un mismo sonido al principio de varias palabras seguidas
+- La coincidencia de los sonidos finales de dos versos a partir de la vocal tónica
+- La separación en dos sílabas de dos vocales que normalmente forman diptongo
 > Se usa para contar sílabas en poesía.

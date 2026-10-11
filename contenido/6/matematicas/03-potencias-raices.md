@@ -43,60 +43,129 @@ Se usan para **descomponer** y escribir números grandes de forma abreviada:
 
 # Examen
 
-? ¿Cuánto vale 3⁴?
-= 81
-> 3 × 3 × 3 × 3 = 81.
+preguntas: 20
 
-? ¿Cuánto es 2³ × 2⁴ expresado como una sola potencia?
+? En la potencia 5³, ¿qué indica el 3?
++ Las veces que se repite el factor
+- El factor que se repite varias veces
+- El resultado de multiplicar la base
+- Que el 5 se suma tres veces seguidas
+> 5³ = 5 × 5 × 5. El 3 es el exponente.
+
+? ¿Cuánto es 5³?
+= 125
+> 5 × 5 × 5 = 125.
+
+? Relaciona cada potencia con su valor.
+* 2⁴ → 16
+* 3² → 9
+* 4³ → 64
+* 10³ → 1.000
+* 7¹ → 7
+* 8⁰ → 1
+> Cualquier número (no 0) elevado a 0 es 1.
+
+? 2³ es igual a 2 × 3.
+= falso
+> 2³ = 2 × 2 × 2 = 8.
+
+? ¿Cuántos ceros tiene 10⁹?
++ 9
+- 10
+- 90
+- 3
+> 10ⁿ es un 1 seguido de n ceros.
+
+? ¿Cómo se escribe 7.020.000 con potencias de 10?
++ 7 × 10⁶ + 2 × 10⁴
+- 7 × 10⁶ + 2 × 10³
+- 7 × 10⁷ + 2 × 10⁴
+- 72 × 10⁴
+> 7 millones + 20.000.
+
+? Clasifica cada operación según la regla que se aplica.
+@ Se suman los exponentes: 2³ × 2⁴ | 5² × 5⁵ | 7 × 7³
+@ Se restan los exponentes: 5⁶ ÷ 5² | 3⁸ ÷ 3³ | 10⁵ ÷ 10²
+@ Se multiplican los exponentes: (3²)³ | (2⁴)² | (5³)³
+> Producto: suma. Cociente: resta. Potencia de potencia: multiplica.
+
+? ¿Cuánto es 2³ × 2⁴ expresado como una potencia?
 + 2⁷
 - 2¹²
 - 4⁷
-- 2¹
-> En el producto de potencias de la misma base, se suman los exponentes: 3 + 4 = 7.
+- 4¹²
+> Se deja la base y se suman los exponentes.
 
-? ¿Cuánto es 5⁶ ÷ 5² expresado como una sola potencia?
-+ 5⁴
-- 5³
-- 5⁸
-- 1⁴
-> En el cociente se restan los exponentes: 6 − 2 = 4.
-
-? ¿Cuánto es (3²)³ expresado como una sola potencia?
+? ¿Cuánto es (3²)³ expresado como una potencia?
 + 3⁶
 - 3⁵
-- 9³
+- 9⁵
 - 3⁸
-> En la potencia de una potencia se multiplican los exponentes: 2 × 3 = 6.
+> Se multiplican los exponentes: 2 × 3 = 6.
 
-? ¿Cuál es la raíz cuadrada de 144?
-= 12
-> 12 × 12 = 144.
+? Las reglas de las potencias solo sirven si tienen la misma base.
+= verdadero
+> 2³ × 5⁴ no se puede simplificar así.
+
+?* ¿Qué números son cuadrados perfectos?
++ 49
++ 81
++ 144
+- 50
+- 120
+> 7², 9² y 12².
+
+? Ordena los cubos de menor a mayor.
+1. 2³
+2. 3³
+3. 4³
+4. 5³
+5. 10³
+> 8, 27, 64, 125 y 1.000.
+
+? ¿Cuánto es √81?
+= 9
+> 9² = 81.
+
+? Relaciona cada raíz con su valor.
+* √16 → 4
+* √49 → 7
+* √100 → 10
+* √144 → 12
+> Busca el número que elevado al cuadrado da el radicando.
 
 ? ¿Entre qué dos números está √50?
 + Entre 7 y 8
+- Entre 5 y 6
 - Entre 6 y 7
-- Entre 8 y 9
 - Entre 24 y 25
 > 7² = 49 y 8² = 64.
 
-? ¿Cuál de estos números es un cubo perfecto?
-+ 125
-- 100
-- 50
-- 36
-> 125 = 5³.
+? Completa: La raíz entera de 50 es [7] y el resto es [1].
+- 8
+- 25
+> 50 − 49 = 1.
 
-? Un cuadrado tiene 64 cm² de área. ¿Cuánto mide su lado?
-+ 8 cm
-- 16 cm
-- 32 cm
-- 4 cm
-> √64 = 8.
+? Un cuadrado tiene 36 m² de área. ¿Cuánto mide su lado?
+= 6 | 6 m
+> √36 = 6.
 
-? 10⁶ es igual a un millón.
+? Completa: En 4³, la [base] es 4 y el [exponente] es 3.
+- radicando
+- resultado
+> La base se repite tantas veces como indica el exponente.
+
+? ¿Cuánto es 5⁶ ÷ 5⁴?
++ 25
+- 5
+- 125
+- 1
+> 5⁶ ÷ 5⁴ = 5² = 25.
+
+? ¿Cuál es la raíz cuadrada de 121?
+= 11
+> 11² = 121.
+
+? 150 millones es igual a 15 × 10⁷.
 = verdadero
-> Un 1 seguido de 6 ceros: 1.000.000.
-
-? 2³ × 3² = 6⁵
-= falso
-> Las reglas solo valen con la misma base. 2³ × 3² = 8 × 9 = 72.
+> 15 × 10.000.000 = 150.000.000.

@@ -514,7 +514,7 @@
         var v = e.valores[k] || '';
         var clase = r ? (r.detalle[k] ? ' hueco--bien' : ' hueco--mal') : '';
         if (q.conMenu) {
-          html += '<select class="hueco' + clase + '" data-hueco="' + k + '"' + (r ? ' disabled' : '') + '><option value="">…</option>' +
+          html += '<select class="hueco' + clase + '" data-hueco="' + k + '"' + (r ? ' disabled' : '') + '><option value="">elige</option>' +
             q.menu.map(function (w) { return '<option' + (w === v ? ' selected' : '') + '>' + esc(w) + '</option>'; }).join('') + '</select>';
         } else {
           html += '<input class="hueco' + clase + '" data-hueco="' + k + '" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" value="' + esc(v) + '"' + (r ? ' disabled' : '') + '>';

@@ -39,60 +39,133 @@ Es **igual para todas las personas** y va con el verbo en **forma básica**: *Sh
 
 # Examen
 
-? Completa: You look tired. You ___ go to bed early.
-+ should
-- shouldn't
-- mustn't
-- don't have to
-> Es un consejo.
+preguntas: 20
 
-? Completa: You ___ eat so many sweets. They're bad for your teeth.
-= shouldn't | shouldnt | shouldn't | should not
-> Consejo negativo: no deberías.
+? ¿Para qué se usa "should"?
++ Para dar consejos
+- Para expresar prohibición
+- Para hablar del pasado
+- Para expresar habilidad
+> Significa "deberías".
 
-? Completa: She ___ to get up at 7 every day.
-+ has
-- have
-- haves
-- is
-> Con she, he, it se usa has to.
+? ¿Qué frase es correcta?
++ She should study more.
+- She shoulds study more.
+- She should to study more.
+- She should studies more.
+> Should + verbo en forma básica.
 
-? Elige la pregunta correcta.
-+ Do you have to wear a uniform?
-- Have you to wear a uniform?
-- Do you has to wear a uniform?
-- You have to wear a uniform?
-> Do/Does + sujeto + have to.
+? ¿Qué significa "You shouldn't eat so many sweets"?
++ No deberías comer tantos dulces.
+- Tienes que comer dulces.
+- No puedes comer dulces.
+- Has comido muchos dulces.
+> Shouldn't = no deberías.
 
-? ¿Qué significa "You don't have to come"?
-+ No es necesario que vengas
-- Tienes prohibido venir
-- Debes venir
-- Deberías venir
-> Don't have to = no es obligatorio.
+? Completa: I [have to] wear a uniform and my sister [has to] get up early.
+- must to
+- haves to
+> Has to con he, she, it.
 
-? ¿Qué significa "You mustn't touch the paintings"?
-+ Está prohibido tocar los cuadros
-- No hace falta tocar los cuadros
-- Deberías tocar los cuadros
-- Puedes tocar los cuadros
-> Mustn't = prohibición.
+? ¿Qué pregunta es correcta?
++ Does she have to go?
+- Does she has to go?
+- Has she to go?
+- Do she have to go?
+> Does + sujeto + have to.
 
-? ¿Cuál es el pasado de "have to"?
-= had to
-> Yesterday I had to clean my room.
+? Escribe el pasado de "have to": Yesterday I ___ to clean my room.
+= had
+> have to → had to.
 
-? "I've got a headache" significa "Me duele la cabeza".
-= verdadero
-> Head (cabeza) + ache (dolor).
-
-? ¿Cómo se dice "tengo tos"?
-+ I've got a cough
-- I've got a cold
-- I've got a toothache
-- I've got a fever
-> A cold es un resfriado.
+? Relaciona cada modal con su significado.
+* can → Poder o saber
+* must → Obligación
+* mustn't → Prohibición
+* don't have to → No es necesario
+* should → Consejo
+> Resumen de modales.
 
 ? "Mustn't" y "don't have to" significan lo mismo.
 = falso
-> Mustn't = está prohibido; don't have to = no es necesario.
+> Mustn't = prohibido; don't have to = no es necesario.
+
+? Clasifica cada frase según su significado.
+@ Prohibido: You mustn't touch the paintings. | You mustn't run in the pool. | You mustn't shout in the library.
+@ No es necesario: You don't have to wear a uniform on Fridays. | You don't have to come if you're busy. | She doesn't have to cook today.
+> Con don't have to puedes hacerlo si quieres.
+
+? En el museo no se pueden tocar los cuadros. You ___ touch the paintings.
++ mustn't
+- don't have to
+- should
+- have to
+> Es una prohibición.
+
+? Hoy es sábado: no hay que madrugar. You ___ get up early.
++ don't have to
+- mustn't
+- shouldn't
+- have to
+> No es necesario, pero puedes hacerlo.
+
+? Relaciona cada problema de salud con su significado.
+* headache → dolor de cabeza
+* stomachache → dolor de barriga
+* toothache → dolor de muelas
+* sore throat → dolor de garganta
+* cough → tos
+* fever → fiebre
+> Health vocabulary.
+
+? ¿Qué significa "What's the matter?"?
++ ¿Qué te pasa?
+- ¿Qué hora es?
+- ¿Qué quieres?
+- ¿Cuánto cuesta?
+> Se pregunta cuando alguien está mal.
+
+? Relaciona cada problema con un buen consejo.
+* I've got a toothache. → You should go to the dentist.
+* I've got a sore throat. → You should drink hot tea with honey.
+* I've got a fever. → You should stay in bed.
+> Should para dar consejos.
+
+? Completa el consejo: I'm very tired. You [should] go to bed early. You [shouldn't] watch TV until late.
+- mustn't
+- have
+> Consejo y consejo negativo.
+
+? Ordena las palabras para formar una pregunta.
+1. Should
+2. I
+3. wear
+4. a coat?
+> Should I wear a coat?
+
+?* ¿Qué frases son correctas?
++ He has to do his homework.
++ You should drink more water.
++ We don't have to go to school on Sunday.
+- She have to wear glasses.
+- You should to rest.
+> Has to con he; should sin to.
+
+? Should es igual para todas las personas.
+= verdadero
+> I should, she should, they should.
+
+? Escribe la forma negativa de "has to" con she: She ___ have to work today.
+= doesn't | does not
+> Negativa con doesn't + have to.
+
+? ¿Qué frase expresa una obligación?
++ I have to wear a uniform at school.
+- You should eat more fruit.
+- You don't have to bring lunch.
+- I can swim very well.
+> Have to = tener que.
+
+? Escribe en inglés: "Deberías ir al médico". You ___ go to the doctor.
+= should
+> Es un consejo.

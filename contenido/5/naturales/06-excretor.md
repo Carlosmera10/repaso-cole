@@ -40,9 +40,9 @@ preguntas: 20
 
 ? ¿Qué es la excreción?
 + La eliminación de los desechos que transporta la sangre
-- La entrada de los alimentos por la boca
-- La toma de oxígeno del aire
-- El reparto de nutrientes por el cuerpo
+- La entrada de los alimentos por la boca hasta el estómago
+- La toma de oxígeno del aire a través de los pulmones
+- El reparto de los nutrientes por todo el cuerpo
 > Los desechos de las células se acumulan en la sangre y hay que eliminarlos.
 
 ?* ¿Qué órganos participan en la excreción?

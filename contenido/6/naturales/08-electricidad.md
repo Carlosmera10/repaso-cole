@@ -52,60 +52,128 @@ Los **imanes** atraen objetos de **hierro**, **níquel** y **cobalto**.
 
 # Examen
 
-? ¿Qué ocurre con dos cargas eléctricas del mismo signo?
+preguntas: 20
+
+? ¿Qué ocurre entre dos cargas eléctricas iguales?
 + Se repelen
 - Se atraen
-- Se convierten en imanes
+- Se anulan
 - No pasa nada
-> Cargas iguales se repelen; distintas se atraen.
+> Cargas distintas se atraen.
 
-? ¿Cuál de estos materiales es un buen conductor de la electricidad?
-+ El cobre
-- El plástico
-- La madera
-- El vidrio
+? Clasifica cada pareja de cargas.
+@ Se atraen: + y – | – y +
+@ Se repelen: + y + | – y –
+> Iguales se repelen; distintas se atraen.
+
+? Un globo frotado en el pelo atrae papelitos por la electricidad estática.
+= verdadero
+> Los rayos también son descargas de electricidad estática.
+
+? ¿Qué es la corriente eléctrica?
++ El movimiento de cargas (electrones) a través de un material
+- La fuerza con la que un imán atrae el hierro
+- La luz y el calor que da una bombilla encendida
+- La carga que se queda quieta en un globo frotado
+> Es la electricidad que usamos en casa.
+
+? Clasifica cada material.
+@ Conductor: cobre | aluminio | hierro | agua con sales
+@ Aislante: plástico | madera | vidrio | goma
 > Los metales son buenos conductores.
 
-? ¿Qué elemento del circuito produce la energía eléctrica?
-+ El generador (la pila)
-- El interruptor
-- La bombilla
-- El cable
-> La pila es un generador.
+? ¿Por qué los cables tienen plástico por fuera?
++ Porque el plástico es aislante y evita calambres
+- Porque el plástico conduce mejor la electricidad
+- Para que pesen menos
+- Para que se calienten más
+> Por dentro llevan cobre, que es conductor.
 
-? Si un circuito está abierto, la bombilla se enciende.
+? Relaciona cada elemento del circuito con su función.
+* Generador → Produce la energía eléctrica
+* Conductores → Llevan la corriente
+* Receptores → Transforman la electricidad en otra energía
+* Interruptor → Abre o cierra el circuito
+> Pila, cables, bombilla e interruptor.
+
+? Relaciona cada receptor con la energía que produce.
+* Bombilla → Luz
+* Motor → Movimiento
+* Timbre → Sonido
+> Los receptores transforman la energía eléctrica.
+
+? En un circuito abierto, la bombilla se enciende.
 = falso
-> En un circuito abierto la corriente no puede circular y la bombilla se apaga.
+> Para que se encienda, el circuito tiene que estar cerrado.
 
-? ¿Cómo se llama el elemento que abre o cierra un circuito?
-= interruptor | el interruptor
-> Al pulsar el interruptor de la luz, cerramos o abrimos el circuito.
+? Completa: Si las bombillas están en [serie] y una se funde, se apagan todas; si están en [paralelo], las demás siguen encendidas.
+- cadena
+- abierto
+> Las casas tienen la instalación en paralelo.
+
+? ¿Cómo está conectada la instalación eléctrica de las casas?
++ En paralelo
+- En serie
+- En circuito abierto
+- Sin interruptores
+> Así, si se funde una bombilla, las demás siguen funcionando.
 
 ? ¿Qué metales atraen los imanes?
 + Hierro, níquel y cobalto
 - Oro, plata y cobre
-- Aluminio y plomo
+- Aluminio y cobre
 - Todos los metales
-> Los imanes no atraen el oro, la plata ni el cobre.
+> El aluminio o el cobre no son atraídos.
+
+? Completa: Todo imán tiene un polo [norte] y un polo [sur]; los polos distintos se [atraen].
+- este
+- repelen
+> Los polos iguales se repelen.
 
 ? Si partes un imán por la mitad, obtienes dos imanes con sus dos polos.
 = verdadero
-> Nunca se puede separar el polo norte del polo sur.
+> No se pueden separar los polos.
 
-? ¿Hacia dónde señala siempre la aguja de una brújula?
-+ Hacia el norte
-- Hacia el sur
-- Hacia el este
-- Hacia donde sopla el viento
-> La Tierra se comporta como un imán gigante.
+? ¿Por qué la aguja de una brújula señala siempre el norte?
++ Porque la Tierra se comporta como un imán gigante
+- Porque la aguja es de plástico
+- Porque el Sol la atrae
+- Porque está cargada de electricidad estática
+> La aguja es un pequeño imán.
 
-? En una instalación en paralelo, si se funde una bombilla…
-+ Las demás siguen encendidas
-- Se apagan todas
-- Las demás brillan el doble
-- Se rompe la pila
-> Por eso las casas tienen la instalación en paralelo.
+? ¿Cómo se llama un cable con corriente enrollado sobre un clavo, que actúa como un imán?
+= electroiman | electroimán | un electroimán | un electroiman
+> Solo funciona mientras pasa la corriente.
 
-? ¿Cómo se llama un imán que funciona solo cuando pasa la corriente eléctrica?
-= electroimán | electroiman | un electroiman
-> Se hace enrollando un cable con corriente alrededor de un trozo de hierro.
+?* ¿Qué normas de seguridad hay que cumplir con la electricidad?
++ No tocar enchufes con las manos mojadas
++ No meter objetos en los enchufes
++ No tirar del cable para desenchufar
+- Acercarse a los cables caídos
+- Subirse a las torres de alta tensión
+> La electricidad puede ser muy peligrosa.
+
+? Ordena los elementos por los que pasa la corriente en un circuito sencillo.
+1. Sale de la pila
+2. Recorre el cable
+3. Pasa por la bombilla
+4. Vuelve a la pila
+> El circuito es un camino cerrado.
+
+? ¿Qué aparatos aprovechan la relación entre electricidad y magnetismo?
++ Los motores y los generadores eléctricos
+- Las velas y las linternas de aceite
+- Las tijeras y las palancas
+- Los termómetros de mercurio
+> Funcionan gracias a electroimanes.
+
+? ¿Qué elemento es un generador?
++ Una pila
+- Una bombilla
+- Un cable
+- Un interruptor
+> Produce la energía eléctrica.
+
+? Un rayo es una gran descarga de electricidad estática.
+= verdadero
+> Se produce entre las nubes y el suelo.

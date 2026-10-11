@@ -51,9 +51,9 @@ preguntas: 20
 
 ? ¿Qué es un adjetivo?
 + La palabra que acompaña al sustantivo y expresa una cualidad
-- La palabra que nombra cosas
-- La palabra que expresa acciones
-- La palabra que sustituye al nombre
+- La palabra que nombra personas, animales o cosas
+- La palabra que expresa acciones, estados o procesos
+- La palabra que sustituye al nombre para no repetirlo
 > Dice cómo es el sustantivo.
 
 ?* ¿Cuáles de estas palabras son adjetivos?

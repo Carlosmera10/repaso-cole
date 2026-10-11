@@ -49,63 +49,138 @@ Expresa **emociones** de forma **espontánea**. Suele escribirse entre **signos 
 
 # Examen
 
-? En "corre mucho", ¿a qué palabra complementa el adverbio "mucho"?
-+ Al verbo corre
-- A un sustantivo
-- A un adjetivo
-- A una preposición
-> Los adverbios complementan a verbos, adjetivos u otros adverbios.
+preguntas: 20
 
-? ¿Qué tipo de adverbio es "todavía"?
-+ De tiempo
-- De lugar
-- De modo
-- De duda
-> Indica cuándo.
+? ¿Qué tienen en común adverbios, preposiciones, conjunciones e interjecciones?
++ Son palabras invariables: no cambian de forma
+- Todas expresan acciones, estados o procesos
+- Todas acompañan al sustantivo y concuerdan con él
+- Todas llevan tilde porque son palabras agudas
+> No tienen género, número ni persona.
+
+? Clasifica cada adverbio.
+@ Lugar: cerca | encima | fuera
+@ Tiempo: todavía | pronto | ayer
+@ Modo: despacio | así | rápidamente
+@ Cantidad: bastante | demasiado | casi
+> Pregunta dónde, cuándo, cómo o cuánto.
+
+? Relaciona cada adverbio con su clase.
+* quizás → Duda
+* tampoco → Negación
+* efectivamente → Afirmación
+* debajo → Lugar
+* luego → Tiempo
+> Algunos adverbios expresan afirmación, negación o duda.
+
+? En "Ella es muy alta", ¿a qué complementa "muy"?
++ A un adjetivo
+- A un verbo
+- A un sustantivo
+- A otro adverbio
+> Muy complementa a alta.
 
 ? ¿Qué es "de repente"?
 + Una locución adverbial
 - Una preposición
 - Una conjunción
 - Una interjección
-> Es un grupo de palabras que funciona como un adverbio.
+> Varias palabras que funcionan como un adverbio.
 
-? ¿Qué tipo de conjunción es "así que"?
-+ Consecutiva
-- Causal
-- Adversativa
-- Copulativa
-> Introduce una consecuencia.
+?* ¿Cuáles son locuciones adverbiales?
++ a menudo
++ sin duda
++ de vez en cuando
+- encima de
+- a pesar de
+> Encima de y a pesar de son locuciones prepositivas.
 
-? ¿Qué tipo de conjunción es "si" en "Si estudias, aprobarás"?
-= condicional | conjuncion condicional
-> Expresa una condición.
+? Ordena estas preposiciones como aparecen en la lista.
+1. a
+2. ante
+3. bajo
+4. con
+5. contra
+> A, ante, bajo, cabe, con, contra… (cabe ya no se usa).
 
-? ¿Qué forma es correcta en la pregunta "¿___ no viniste?"?
-+ Por qué
-- Porque
+? ¿Qué palabra es una preposición?
++ hacia
+- hacía
+- encima
+- aunque
+> Hacia indica dirección.
+
+? Relaciona cada conjunción con su clase.
+* y → Copulativa
+* o → Disyuntiva
+* pero → Adversativa
+* porque → Causal
+* así que → Consecutiva
+* si → Condicional
+> Unen palabras u oraciones.
+
+? Completa: ¿Vienes [o] te quedas? Es pequeño, [pero] fuerte.
+- y
+- porque
+> Disyuntiva para elegir; adversativa para oponer.
+
+? Clasifica cada oración según su conjunción.
+@ Causal: No salgo porque llueve. | Me abrigo, ya que hace frío.
+@ Consecutiva: Pienso, luego existo. | Llovía, así que no salimos.
+@ Condicional: Si estudias, aprobarás. | Si llueve, cogeré el paraguas.
+> Causa, consecuencia o condición.
+
+? Completa: ¿[Por qué] lloras? [Porque] me duele. No sé el [porqué].
 - Porqué
 - Por que
-> En las preguntas se escribe separado y con tilde.
+> Pregunta: por qué. Causa: porque. Sustantivo: porqué.
 
-? "¡Ay!" es una interjección.
+? ¿Qué oración está bien escrita?
++ No sé por qué se ha ido.
+- No sé porque se ha ido.
+- No sé porqué se ha ido.
+- No sé por que se ha ido.
+> Es una pregunta indirecta: por qué.
+
+? "Porqué" junto y con tilde es un sustantivo y significa "el motivo".
 = verdadero
-> Expresa dolor de forma espontánea.
+> No entiendo el porqué de su enfado.
 
-? ¿Cuál de estas palabras es una preposición?
-+ Según
-- Siempre
-- Sino
-- Sí
-> Según, sin, so, sobre, tras… son preposiciones.
+? Relaciona cada interjección con lo que expresa.
+* ¡Ay! → Dolor
+* ¡Uf! → Cansancio
+* ¡Oh! → Sorpresa
+* ¡Bravo! → Alegría
+* ¡Eh! → Llamada
+> Expresan emociones de forma espontánea.
 
-? "Encima de" es una locución prepositiva.
+? Las interjecciones suelen escribirse entre signos de exclamación.
 = verdadero
-> Funciona como una preposición.
+> ¡Ay!, ¡Ojalá!
 
-? ¿Qué tipo de conjunción es "ni"?
-+ Copulativa
-- Disyuntiva
-- Adversativa
-- Causal
-> Suma elementos negativos: ni come ni deja comer.
+? "Mañana" es siempre un sustantivo.
+= falso
+> En "Vendré mañana" es un adverbio de tiempo.
+
+? ¿De qué clase es la conjunción "ni"?
+= copulativa
+> Ni come ni deja comer: suma.
+
+? En "Corre muy deprisa", ¿qué clase de palabra es "deprisa"?
++ Adverbio de modo
+- Adjetivo
+- Preposición
+- Adverbio de lugar
+> Dice cómo corre.
+
+? ¿Qué palabra es una conjunción adversativa?
++ sino
+- si no
+- así que
+- pues
+> No es azul, sino verde.
+
+? Completa: Lo hizo [a pesar de] la lluvia y dejó la mochila [junto a] la puerta.
+- acerca de
+- delante
+> Son locuciones prepositivas.

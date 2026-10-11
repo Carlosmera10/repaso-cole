@@ -106,9 +106,9 @@ preguntas: 20
 
 ? ¿Para qué sirve la función de nutrición?
 + Para obtener energía y materiales para crecer y reparar el cuerpo
-- Para tener descendientes parecidos a nosotros
-- Para recibir información de lo que nos rodea
-- Para movernos de un lugar a otro
+- Para tener descendientes parecidos a nosotros y a nuestra familia
+- Para recibir información de lo que nos rodea y responder a ella
+- Para movernos de un lugar a otro gracias a huesos y músculos
 > Gracias a la nutrición, cada célula recibe lo que necesita.
 
 ? Completa: Los sentidos captan la información, el sistema [nervioso] la interpreta y el aparato [locomotor] responde.

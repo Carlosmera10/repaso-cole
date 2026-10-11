@@ -48,60 +48,131 @@ La **rueda**, la **imprenta** (Gutenberg, siglo XV), la **máquina de vapor** (s
 
 # Examen
 
-? ¿Qué es una fuerza?
-+ Todo lo que puede cambiar el movimiento de un cuerpo o deformarlo
-- La cantidad de materia de un cuerpo
-- Un tipo de máquina
-- La velocidad de un cuerpo
-> Empujar, tirar o la gravedad son ejemplos de fuerzas.
+preguntas: 20
 
-? ¿Qué fuerza frena el movimiento cuando dos superficies se rozan?
-= rozamiento | el rozamiento | fuerza de rozamiento
+? ¿Qué es una fuerza?
++ Todo aquello capaz de cambiar el movimiento de un cuerpo o deformarlo
+- La cantidad de materia que tiene un cuerpo, en kilos
+- La velocidad a la que se mueve un objeto, en km/h
+- Una máquina simple que ayuda a levantar pesos
+> Se mide en newtons.
+
+? Completa: Las fuerzas se miden en [newtons] con un [dinamómetro].
+- kilos
+- termómetro
+> El símbolo del newton es N.
+
+? Clasifica cada fuerza.
+@ De contacto: empujar una puerta | chutar un balón | tirar de una cuerda
+@ A distancia: la gravedad | la fuerza de un imán | la fuerza eléctrica
+> Las fuerzas a distancia actúan sin tocar.
+
+? ¿Qué es el rozamiento?
++ Una fuerza que frena el movimiento cuando dos superficies se rozan
+- Una fuerza que acelera los objetos cuando se deslizan
+- La atracción con la que la Tierra tira de los cuerpos
+- La fuerza con la que un imán atrae objetos de hierro
 > Sin rozamiento resbalaríamos al andar.
 
-? La gravedad es una fuerza a distancia.
+? Relaciona cada concepto con su definición.
+* Masa → Cantidad de materia; se mide en kg
+* Peso → Fuerza con la que nos atrae la gravedad; se mide en N
+* Velocidad → Espacio recorrido en un tiempo
+> Masa y peso no son lo mismo.
+
+? En la Luna pesarías menos, pero tendrías la misma masa.
 = verdadero
-> La Tierra nos atrae sin necesidad de tocarnos.
+> Pesarías unas seis veces menos.
 
-? Si una bici recorre 30 km en 2 horas, ¿cuál es su velocidad?
-+ 15 km/h
-- 60 km/h
-- 32 km/h
-- 28 km/h
-> Velocidad = espacio ÷ tiempo = 30 ÷ 2 = 15 km/h.
+? Un coche recorre 120 km en 2 horas. ¿Cuál es su velocidad?
++ 60 km/h
+- 240 km/h
+- 122 km/h
+- 30 km/h
+> velocidad = espacio ÷ tiempo = 120 ÷ 2.
 
-? ¿Qué máquina simple es una rampa?
+? Una bicicleta recorre 30 km en 2 horas. ¿Cuál es su velocidad en km/h?
+= 15 | 15 km/h
+> 30 ÷ 2 = 15.
+
+? ¿Para qué sirven las máquinas?
++ Para hacer trabajos con menos esfuerzo
+- Para que los trabajos tarden más
+- Solo para producir electricidad
+- Para aumentar el rozamiento
+> Nos ayudan en muchas tareas.
+
+? Relaciona cada máquina simple con un ejemplo.
+* Palanca → Balancín
+* Plano inclinado → Rampa
+* Polea → Pozo
+* Rueda → Carro
+* Cuña → Hacha
+* Tornillo → Tapón de rosca
+> Tienen muy pocas piezas.
+
+? Clasifica cada máquina.
+@ Simple: tijeras | rampa | polea | cuchillo
+@ Compuesta: bicicleta | coche | grúa
+> Las compuestas están formadas por varias máquinas simples.
+
+? Relaciona cada elemento de la palanca con su definición.
+* Punto de apoyo → El punto sobre el que gira la barra
+* Potencia → La fuerza que hacemos
+* Resistencia → El peso que movemos
+> El punto de apoyo también se llama fulcro.
+
+? ¿Qué máquina simple es un tornillo?
++ Un plano inclinado enrollado
+- Una palanca con dos brazos
+- Una polea con una cuerda
+- Una rueda con un eje fijo
+> Por eso cuesta menos meterlo girando.
+
+? ¿Qué hace una polea?
++ Cambia la dirección de la fuerza
+- Corta y separa objetos
+- Reduce el rozamiento al rodar
+- Enrolla un plano inclinado
+> Se usa en pozos y grúas.
+
+? Completa: Los [engranajes] son ruedas dentadas que encajan y la [cadena] une dos ruedas separadas en la bici.
+- poleas
+- palanca
+> Son operadores mecánicos.
+
+? Masa y peso son lo mismo.
+= falso
+> La masa se mide en kg y el peso en N.
+
+? Ordena los inventos de más antiguo a más moderno.
+1. La rueda
+2. La imprenta
+3. La máquina de vapor
+4. Internet
+> Siglo XV la imprenta y siglo XVIII la máquina de vapor.
+
+? Relaciona cada invento con su autor o época.
+* La imprenta → Gutenberg, siglo XV
+* La máquina de vapor → Siglo XVIII
+* La bombilla → Edison
+> Cambiaron la forma de vivir de las personas.
+
+?* ¿Qué fuerzas actúan a distancia?
++ La gravedad
++ La fuerza magnética
++ La fuerza eléctrica
+- Empujar un carro
+- Chutar un balón
+> Actúan sin tocar el objeto.
+
+? ¿Cómo se llama la fuerza con la que la Tierra atrae todo hacia su centro?
+= gravedad | la gravedad
+> Por eso los objetos caen.
+
+? ¿Qué máquina simple usamos al subir una silla de ruedas por una rampa?
 + El plano inclinado
-- La palanca
 - La polea
 - La cuña
-> Subir un peso por una rampa cuesta menos esfuerzo.
-
-? ¿Qué máquina simple son las tijeras?
-+ Una palanca
-- Una polea
-- Una rueda
-- Un plano inclinado
-> Las tijeras son dos palancas unidas por un punto de apoyo.
-
-? En la Luna tu masa sería seis veces menor.
-= falso
-> Lo que cambia es el peso. La masa (la cantidad de materia) es siempre la misma.
-
-? ¿Cómo se llama el punto sobre el que gira una palanca?
-+ Punto de apoyo (fulcro)
-- Resistencia
-- Potencia
-- Engranaje
-> La potencia es la fuerza que hacemos y la resistencia el peso que movemos.
-
-? ¿Cuál de estas es una máquina compuesta?
-+ La bicicleta
-- Una rampa
-- Un cuchillo
-- Un tornillo
-> Está formada por varias máquinas simples: ruedas, palancas, engranajes…
-
-? ¿Cómo se llaman las ruedas dentadas que encajan y transmiten el giro?
-= engranajes | engranaje
-> Los engranajes están en relojes, bicicletas y muchas máquinas.
+- El tornillo
+> Cuesta menos que levantarla en vertical.

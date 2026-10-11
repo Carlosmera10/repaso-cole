@@ -56,60 +56,130 @@ Algunos músculos importantes: **bíceps** y **tríceps** (brazo), **pectorales*
 
 # Examen
 
-? ¿Cuántos huesos tiene una persona adulta?
+preguntas: 20
+
+? ¿Qué partes forman el aparato locomotor?
++ El esqueleto y la musculatura
+- El corazón y los vasos sanguíneos
+- El cerebro y los nervios
+- Los pulmones y la tráquea
+> Huesos, articulaciones y músculos.
+
+? Clasifica cada parte del aparato locomotor.
+@ Parte pasiva: huesos | articulaciones
+@ Parte activa: músculos
+> Los músculos producen el movimiento.
+
+? ¿Cuántos huesos tiene un adulto?
 + 206
-- 100
+- 106
 - 600
-- 52
-> Al nacer tenemos más, pero algunos se van uniendo al crecer.
+- 2.006
+> Más de 600 son los músculos.
+
+? Relaciona cada función del esqueleto con un ejemplo.
+* Sostener → Da forma al cuerpo y lo mantiene erguido
+* Proteger → El cráneo protege el encéfalo
+* Permitir el movimiento → Junto con los músculos
+* Fabricar células de la sangre → En la médula ósea roja
+> El esqueleto tiene varias funciones.
+
+? Clasifica cada hueso según su zona.
+@ Cabeza: cráneo | mandíbula
+@ Tronco: vértebras | costillas | esternón
+@ Brazos: húmero | cúbito | radio
+@ Piernas: fémur | tibia | peroné
+> La rótula también está en la pierna.
 
 ? ¿Cuál es el hueso más largo del cuerpo?
-+ El fémur
-- La tibia
-- El húmero
-- La columna vertebral
-> El fémur está en el muslo.
+= fémur | el fémur
+> Está en el muslo.
 
-? ¿Qué hueso protege el encéfalo?
-= cráneo | craneo | el craneo
-> El cráneo es como un casco natural.
+? ¿Cuál es el hueso más pequeño del cuerpo?
++ El estribo
+- La rótula
+- El martillo
+- Una falange
+> Está dentro del oído.
 
-? ¿Qué une los músculos con los huesos?
+? ¿Cuál es el único hueso de la cabeza que se mueve?
++ La mandíbula
+- El cráneo
+- La nariz
+- El esternón
+> Nos permite masticar y hablar.
+
+? Ordena los huesos de la pierna de arriba abajo.
+1. Pelvis
+2. Fémur
+3. Rótula
+4. Tibia
+5. Tarso
+6. Falanges
+> De la cadera a los dedos del pie.
+
+? Relaciona cada articulación con su tipo.
+* Rodilla → Móvil
+* Entre las vértebras → Semimóvil
+* Huesos del cráneo → Fija
+> Según cuánto movimiento permiten.
+
+? Completa: Los [ligamentos] unen los huesos en las articulaciones y el [cartílago] evita que se rocen.
+- tendones
+- músculos
+> Los tendones unen los músculos a los huesos.
+
+? ¿Qué une los músculos a los huesos?
 + Los tendones
 - Los ligamentos
 - Los cartílagos
 - Las vértebras
-> El tendón de Aquiles, en el talón, es el más fuerte.
+> El más fuerte es el tendón de Aquiles.
 
 ? Al doblar el brazo, el bíceps se contrae y el tríceps se relaja.
 = verdadero
-> Los músculos trabajan por parejas.
+> Al estirarlo, ocurre al revés.
 
-? ¿Qué tipo de articulación es la rodilla?
-+ Móvil
-- Fija
-- Semimóvil
-- No es una articulación
-> Permite mucho movimiento.
+? Relaciona cada músculo con su zona.
+* Bíceps → Brazo
+* Pectorales → Pecho
+* Abdominales → Barriga
+* Cuádriceps → Muslo
+* Gemelos → Pantorrilla
+> Hay más de 600 músculos.
 
-? ¿Cómo se llaman los huesos que forman la columna vertebral?
-= vértebras | vertebras | vertebra
-> Entre las vértebras hay articulaciones semimóviles.
-
-? Los huesos forman la parte activa del aparato locomotor.
+? El corazón es un músculo voluntario.
 = falso
-> La parte activa son los músculos: son los que se contraen y producen el movimiento.
+> Funciona sin que se lo ordenemos: es involuntario.
 
-? ¿Qué lesión es la rotura de un hueso?
-+ Fractura
-- Esguince
-- Luxación
-- Calambre
-> El esguince es una lesión de un ligamento.
+? Relaciona cada lesión con su definición.
+* Fractura → Rotura de un hueso
+* Esguince → Lesión de un ligamento
+* Luxación → Un hueso se sale de su articulación
+> Calentar antes del deporte ayuda a prevenirlas.
 
-? ¿Qué huesos están en el antebrazo?
-+ El cúbito y el radio
-- La tibia y el peroné
-- El fémur y la rótula
-- El húmero y la clavícula
-> La tibia y el peroné están en la pierna, por debajo de la rodilla.
+?* ¿Qué hábitos cuidan el aparato locomotor?
++ Calentar antes de hacer deporte
++ Tomar leche, yogur o queso
++ Sentarse con buena postura
+- Llevar una mochila muy pesada
+- No hacer nunca ejercicio
+> El calcio ayuda a tener huesos fuertes.
+
+? ¿Qué hacen los músculos cuando se contraen?
++ Se acortan y tiran de los huesos
+- Se alargan y empujan los huesos
+- Fabrican sangre
+- Se convierten en hueso
+> Luego se relajan.
+
+? ¿Dónde está el tendón de Aquiles?
+= talon | en el talón | el talón
+> Es el tendón más fuerte.
+
+? ¿Cuántos pares de costillas tenemos?
++ 12
+- 10
+- 24
+- 6
+> 12 pares: 24 costillas.

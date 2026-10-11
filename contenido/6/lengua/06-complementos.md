@@ -60,57 +60,133 @@ Indica las **circunstancias** de la acción. Se puede **quitar** sin que la orac
 
 # Examen
 
-? En "Ana come una manzana", ¿qué función tiene "una manzana"?
-+ Complemento directo
-- Complemento indirecto
-- Sujeto
-- Complemento circunstancial
-> Se puede sustituir por "la": Ana la come.
+preguntas: 20
 
-? ¿Por qué pronombres se sustituye el complemento indirecto?
-+ Le, les
-- Lo, la, los, las
-- Me, te
-- Él, ella
-> Ana le regaló un libro.
+? ¿Con qué concuerda el sujeto?
++ Con el verbo, en número y persona
+- Con el complemento directo, en género
+- Con el atributo, en tiempo
+- Con el complemento circunstancial
+> Los niños juegan (plural, 3.ª persona).
+
+? Relaciona cada complemento con la pregunta que lo identifica.
+* Complemento directo → ¿Qué? / ¿A quién? (se sustituye por lo, la)
+* Complemento indirecto → ¿A quién? / ¿Para quién? (se sustituye por le, les)
+* Atributo → ¿Cómo es? (se sustituye por lo, con ser o estar)
+* CC de lugar → ¿Dónde?
+* CC de tiempo → ¿Cuándo?
+> Las pruebas de sustitución ayudan a distinguirlos.
+
+? ¿Qué verbos llevan atributo?
++ ser, estar y parecer
+- comer, beber y dormir
+- tener, haber y hacer
+- ir, venir y llegar
+> Son los verbos copulativos.
 
 ? En "Mi hermana es muy simpática", ¿qué es "muy simpática"?
-= atributo | el atributo
-> Con los verbos ser, estar y parecer, el predicado lleva atributo.
++ Atributo
+- Complemento directo
+- Complemento circunstancial
+- Sujeto
+> Mi hermana lo es.
 
-? En "Jugamos en el patio", ¿qué tipo de complemento es "en el patio"?
-+ Circunstancial de lugar
-- Circunstancial de tiempo
+? En "Ana come una manzana", ¿qué es "una manzana"?
+= complemento directo | cd | el complemento directo
+> Ana la come.
+
+? En "Ana regaló un libro a su abuelo", ¿qué es "a su abuelo"?
++ Complemento indirecto
 - Complemento directo
 - Atributo
-> Responde a la pregunta ¿dónde?
+- CC de lugar
+> Ana le regaló un libro.
 
-? En "Ana regaló un libro a su abuelo", ¿cuál es el complemento indirecto?
-+ A su abuelo
-- Un libro
-- Ana
-- Regaló
-> Indica a quién se regala.
+? Completa la sustitución: Vi a tu primo → [Lo] vi. Di un regalo a mi madre → [Le] di un regalo.
+- La
+- Les
+> CD: lo; CI: le.
 
-? ¿Qué tipo de complemento es "con las tijeras" en "Corta el papel con las tijeras"?
-+ Circunstancial de instrumento
-- Circunstancial de compañía
+? ¿Cómo se sustituyen juntos el CD y el CI en "Ana regaló un libro a su abuelo"?
++ Ana se lo regaló.
+- Ana le lo regaló.
+- Ana lo le regaló.
+- Ana se le regaló.
+> Le + lo → se lo.
+
+? Relaciona cada complemento circunstancial con su tipo.
+* en el patio → Lugar
+* ayer → Tiempo
+* despacio → Modo
+* con mis primos → Compañía
+* con las tijeras → Instrumento
+* para aprobar → Finalidad
+> Indican las circunstancias de la acción.
+
+? Clasifica cada complemento circunstancial.
+@ Causa: por la fiebre | por el ruido
+@ Finalidad: para aprobar | para ganar
+@ Cantidad: mucho | demasiado
+> ¿Por qué? ¿Para qué? ¿Cuánto?
+
+? Los complementos circunstanciales se pueden quitar sin que la oración pierda sentido.
+= verdadero
+> Jugamos en el patio → Jugamos.
+
+? Cuando el complemento directo es una persona, lleva la preposición "a".
+= verdadero
+> Vi a tu primo.
+
+? Ordena los pasos para analizar una oración.
+1. Buscar el verbo
+2. Buscar el sujeto preguntando quién
+3. Buscar el CD preguntando qué
+4. Buscar el CI preguntando a quién
+5. Buscar los complementos circunstanciales
+> Primero el verbo, que es el núcleo del predicado.
+
+? En "Ayer Lucía dio un regalo a su madre en casa", ¿cuál es el sujeto?
+= Lucía
+> ¿Quién dio? Lucía.
+
+? Clasifica cada parte de "Ayer Lucía dio un regalo a su madre en casa".
+@ Sujeto: Lucía
+@ CD: un regalo
+@ CI: a su madre
+@ CC: ayer | en casa
+> CC de tiempo: ayer; CC de lugar: en casa.
+
+? En "Mi abuelo parece cansado", ¿qué es "cansado"?
++ Atributo
+- Complemento directo
+- CC de modo
+- Sujeto
+> Parece es un verbo copulativo: Mi abuelo lo parece.
+
+? En "Faltó por la fiebre", el complemento es de finalidad.
+= falso
+> Por la fiebre indica causa.
+
+? En "Los niños juegan al fútbol en el parque", ¿qué es "en el parque"?
++ CC de lugar
+- CC de tiempo
 - Complemento directo
 - Complemento indirecto
-> Responde a ¿con qué?
+> ¿Dónde juegan?
 
-? El complemento directo se puede sustituir por "lo, la, los, las".
-= verdadero
-> Es la prueba para reconocerlo.
+?* ¿En qué oraciones hay un complemento directo?
++ Marta lee un cómic.
++ Vimos a tu hermana.
++ Compré pan.
+- Marta está contenta.
+- Pablo vive en Madrid.
+> Lo lee, la vimos, lo compré.
 
-? En "Ayer Lucía dio un regalo a su madre", ¿cuál es el sujeto?
-= Lucía | lucia | Lucía
-> ¿Quién dio un regalo? Lucía.
+? Escribe el pronombre que sustituye al CI en plural: "Di caramelos a los niños" → ___ di caramelos.
+= les
+> Le en singular; les en plural.
 
-? Los verbos ser, estar y parecer forman predicados nominales.
-= verdadero
-> Se llaman verbos copulativos y llevan atributo.
-
-? En "Estudia para aprobar", "para aprobar" es un complemento circunstancial de causa.
-= falso
-> Es de finalidad: responde a ¿para qué?
+? Completa: En "Estudia para aprobar", "para aprobar" es un CC de [finalidad] y en "Corta con las tijeras", "con las tijeras" es un CC de [instrumento].
+- compañía
+- causa
+> ¿Para qué? ¿Con qué?

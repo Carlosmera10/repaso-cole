@@ -55,9 +55,9 @@ preguntas: 20
 
 ? ¿Qué forma tiene la Tierra?
 + Casi esférica, algo achatada por los polos
-- Una esfera perfecta
-- Plana como un disco
-- Alargada como un huevo
+- Una esfera perfecta, igual por todas partes
+- Plana como un disco, con bordes en el océano
+- Alargada como un huevo, más ancha en los polos
 > Está un poco ensanchada por el ecuador.
 
 ? Relaciona cada movimiento con sus datos.

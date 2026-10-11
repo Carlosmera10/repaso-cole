@@ -40,63 +40,133 @@ En las últimas décadas España ha cambiado mucho:
 
 # Examen
 
+preguntas: 20
+
 ? ¿Qué fue la Transición?
 + El paso pacífico de la dictadura a la democracia
-- Una guerra entre dos bandos
-- La entrada de España en el euro
-- El reinado de los Reyes Católicos
-> Ocurrió entre 1975 y 1982 aproximadamente.
+- Una guerra entre dos bandos que duró tres años
+- La llegada del euro, que sustituyó a la peseta
+- La salida de España de la Unión Europea
+> Se hizo gracias al acuerdo entre personas con ideas distintas.
 
-? ¿Quién fue proclamado rey en 1975?
-+ Juan Carlos I
-- Felipe VI
-- Alfonso XIII
-- Felipe II
-> En 2014 abdicó en su hijo, Felipe VI.
+? Ordena estos hechos de la Transición.
+1. Juan Carlos I es proclamado rey
+2. Adolfo Suárez es nombrado presidente
+3. Primeras elecciones democráticas
+4. Se aprueba la Constitución
+5. Intento de golpe de Estado del 23-F
+6. Felipe González gana las elecciones
+> 1975, 1976, 1977, 1978, 1981 y 1982.
 
-? ¿Qué presidente del Gobierno dirigió los primeros pasos de la Transición?
-+ Adolfo Suárez
-- Felipe González
-- Francisco Franco
-- Primo de Rivera
-> Fue nombrado presidente en 1976.
+? Relaciona cada año con su acontecimiento.
+* 1975 → Juan Carlos I es proclamado rey
+* 1977 → Primeras elecciones democráticas desde 1936
+* 1978 → Se aprueba la Constitución
+* 1981 → Intento de golpe de Estado (23-F)
+* 1982 → Felipe González es presidente
+> La Transición duró de 1975 a 1982.
 
-? ¿En qué año se celebraron las primeras elecciones democráticas tras la dictadura?
-+ 1977
-- 1975
-- 1986
-- 1992
-> Fueron las primeras desde 1936.
+? ¿Qué día se aprobó en referéndum la Constitución?
++ El 6 de diciembre de 1978
+- El 14 de abril de 1931
+- El 23 de febrero de 1981
+- El 19 de marzo de 1812
+> Por eso el 6 de diciembre es el Día de la Constitución.
 
-? ¿Qué ocurrió el 23 de febrero de 1981?
-+ Un intento de golpe de Estado que fracasó
-- Se aprobó la Constitución
-- España entró en la Unión Europea
-- Se celebraron los Juegos Olímpicos
-> Se conoce como el 23-F.
+? ¿Quién fue nombrado presidente del Gobierno en 1976?
+= adolfo suarez | adolfo suárez | suarez | suárez
+> Impulsó la Ley para la Reforma Política.
 
-? En 1992 se celebraron los Juegos Olímpicos de Barcelona y la Expo de Sevilla.
+? El golpe de Estado del 23-F de 1981 triunfó.
+= falso
+> Fracasó y la democracia siguió adelante.
+
+? En la Transición se crearon las comunidades autónomas.
 = verdadero
-> También se inauguró el primer AVE, entre Madrid y Sevilla.
+> Y se aprobaron sus Estatutos de Autonomía.
 
-? ¿Qué moneda usaba España antes del euro?
-= peseta | la peseta
-> El euro sustituyó a la peseta en 2002.
+? Relaciona cada año con un hecho de la España democrática.
+* 1986 → Entrada en la Comunidad Económica Europea
+* 1992 → Juegos Olímpicos de Barcelona
+* 2002 → El euro sustituye a la peseta
+* 2014 → Felipe VI es proclamado rey
+> España cambió mucho tras la Transición.
+
+?* ¿Qué ocurrió en 1992?
++ Juegos Olímpicos de Barcelona
++ Exposición Universal de Sevilla
++ Primer AVE entre Madrid y Sevilla
+- Llegada del euro
+- Aprobación de la Constitución
+> Fue un año muy importante para España.
+
+? ¿Qué moneda sustituyó el euro?
++ La peseta
+- El real
+- El duro
+- El dólar
+> Ocurrió en 2002.
 
 ? ¿Quién es el rey de España desde 2014?
-+ Felipe VI
-- Juan Carlos I
-- Alfonso XII
-- Carlos III
-> Fue proclamado tras la abdicación de su padre.
+= felipe vi | felipe sexto | felipe 6
+> Juan Carlos I abdicó en su favor.
 
-? En la democracia española solo puede existir un partido político.
-= falso
-> Hay varios partidos con ideas diferentes: eso se llama pluralismo político.
+? Completa: En España se puede votar a partir de los [18] años y la educación es obligatoria hasta los [16].
+- 14
+- 21
+> Mayoría de edad y enseñanza obligatoria.
 
-? ¿En qué año entró España en la Comunidad Económica Europea?
-+ 1986
-- 1978
-- 2002
-- 1975
-> Hoy se llama Unión Europea.
+? Clasifica cada elección según lo que se elige.
+@ Generales: Cortes Generales (Congreso y Senado)
+@ Municipales: alcaldes y concejales
+@ Europeas: eurodiputados
+@ Autonómicas: parlamentos de las comunidades
+> Hay varios tipos de elecciones libres.
+
+? Relaciona cada poder con su función.
+* Legislativo → Hace las leyes
+* Ejecutivo → Gobierna y aplica las leyes
+* Judicial → Juzga y hace cumplir las leyes
+> En democracia los poderes están separados.
+
+?* ¿Qué derechos y libertades se respetan en democracia?
++ Libertad de expresión
++ Libertad de reunión
++ Igualdad entre hombres y mujeres
+- Censura de la prensa
+- Prohibición de los partidos políticos
+> La censura y la prohibición de partidos son propias de una dictadura.
+
+? Clasifica cada rasgo según sea de democracia o de dictadura.
+@ Democracia: elecciones libres | varios partidos políticos | libertad de prensa
+@ Dictadura: censura | un solo gobernante sin elecciones | partidos prohibidos
+> La Transición pasó de una a otra.
+
+? España pasó de ser un país de emigrantes a recibir inmigrantes.
+= verdadero
+> Es uno de los grandes cambios de la sociedad.
+
+? ¿Qué cambios ha vivido la sociedad española en las últimas décadas?
++ Mejoraron la educación y la sanidad y aumentó la esperanza de vida
+- Empeoró la sanidad pública y bajó la esperanza de vida
+- Se prohibió que las mujeres trabajaran fuera de casa
+- Desaparecieron los ordenadores y volvieron las cartas
+> También llegaron las nuevas tecnologías.
+
+? ¿Qué partido ganó las elecciones de 1982?
++ El PSOE
+- La UCD
+- El PP
+- Ninguno
+> Felipe González fue presidente.
+
+? ¿En qué año entró España en la OTAN?
+= 1982
+> Ese mismo año terminó la Transición.
+
+? ¿Qué es el AVE?
++ Un tren de alta velocidad
+- Un avión
+- Un partido político
+- Una ley europea
+> El primero unió Madrid y Sevilla en 1992.

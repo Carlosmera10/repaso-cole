@@ -44,9 +44,9 @@ preguntas: 20
 
 ? ¿Qué es un ecosistema?
 + El medio físico y los seres vivos que se relacionan en un lugar
-- El conjunto de animales de una misma especie
-- El suelo y el clima de una zona, sin seres vivos
-- Un grupo de plantas que viven juntas en un bosque
+- El conjunto de animales de una misma especie en un lugar
+- El suelo, el agua y el clima de una zona, sin seres vivos
+- Un grupo de plantas distintas que viven juntas en un bosque
 > Incluye el biotopo y la biocenosis.
 
 ? Relaciona cada concepto con su definición.
@@ -87,9 +87,9 @@ preguntas: 20
 
 ? ¿Qué hacen los descomponedores?
 + Transforman los restos de seres vivos en sustancias para el suelo
-- Fabrican su alimento con la luz del sol
-- Cazan a otros animales para alimentarse
-- Producen el oxígeno del agua
+- Fabrican su propio alimento con la luz del sol y el agua
+- Cazan a otros animales más pequeños para alimentarse
+- Comen solo plantas vivas, como hojas, frutos y semillas
 > Los hongos y bacterias "reciclan" la materia.
 
 ? En una cadena alimentaria, las flechas indican "es comido por".

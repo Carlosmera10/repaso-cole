@@ -38,57 +38,127 @@ Se combinan para contar que una acción **larga** (past continuous) fue **interr
 
 # Examen
 
-? Completa: At 8 o'clock I ___ (watch) TV.
-+ was watching
-- were watching
-- watched
-- am watching
-> Con I se usa was + -ing.
+preguntas: 20
 
-? Completa: They ___ playing football when it started to rain.
+? ¿Cuándo se usa el past continuous?
++ Para una acción que estaba ocurriendo en un momento del pasado
+- Para lo que está pasando ahora mismo, en este momento
+- Para rutinas y hábitos que hacemos todos los días
+- Para planes del futuro que ya hemos decidido
+> At 8 o'clock last night, I was watching TV.
+
+? ¿Cómo se forma el past continuous?
++ was / were + verbo con -ing
+- am / is / are + verbo con -ing
+- did + verbo
+- have + participio
+> She was reading.
+
+? Completa: At 8 o'clock I [was] doing my homework and my parents [were] cooking.
+- did
+- are
+> I was; they were.
+
+? Escribe was o were: They ___ playing in the park.
 = were
 > Con they se usa were.
 
-? Elige la negativa correcta.
-+ She wasn't sleeping.
-- She weren't sleeping.
-- She didn't sleeping.
-- She wasn't slept.
-> Was not + verbo con -ing.
+? ¿Qué frase negativa es correcta?
++ He wasn't sleeping.
+- He weren't sleeping.
+- He didn't sleeping.
+- He wasn't sleep.
+> was not + -ing.
 
-? Elige la pregunta correcta.
-+ Were you reading?
-- Was you reading?
-- Did you reading?
-- You were reading?
-> Were + sujeto + -ing.
+? Relaciona cada pregunta con su respuesta corta.
+* Were you sleeping? → No, I wasn't.
+* Was she reading? → Yes, she was.
+* Were they running? → No, they weren't.
+* Was it raining? → Yes, it was.
+> La respuesta corta repite was o were.
 
-? Completa: I was having a shower ___ the phone rang.
-+ when
-- while
-- because
-- and then
-> When introduce la acción corta que interrumpe.
+? Escribe el -ing de "swim".
+= swimming
+> Se dobla la m.
 
-? Completa: ___ we were playing, it started to snow.
-= while
-> While (mientras) suele ir con la acción larga.
+? Completa: I [was having] a shower when the phone [rang].
+- had
+- was ringing
+- ring
+> Acción larga interrumpida por una corta.
 
-? En "I was reading when Tom arrived", la acción larga es "reading".
+? ¿Qué palabra suele ir con la acción larga (past continuous)?
++ while
+- when
+- yesterday
+- ago
+> While I was reading…
+
+? Clasifica cada parte según el tiempo verbal que suele llevar.
+@ Past continuous (acción larga): I was walking home | while we were playing | she was cooking
+@ Past simple (acción corta): it started to rain | when the phone rang | I found a coin
+> La acción corta interrumpe a la larga.
+
+? Completa: [While] we were playing, it [started] to rain.
+- When
+- was starting
+> While con la acción larga; past simple para la corta.
+
+? ¿Qué frase es correcta?
++ While I was cooking, my sister was setting the table.
+- While I cooked, my sister was set the table.
+- When I was cook, my sister set the table.
+- While I am cooking, my sister was setting the table.
+> Dos acciones largas a la vez: past continuous en las dos.
+
+? "When" suele ir con la acción corta, en past simple.
 = verdadero
-> Tom arrived es la acción corta que interrumpe.
+> …when the phone rang.
 
-? ¿Qué significa "foggy"?
-+ Con niebla
-- Soleado
-- Ventoso
-- Nevado
-> Fog = niebla.
+? Ordena las palabras para formar una pregunta.
+1. What
+2. were you
+3. doing
+4. at 9 o'clock?
+> What were you doing at 9 o'clock?
 
-? ¿Cómo se dice "arcoíris" en inglés?
-= rainbow | a rainbow
-> Rain (lluvia) + bow (arco).
+? Relaciona cada palabra del tiempo con su significado.
+* sunny → soleado
+* cloudy → nublado
+* windy → ventoso
+* foggy → con niebla
+* stormy → tormentoso
+* rainbow → arcoíris
+> Weather vocabulary.
 
-? "We was walking in the park" es correcto.
+? Clasifica cada palabra.
+@ Fenómeno de una tormenta: thunder | lightning
+@ Adjetivo del tiempo: rainy | snowy | hot
+> Thunder es trueno y lightning, relámpago.
+
+? ¿Qué significa "lightning"?
++ Relámpago
+- Trueno
+- Arcoíris
+- Niebla
+> Thunder es el trueno.
+
+?* ¿Qué frases son correctas?
++ It was raining all morning.
++ They were watching a film.
++ I was walking when I saw a dog.
+- We was playing football.
+- She were singing.
+> Was con I, he, she, it; were con you, we, they.
+
+? "It were raining" es correcto.
 = falso
-> Con we se usa were: We were walking in the park.
+> Con it se usa was: it was raining.
+
+? Escribe en inglés: "Nosotros no estábamos durmiendo". We ___ sleeping.
+= weren't | were not
+> Negativa de were.
+
+? Escribe el -ing de "write".
+= writing
+> Se quita la -e.

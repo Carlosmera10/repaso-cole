@@ -27,7 +27,7 @@ Definición clara en una o dos frases, con las **palabras clave** en negrita.
 
 # Examen
 
-preguntas: 10
+preguntas: 20
 
 ? Pregunta tipo test sobre la definición.
 + Respuesta correcta
@@ -35,6 +35,13 @@ preguntas: 10
 - Distractor creíble
 - Distractor creíble
 > Por qué la respuesta correcta es la buena.
+
+?* Pregunta de respuesta múltiple (marcar todas las correctas).
++ Correcta
++ Correcta
+- Incorrecta
+- Incorrecta
+> Explicación breve.
 
 ? Afirmación verdadera sobre el tema.
 = verdadero
@@ -44,45 +51,35 @@ preguntas: 10
 = falso
 > Cuál es la versión correcta.
 
-? Pregunta para escribir una palabra clave.
+? Pregunta para escribir una palabra clave o un número.
 = respuesta | otra forma válida
 > Explicación breve.
 
-? Pregunta tipo test con un ejemplo práctico.
-+ Respuesta correcta
-- Distractor
-- Distractor
-- Distractor
+? Completa: El [primer hueco] va aquí y el [segundo|variante] va aquí.
+> Explicación breve (sin líneas "-", los huecos se escriben).
+
+? Completa con la palabra correcta: [Tú] tienes [tu] libro.
+- Tu
+- tú
+> Con líneas "-", cada hueco es un menú y se corrige exacto.
+
+? Ordena los pasos.
+1. Primer paso
+2. Segundo paso
+3. Tercer paso
+4. Cuarto paso
 > Explicación breve.
 
-? Pregunta tipo test sobre la clasificación.
-+ Respuesta correcta
-- Distractor
-- Distractor
-- Distractor
+? Clasifica cada elemento.
+@ Categoría A: elemento | elemento | elemento
+@ Categoría B: elemento | elemento | elemento
 > Explicación breve.
 
-? Otra pregunta para escribir (un número o una palabra).
-= respuesta
+? Relaciona cada concepto con su definición.
+* Concepto 1 → Definición 1
+* Concepto 2 → Definición 2
+* Concepto 3 → Definición 3
+* Concepto 4 → Definición 4
 > Explicación breve.
 
-? Pregunta tipo test sobre las reglas o los pasos.
-+ Respuesta correcta
-- Distractor
-- Distractor
-- Distractor
-> Explicación breve.
-
-? Pregunta tipo test de aplicar lo aprendido.
-+ Respuesta correcta
-- Distractor
-- Distractor
-- Distractor
-> Explicación breve.
-
-? Pregunta tipo test sobre el error típico.
-+ Respuesta correcta
-- Distractor
-- Distractor
-- Distractor
-> Explicación breve.
+(… sigue hasta tener unas 20-22 preguntas variadas, sin pistas …)

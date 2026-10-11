@@ -73,9 +73,9 @@ preguntas: 20
 
 ? ¿En qué parte se produce el intercambio de gases?
 + En los alvéolos pulmonares
-- En la tráquea
-- En la laringe
-- En los bronquios
+- En la tráquea y la laringe
+- En los bronquios principales
+- En las fosas nasales
 > El oxígeno pasa a la sangre y el dióxido de carbono sale de ella.
 
 ? Clasifica cada elemento según sea una vía respiratoria o parte de los pulmones.

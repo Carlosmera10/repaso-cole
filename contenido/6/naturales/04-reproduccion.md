@@ -44,60 +44,132 @@ La **pubertad** es el comienzo de la adolescencia (más o menos entre los 10 y l
 
 # Examen
 
-? ¿Cómo se llama el gameto femenino?
-= óvulo | ovulo | el ovulo
-> El espermatozoide es el gameto masculino.
+preguntas: 20
 
-? ¿Qué órganos producen los espermatozoides?
-+ Los testículos
-- Los ovarios
-- El útero
-- Los riñones
-> Los ovarios producen los óvulos.
+? ¿Para qué sirve la función de reproducción?
++ Para tener descendientes parecidos a nosotros
+- Para obtener energía de los alimentos
+- Para relacionarnos con el entorno
+- Para movernos gracias a los músculos
+> Es una de las tres funciones vitales.
 
-? ¿Cómo se llama la etapa en la que el cuerpo empieza a cambiar al comienzo de la adolescencia?
-+ Pubertad
-- Infancia
-- Vejez
-- Lactancia
-> Empieza más o menos entre los 10 y los 14 años, cada persona a su ritmo.
+? ¿Cuál es el gameto femenino?
++ El óvulo
+- El espermatozoide
+- El cigoto
+- El embrión
+> El gameto masculino es el espermatozoide.
 
-? ¿Dónde se desarrolla el bebé durante el embarazo?
-+ En el útero
-- En el ovario
-- En la trompa de Falopio
-- En el estómago
-> El útero es un órgano hueco y musculoso que crece durante el embarazo.
+? Ordena las etapas de la vida.
+1. Infancia
+2. Adolescencia
+3. Edad adulta
+4. Vejez
+> La pubertad es el comienzo de la adolescencia.
 
-? ¿Qué es la fecundación?
-+ La unión de un espermatozoide y un óvulo
-- El nacimiento del bebé
-- La salida del óvulo del ovario
-- La alimentación con leche
-> Así se forma el cigoto, la primera célula del nuevo ser.
+? ¿Qué es la pubertad?
++ El comienzo de la adolescencia, cuando el cuerpo cambia
+- El final de la vejez, cuando el cuerpo se cansa
+- El momento del parto, cuando nace el bebé
+- La primera etapa de la infancia, al nacer
+> Cada persona tiene su propio ritmo.
 
-? ¿Cómo se llama la primera célula de un nuevo ser, formada en la fecundación?
-= cigoto | zigoto
-> El cigoto se divide muchas veces y forma el embrión.
+? Clasifica cada cambio de la pubertad.
+@ En las chicas: crecen los pechos | se ensanchan las caderas | aparece la menstruación
+@ En los chicos: la voz se vuelve más grave | sale barba | se ensanchan los hombros
+@ En ambos: crecimiento rápido | más sudor | vello en las axilas
+> Algunos cambios son comunes a chicos y chicas.
 
-? El embarazo dura unos nueve meses.
-= verdadero
-> Son unas 40 semanas.
-
-? ¿A través de qué recibe el bebé el oxígeno y los nutrientes de la madre?
-+ De la placenta y el cordón umbilical
-- Del estómago de la madre
-- De los pulmones del bebé
-- De las trompas de Falopio
-> El ombligo es la marca que deja el cordón umbilical.
-
-? El ciclo menstrual dura unos 7 días.
+? Todas las personas empiezan la pubertad exactamente a la misma edad.
 = falso
-> El ciclo dura unos 28 días. Lo que dura unos días es la menstruación.
+> Cada persona tiene su propio ritmo.
 
-? ¿Cuál es un cambio de la pubertad que ocurre en chicos y en chicas?
-+ Aparece vello en las axilas y crecen más deprisa
-- Solo cambia la voz
-- Desaparece el sudor
-- Se dejan de tener emociones
-> Hay cambios comunes y otros propios de cada sexo.
+? Relaciona cada órgano femenino con su función.
+* Ovarios → Producen los óvulos
+* Trompas de Falopio → Comunican los ovarios con el útero
+* Útero → Donde se desarrolla el bebé
+* Vagina → Comunica el útero con el exterior
+> La vulva son los órganos externos.
+
+? Relaciona cada órgano masculino con su función.
+* Testículos → Producen los espermatozoides
+* Escroto → Bolsa que contiene los testículos
+* Próstata → Produce parte del líquido del semen
+* Uretra → Conducto por donde salen el semen y la orina
+> El pene es el órgano externo.
+
+? ¿Dónde se producen los óvulos?
+= ovarios | en los ovarios | los ovarios
+> Son dos órganos del aparato reproductor femenino.
+
+? ¿Dónde se produce normalmente la fecundación?
++ En las trompas de Falopio
+- En el útero
+- En los ovarios
+- En la placenta
+> El espermatozoide se une con el óvulo en las trompas.
+
+? ¿Cuánto dura aproximadamente el ciclo menstrual?
++ Unos 28 días
+- Unos 7 días
+- Unos 9 meses
+- Un año
+> Cada mes un ovario libera un óvulo.
+
+? Ordena las fases del nacimiento de un nuevo ser.
+1. Fecundación
+2. Embarazo
+3. Parto
+4. Lactancia
+> Del cigoto al bebé que toma leche.
+
+? ¿Cómo se llama la primera célula del nuevo ser?
++ Cigoto
+- Embrión
+- Feto
+- Gameto
+> Se forma en la fecundación.
+
+? Completa: Durante el embarazo, primero se llama [embrión] y, a partir del tercer mes, [feto].
+- cigoto
+- gameto
+> El embarazo dura unos 9 meses.
+
+? ¿Cuánto dura el embarazo, aproximadamente?
++ 9 meses
+- 28 días
+- 3 meses
+- 12 meses
+> Unas 40 semanas.
+
+? ¿Por dónde recibe el bebé el oxígeno y los nutrientes de la madre?
++ Por la placenta y el cordón umbilical
+- Por la boca, al tragar el líquido
+- Por sus propios pulmones, al respirar
+- Por la piel, que absorbe los nutrientes
+> El ombligo es la marca que deja el cordón.
+
+? El ombligo es la marca que deja el cordón umbilical.
+= verdadero
+> Se corta después del parto.
+
+?* ¿Qué ocurre durante el parto?
++ El útero se contrae
++ El bebé sale al exterior
+- Se produce la fecundación
+- Se forma el cigoto
+- Empieza la pubertad
+> El parto es el final del embarazo.
+
+? ¿Cómo se llama el líquido formado por los espermatozoides y el líquido de las glándulas?
+= semen | el semen
+> Sale a través de la uretra.
+
+? Hay muchas formas de familia y todas merecen respeto.
+= verdadero
+> También hay que respetar los cambios y el cuerpo de cada persona.
+
+? Clasifica cada órgano según el aparato reproductor al que pertenece.
+@ Femenino: ovarios | útero | trompas de Falopio
+@ Masculino: testículos | próstata | escroto
+> Cada aparato produce un tipo de gameto.

@@ -39,63 +39,130 @@ La **Unión Europea (UE)** es una organización de **países europeos** que se h
 
 # Examen
 
-? ¿Cuántos países forman hoy la Unión Europea?
-+ 27
-- 12
-- 50
-- 6
-> El Reino Unido salió en 2020 y quedaron 27.
+preguntas: 20
 
-? ¿En qué año entró España en la Comunidad Económica Europea?
+? ¿Qué es la Unión Europea?
++ Una organización de países europeos que cooperan entre sí
+- Un país formado por todos los países de Europa
+- Un ejército europeo
+- Una empresa de comercio
+> Comercian sin barreras y viven en paz.
+
+? ¿Cuántos países forman hoy la Unión Europea?
+= 27 | veintisiete
+> El Reino Unido salió en 2020.
+
+? ¿Por qué se empezaron a unir los países europeos?
++ Para que no hubiera más guerras tras la Segunda Guerra Mundial
+- Para conquistar juntos otros continentes y colonias
+- Para que todos los países tuvieran un solo idioma
+- Para elegir un único rey para toda Europa
+> Querían vivir en paz y cooperar.
+
+? Ordena estos hechos de la historia de la UE.
+1. Tratados de Roma (1957)
+2. Entrada de España y Portugal (1986)
+3. Pasa a llamarse Unión Europea (1993)
+4. Llegan las monedas y billetes de euro (2002)
+5. Salida del Reino Unido (2020)
+> De la CEE a la UE.
+
+?* ¿Qué países fundaron la Comunidad Económica Europea en 1957?
++ Francia
++ Alemania
++ Italia
++ Bélgica
+- España
+- Reino Unido
+> También Países Bajos y Luxemburgo: seis en total.
+
+? ¿En qué año entró España en la Comunidad Europea?
 + 1986
 - 1957
-- 1978
+- 1993
 - 2002
 > Entró a la vez que Portugal.
 
-? ¿Cuántos países fundaron la Comunidad Económica Europea en 1957?
-+ Seis
-- Doce
-- Veintisiete
-- Dos
-> Francia, Alemania, Italia, Bélgica, Países Bajos y Luxemburgo.
+? ¿Cómo se llama la salida del Reino Unido de la UE?
+= brexit | el brexit
+> Ocurrió en 2020.
 
-? ¿Cómo se llama la moneda que comparten muchos países de la UE?
-= euro | el euro
-> En España circulan monedas y billetes de euro desde 2002.
+? Relaciona cada institución con lo que hace.
+* Parlamento Europeo → Aprueba las leyes y el presupuesto
+* Comisión Europea → Propone leyes y vigila que se cumplan
+* Consejo Europeo → Reúne a los jefes de Estado o de Gobierno
+* Tribunal de Justicia → Vigila que se cumplan las leyes europeas
+* Banco Central Europeo → Controla el euro
+> Cada institución tiene su función.
 
-? ¿Qué institución elige directamente la ciudadanía cada cinco años?
-+ El Parlamento Europeo
-- La Comisión Europea
-- El Banco Central Europeo
-- El Tribunal de Justicia
-> Sus miembros se llaman eurodiputados.
+? Relaciona cada institución con su sede.
+* Comisión Europea → Bruselas
+* Parlamento Europeo → Estrasburgo
+* Tribunal de Justicia → Luxemburgo
+* Banco Central Europeo → Fráncfort
+> El Parlamento también se reúne en Bruselas.
 
-? ¿Qué institución funciona como el gobierno de la UE y tiene su sede en Bruselas?
+? ¿Cada cuánto tiempo elegimos a los eurodiputados?
++ Cada 5 años
+- Cada año
+- Cada 4 años
+- Cada 10 años
+> Los eligen los ciudadanos.
+
+? ¿Qué institución es como el gobierno de la UE?
 + La Comisión Europea
 - El Parlamento Europeo
 - El Tribunal de Justicia
 - El Banco Central Europeo
 > Propone leyes y vigila que se cumplan.
 
-? Las 12 estrellas de la bandera europea representan a los 12 países que hay en la UE.
-= falso
-> Simbolizan la unión y la armonía. Siempre son 12, aunque haya más países.
+? Completa: El Consejo de la UE reúne a los [ministros] de cada país y el Consejo Europeo reúne a los [jefes de Estado o de Gobierno].
+- eurodiputados
+- jueces
+> Son dos instituciones distintas.
 
-? ¿Qué día se celebra el Día de Europa?
+? Clasifica cada afirmación.
+@ Derecho de los ciudadanos europeos: viajar y vivir en otro país de la UE | estudiar con Erasmus+ | votar al Parlamento Europeo
+@ No es un derecho europeo: no pagar nunca impuestos | elegir al rey de otro país | entrar en cualquier país del mundo sin pasaporte
+> La libre circulación es dentro de la UE.
+
+? Todos los países de la UE usan el euro.
+= falso
+> Solo los de la llamada zona euro.
+
+? ¿Cómo se llama el programa para estudiar en otro país de la UE?
+= erasmus | erasmus+ | el erasmus | programa erasmus
+> Erasmus+ ayuda a los estudiantes.
+
+? Relaciona cada símbolo con su descripción.
+* Bandera → Azul con 12 estrellas doradas en círculo
+* Himno → Oda a la Alegría, de Beethoven
+* Día de Europa → 9 de mayo
+* Lema → Unida en la diversidad
+> Son los símbolos de la UE.
+
+? Las 12 estrellas de la bandera representan los 12 primeros países.
+= falso
+> Simbolizan la unión y la armonía, no el número de países.
+
+? ¿De quién es la música del himno europeo?
++ Beethoven
+- Mozart
+- Bach
+- Vivaldi
+> Es la Oda a la Alegría de su Novena Sinfonía.
+
+? ¿Qué fecha se celebra el Día de Europa?
 + El 9 de mayo
 - El 12 de octubre
 - El 6 de diciembre
 - El 1 de enero
-> Recuerda una declaración de 1950 que inició la unión europea.
+> Se celebra en todos los países de la UE.
 
-? ¿Cuál es el himno de la Unión Europea?
-+ La Oda a la Alegría de Beethoven
-- La Marsellesa
-- El himno de España
-- Una canción de Mozart
-> Es parte de la Novena Sinfonía de Beethoven.
-
-? Los ciudadanos de la UE pueden vivir y trabajar en cualquier país de la Unión.
+? La UE da fondos para construir carreteras y ayudar a las zonas menos desarrolladas.
 = verdadero
-> Es la libre circulación de personas.
+> También para investigar.
+
+? ¿En qué año empezaron a circular los billetes y monedas de euro en España?
+= 2002
+> Sustituyeron a la peseta.

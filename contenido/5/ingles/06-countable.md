@@ -38,57 +38,130 @@
 
 # Examen
 
-? ¿Cuál de estas palabras es incontable?
-+ water
-- apple
-- egg
+preguntas: 20
+
+? ¿Qué es un sustantivo contable?
++ Uno que se puede contar y tiene plural
+- Uno que no tiene plural ni lleva a/an
+- Uno que siempre va acompañado de much
+- Uno que nunca puede ir con some ni any
+> an apple → two apples.
+
+? Clasifica cada alimento según sea contable o incontable.
+@ Contable: apple | egg | carrot | biscuit
+@ Incontable: water | rice | milk | bread
+> Los incontables no tienen plural ni llevan a/an.
+
+? ¿Qué palabra es incontable?
++ cheese
 - banana
-> No se puede contar por unidades: decimos "a glass of water".
+- potato
+- strawberry
+> No decimos "two cheeses" para contar trozos: a piece of cheese.
 
-? Completa: There are ___ eggs in the fridge.
-+ some
-- any
-- a
-- much
-> Afirmativa con contables en plural: some.
-
-? Completa: There isn't ___ milk.
-= any
-> Negativa con incontables: any.
-
-? Completa: I've got ___ apple.
-+ an
-- a
+? Completa: There's [an] orange and there's [a] banana.
 - some
-- many
-> Apple empieza por sonido vocal: an.
+- any
+> An delante de sonido vocal.
 
-? Completa: How ___ apples are there?
+? Relaciona cada envase o medida con lo que suele llevar.
+* a bottle of → water
+* a glass of → milk
+* a slice of → bread
+* a piece of → cake
+* a kilo of → rice
+> Así contamos los incontables.
+
+? Completa: There are [some] eggs, but there isn't [any] milk.
+- a
+- an
+> Some en afirmativas; any en negativas.
+
+? ¿Qué pregunta es correcta?
++ Is there any juice?
+- Is there some juice?
+- Are there any juice?
+- Is there a juice?
+> Juice es incontable: Is there any…?
+
+? Para ofrecer algo se usa "some" en la pregunta: Would you like some juice?
+= verdadero
+> Es la excepción a la regla.
+
+? ¿Qué palabra falta? How ___ apples are there?
 + many
 - much
 - any
 - some
-> Apples es contable en plural: how many.
+> How many con contables en plural.
 
-? Completa: How ___ water do you drink?
+? Escribe much o many: How ___ water is there?
 = much
-> Water es incontable: how much.
+> Water es incontable.
 
-? "Would you like some juice?" es correcto, aunque sea una pregunta.
+? Clasifica cada pregunta según lleve How much o How many.
+@ How much: water | sugar | money
+@ How many: apples | eggs | biscuits
+> Much con incontables; many con contables en plural.
+
+? ¿Qué significa "How much is it?"?
++ ¿Cuánto cuesta?
+- ¿Cuántos hay?
+- ¿Cuánto pesa?
+- ¿Qué es?
+> Se usa al comprar.
+
+? ¿Qué frase es correcta?
++ I don't have much time.
+- I don't have many time.
+- I don't have a time.
+- I don't have much times.
+> Time (tiempo) es incontable.
+
+? "A lot of" se puede usar con contables y con incontables.
 = verdadero
-> Para ofrecer algo usamos some en preguntas.
+> A lot of people; a lot of noise.
 
-? ¿Cómo se dice "una rebanada de pan"?
-+ a slice of bread
-- a bread
-- a bottle of bread
-- some breads
-> Bread es incontable; se cuenta por rebanadas (slices).
+?* ¿Qué frases son correctas?
++ There aren't many cars.
++ There's a lot of noise.
++ Are there any eggs?
+- There aren't much cars.
+- There is a water.
+> Many con contables; water no lleva a.
 
-? ¿Cómo se dice "zanahoria" en inglés?
-= carrot | a carrot
-> Potato es patata y onion, cebolla.
+? Relaciona cada palabra con su significado.
+* bread → pan
+* cheese → queso
+* butter → mantequilla
+* chicken → pollo
+* onion → cebolla
+* biscuit → galleta
+> Food vocabulary.
 
-? "There are a lot of people" está mal porque "a lot of" solo va con incontables.
+? Escribe a o an: ___ egg.
+= an
+> Egg empieza por sonido vocal.
+
+? "Rices" es el plural de "rice".
 = falso
-> A lot of va con contables e incontables.
+> Rice es incontable: no tiene plural.
+
+? Ordena las palabras para formar una pregunta.
+1. How many
+2. oranges
+3. are there
+4. in the fridge?
+> How many oranges are there in the fridge?
+
+? ¿Cómo se dice "una botella de agua"?
++ a bottle of water
+- a water bottle of
+- a bottle water
+- an bottle of water
+> a bottle of + incontable.
+
+? Completa: There isn't [much] sugar and there aren't [many] biscuits.
+- a lot
+- any of
+> Much con incontables; many con contables.

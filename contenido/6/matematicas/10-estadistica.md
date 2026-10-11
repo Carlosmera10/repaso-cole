@@ -59,57 +59,127 @@ La probabilidad es siempre un número **entre 0 y 1**:
 
 # Examen
 
-? ¿Qué tipo de variable es "el color favorito"?
-+ Cualitativa
-- Cuantitativa
-- Numérica
-- Una frecuencia
-> Se expresa con palabras, no con números.
+preguntas: 20
 
-? ¿Cuál es la media de 3, 5, 5, 6, 8, 9 y 13?
+? Se estudia el deporte favorito de todos los alumnos de un colegio, pero solo se pregunta a los de 6º. ¿Qué son los alumnos de 6º?
++ La muestra
+- La población
+- La variable
+- La frecuencia
+> La población son todos los alumnos del colegio.
+
+? Clasifica cada variable.
+@ Cualitativa: color favorito | deporte preferido | país de nacimiento
+@ Cuantitativa: edad | altura | número de hermanos
+> Las cualitativas se expresan con palabras; las cuantitativas, con números.
+
+? Relaciona cada concepto con su definición.
+* Frecuencia absoluta → Número de veces que aparece un dato
+* Frecuencia relativa → Frecuencia absoluta dividida entre el total de datos
+* Población → Todos los elementos que se estudian
+* Muestra → Una parte de la población
+> La frecuencia relativa se puede dar en porcentaje.
+
+? De 20 alumnos, 10 tienen un hermano. ¿Cuál es la frecuencia relativa?
++ 0,5
+- 10
+- 0,1
+- 2
+> 10 ÷ 20 = 0,5.
+
+? De 20 alumnos, 5 tienen dos hermanos. ¿Qué porcentaje es?
+= 25 | 25 %
+> 5 ÷ 20 = 0,25 → 25 %.
+
+? La suma de todas las frecuencias relativas es siempre 1.
+= verdadero
+> En porcentaje, el 100 %.
+
+? Con los datos 3, 5, 5, 6, 8, 9, 13, ¿cuál es la media?
 = 7
-> La suma es 49, y 49 ÷ 7 = 7.
+> 49 ÷ 7 = 7.
 
-? ¿Cuál es la mediana de 3, 5, 5, 6, 8, 9 y 13?
-+ 6
-- 5
-- 7
-- 8
-> Es el dato central de los datos ordenados.
+? Relaciona cada medida con su valor para los datos 3, 5, 5, 6, 8, 9, 13.
+* Media → 7
+* Moda → 5
+* Mediana → 6
+* Rango → 10
+> Rango: 13 − 3.
 
-? ¿Cuál es la mediana de 2, 4, 6 y 10?
+? ¿Cuál es la mediana de 2, 4, 6, 10?
 + 5
 - 4
 - 6
 - 5,5
-> Hay dos datos centrales (4 y 6): (4 + 6) ÷ 2 = 5.
+> Hay un número par de datos: (4 + 6) ÷ 2 = 5.
 
-? ¿Cuál es el rango de 3, 5, 5, 6, 8, 9 y 13?
-= 10
-> 13 − 3 = 10.
+? Ordena los pasos para calcular la mediana de 9, 2, 7, 4, 5.
+1. Ordenar los datos: 2, 4, 5, 7, 9
+2. Buscar el dato del centro
+3. La mediana es 5
+> ¡Primero hay que ordenar!
 
-? En una encuesta a 20 alumnos, 10 tienen un hermano. ¿Cuál es la frecuencia relativa en porcentaje?
-+ 50 %
-- 10 %
-- 20 %
-- 5 %
-> 10 ÷ 20 = 0,5 = 50 %.
+? ¿Cuál es la moda de 4, 7, 7, 2, 7, 4, 1?
+= 7
+> El 7 aparece tres veces.
 
-? Una probabilidad igual a 1 indica un suceso seguro.
-= verdadero
-> Una probabilidad de 0 indica un suceso imposible.
+? Completa: El [rango] es la diferencia entre el dato mayor y el menor, y la [moda] es el dato que más se repite.
+- media
+- mediana
+> La media es la suma entre el número de datos.
+
+? Clasifica cada situación según el gráfico más adecuado.
+@ Diagrama de barras: comparar los votos de cada deporte | comparar los alumnos de cada clase
+@ Gráfico lineal: ver la evolución de la temperatura durante una semana | ver cómo crece una planta cada mes
+@ Diagrama de sectores: ver qué parte del total gasta una familia en cada cosa | ver el porcentaje de cada respuesta en una encuesta
+> Barras: comparar. Líneas: evolución. Sectores: partes de un total.
+
+? En un diagrama de sectores, ¿cuántos grados ocupa un 25 %?
++ 90°
+- 25°
+- 45°
+- 180°
+> 25 × 360 ÷ 100 = 90.
+
+? ¿Qué dice la regla de Laplace?
++ Probabilidad = casos favorables ÷ casos posibles
+- Probabilidad = casos posibles ÷ casos favorables
+- Probabilidad = casos favorables × casos posibles
+- Probabilidad = casos posibles − casos favorables
+> Si todos los resultados son igual de probables.
 
 ? ¿Cuál es la probabilidad de sacar un número mayor que 4 al lanzar un dado?
 + 1/3
 - 1/6
-- 4/6
 - 1/2
-> Los casos favorables son 5 y 6: 2/6 = 1/3.
+- 2/3
+> Casos favorables: 5 y 6 → 2/6 = 1/3.
 
 ? En una bolsa hay 4 bolas rojas, 3 verdes y 1 amarilla. ¿Cuál es la probabilidad de sacar una verde?
 = 3/8
-> 3 casos favorables de 8 posibles.
+> 3 verdes de 8 bolas.
 
-? En un diagrama de sectores, un 25 % ocupa un ángulo de 180°.
+? Relaciona cada probabilidad con su significado.
+* 0 → Suceso imposible
+* 1 → Suceso seguro
+* 1/2 → Igual de probable que no ocurra
+> La probabilidad está siempre entre 0 y 1.
+
+? Una probabilidad puede valer 1,5.
 = falso
-> El 25 % ocupa 90° (la cuarta parte de 360°). El 50 % ocuparía 180°.
+> Siempre está entre 0 y 1.
+
+?* Al lanzar un dado, ¿qué sucesos tienen probabilidad 1/2?
++ Sacar un número par
++ Sacar un número impar
++ Sacar un número menor que 4
+- Sacar un 6
+- Sacar un número mayor que 6
+> Pares: 2, 4, 6. Impares: 1, 3, 5. Menores que 4: 1, 2, 3.
+
+? Ordena los sucesos de menos a más probable al lanzar un dado.
+1. Sacar un 7
+2. Sacar un 3
+3. Sacar un número par
+4. Sacar un número menor que 7
+> 0, 1/6, 1/2 y 1.

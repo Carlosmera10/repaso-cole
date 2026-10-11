@@ -89,11 +89,13 @@ preguntas: 10
 
 **No uses:** HTML, enlaces, tachado (`~~`), bloques de código ni `#` de nivel 1 en los apuntes.
 
-### 3.2 Examen: los tres tipos de pregunta
+### 3.2 Examen: los ocho tipos de pregunta
 
-Cada pregunta empieza con `? ` (interrogación + espacio). Debajo van sus líneas:
+Cada pregunta empieza con `? ` (interrogación + espacio). Debajo van sus líneas. **Siempre** termina con `> explicación` (una o dos frases que enseñen por qué). La web baraja el orden de las opciones, las piezas y los elementos.
 
-**Test (elegir una opción)** — una línea `+` (la correcta) y entre 2 y 3 líneas `-` (incorrectas). La web baraja el orden.
+En el móvil **no se arrastra nada**: en ordenar se tocan las piezas en orden, en clasificar se toca la categoría de cada elemento y en relacionar se elige en un desplegable.
+
+**1. Test (una respuesta)** — una línea `+` (la correcta) y entre 2 y 4 líneas `-`.
 
 ```
 ? ¿Cuál es el planeta más grande?
@@ -104,7 +106,18 @@ Cada pregunta empieza con `? ` (interrogación + espacio). Debajo van sus línea
 > Júpiter es un gigante gaseoso.
 ```
 
-**Verdadero o falso** — una línea `= verdadero` o `= falso`.
+**2. Respuesta múltiple** — empieza con `?*` (o pon dos o más `+`). Hay que marcar **todas** las correctas y ninguna incorrecta.
+
+```
+?* ¿Qué planetas son gaseosos?
++ Júpiter
++ Saturno
+- Marte
+- Venus
+> Marte y Venus son rocosos.
+```
+
+**3. Verdadero o falso** — una línea `= verdadero` o `= falso`.
 
 ```
 ? Los planetas tienen luz propia.
@@ -112,7 +125,7 @@ Cada pregunta empieza con `? ` (interrogación + espacio). Debajo van sus línea
 > Solo reflejan la luz del Sol.
 ```
 
-**Escribir la respuesta** — una línea `=` con todas las formas válidas separadas por `|`.
+**4. Escribir la respuesta** — una línea `=` con todas las formas válidas separadas por `|`.
 
 ```
 ? ¿Cómo se llama nuestra galaxia?
@@ -120,11 +133,54 @@ Cada pregunta empieza con `? ` (interrogación + espacio). Debajo van sus línea
 > Tiene forma de espiral.
 ```
 
-Al corregir las respuestas escritas, la web **no tiene en cuenta**: mayúsculas, tildes, signos de puntuación, apóstrofos, espacios de más, ni artículos al principio (*el, la, los, las, un, una, the, an*). También entiende `3,5` = `3.5` y `3.500` = `3500`. Aun así, **añade las variantes razonables** (por ejemplo `180 | 180° | 180 grados`, `didn't | did not`).
+**5. Rellenar huecos** — los huecos van entre corchetes dentro del texto: `[respuesta]` o `[respuesta|variante]`.
 
-**Siempre** termina cada pregunta con `> explicación` (una o dos frases que enseñen por qué).
+- **Sin líneas `-`**: el alumno **escribe** cada hueco (se corrige igual que "escribir").
+- **Con líneas `-`**: cada hueco es un **menú** con las respuestas de todos los huecos más esas palabras de relleno, y se corrige **exactamente** (tildes y mayúsculas incluidas). Úsalo en ortografía y tildes. Las palabras de relleno no pueden coincidir con ninguna respuesta.
 
-`preguntas: 10` (opcional, justo debajo de `# Examen`) indica cuántas preguntas salen en cada examen. Si hay más en el banco, se eligen al azar cada vez. Por defecto son 10.
+```
+? Completa: El corazón tiene [cuatro|4] cavidades: dos [aurículas] y dos [ventrículos].
+> Las aurículas están arriba.
+
+? Completa: [Tú] sabes que [tu] hermano viene hoy.
+- Tu
+- tú
+> Pronombre con tilde; posesivo sin tilde.
+```
+
+**6. Ordenar** — líneas numeradas `1.`, `2.`, `3.`… **en el orden correcto** (mínimo 3). La web las desordena.
+
+```
+? Ordena el recorrido de la sangre desde el corazón.
+1. Ventrículo izquierdo
+2. Arteria aorta
+3. Capilares del cuerpo
+4. Venas cavas
+> Es la circulación mayor.
+```
+
+**7. Clasificar** — una línea `@ Categoría: elemento | elemento | …` por categoría (mínimo 2 categorías y 3 elementos en total, sin repetir elementos).
+
+```
+? Clasifica cada animal.
+@ Vertebrado: perro | águila | sardina
+@ Invertebrado: pulpo | mosca | caracol
+> Los vertebrados tienen columna vertebral.
+```
+
+**8. Relacionar** — líneas `* izquierda → derecha` (mínimo 3 parejas; las de la derecha deben ser **todas distintas**). También vale `->`.
+
+```
+? Relaciona cada órgano con su función.
+* Corazón → Bombea la sangre
+* Pulmones → Intercambian gases
+* Riñones → Filtran la sangre
+> Cada órgano tiene su trabajo.
+```
+
+Al corregir las respuestas escritas, la web **no tiene en cuenta**: mayúsculas, tildes, signos de puntuación, apóstrofos, espacios de más, ni artículos al principio (*el, la, los, las, un, una, the, an*). También entiende `3,5` = `3.5` y `3.500` = `3500`. Aun así, **añade las variantes razonables** (por ejemplo `180 | 180° | 180 grados`, `didn't | did not`, `−2 | -2`). Por eso, **si la tilde es lo que se evalúa, no uses "escribir"**: usa test o huecos con menú.
+
+`preguntas: 20` (justo debajo de `# Examen`) indica cuántas preguntas salen en cada examen; si hay más en el banco, se eligen al azar cada vez. Por defecto son **20**.
 
 ---
 
@@ -137,9 +193,9 @@ Al corregir las respuestas escritas, la web **no tiene en cuenta**: mayúsculas,
 5. **Tablas** para comparar y clasificar; **listas** para pasos y enumeraciones.
 6. Recuadros con emoji al principio: `💡` truco o idea clave, `⚠️` error típico o pregunta trampa, `🧠` regla mnemotécnica, `🔬`/`🌍`/`🎨` dato curioso.
 7. Apuntes de **400 a 900 palabras**. Temas grandes o "ahora en clase": se pueden ampliar y añadir esquemas.
-8. **Examen: mínimo 10 preguntas** mezclando los tres tipos (más o menos 6 test, 2 verdadero/falso y 2 de escribir). Si el tema es el que se está dando en clase, mejor 20 o más con `preguntas: 12`.
-9. Las opciones incorrectas deben ser **creíbles** (errores típicos), nunca absurdas, y **solo una** opción puede ser correcta.
-10. En las respuestas escritas, pide **una palabra o un número**, no frases largas.
+8. **Examen de unas 20 preguntas** (banco de 20-22 y `preguntas: 20`), **variado**: usa al menos 5 tipos distintos y mezcla test, respuesta múltiple, verdadero/falso, escribir, huecos, ordenar, clasificar y relacionar según lo que mejor encaje con cada contenido.
+9. **Sin pistas.** El enunciado no puede dar la respuesta (nada de "(empieza por…)", "(es de tres sílabas)", cifras entre paréntesis en un ordenar, etc.), la opción correcta no debe ser la más larga ni la única bien escrita, y las incorrectas deben ser **creíbles** (errores típicos), nunca absurdas. En test, **solo una** opción correcta.
+10. En las respuestas escritas, pide **una palabra o un número**, no frases largas. En relacionar, que cada elemento de la derecha solo encaje con uno de la izquierda.
 11. **Comprueba todos los cálculos** de Matemáticas antes de guardar.
 12. **Nada de datos personales**: el repositorio es público. Ni nombres de los niños, ni del colegio, ni fotos de personas.
 13. Los datos que cambian con el tiempo (población, cargos, número de países…) se escriben de forma prudente (*"más de 48 millones"*) o con el año.

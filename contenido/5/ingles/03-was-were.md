@@ -39,57 +39,123 @@ Sirve para decir **qué había** en un lugar en el pasado.
 
 # Examen
 
-? Completa: I ___ at home yesterday.
-+ was
-- were
-- am
-- is
-> Con I se usa was.
+preguntas: 20
 
-? Completa: They ___ very happy at the party.
+? ¿Para qué sirven was y were?
++ Son el pasado del verbo to be
+- Son el presente del verbo to be
+- Son el pasado del verbo have
+- Indican futuro
+> I was at home yesterday.
+
+? Clasifica cada sujeto según vaya con was o were.
+@ was: I | he | she | it
+@ were: you | we | they
+> Was en singular (salvo you) y were en plural y con you.
+
+? Completa: I [was] at the park and my friends [were] at the cinema.
+- is
+- are
+> I was, they were.
+
+? Escribe was o were: You ___ very happy yesterday.
 = were
-> Con they se usa were.
+> Con you siempre were.
 
-? Elige la negativa correcta: She ___ tired.
-+ wasn't
-- weren't
-- didn't
-- aren't
-> Con she se usa wasn't (was not).
+? ¿Qué frase negativa es correcta?
++ She wasn't tired.
+- She weren't tired.
+- She didn't was tired.
+- She not was tired.
+> was not = wasn't.
 
-? Completa: There ___ two cats in the garden.
-+ were
+? Relaciona cada pregunta con su respuesta corta.
+* Were you at school? → Yes, I was.
+* Was he ill? → No, he wasn't.
+* Were they at home? → Yes, they were.
+* Was it cold? → No, it wasn't.
+> La respuesta corta repite was o were.
+
+? ¿Qué palabra indica pasado?
++ yesterday
+- tomorrow
+- now
+- every day
+> Yesterday es ayer.
+
+?* ¿Qué expresiones son de tiempo pasado?
++ last night
++ two days ago
++ last week
+- next week
+- at the moment
+> Next week es la semana que viene.
+
+? Relaciona cada expresión con su significado.
+* yesterday → ayer
+* last night → anoche
+* last year → el año pasado
+* two days ago → hace dos días
+> Ago significa hace.
+
+? ¿Cómo se dice "había un gato"?
++ There was a cat.
+- There were a cat.
+- There is a cat.
+- It was a cat.
+> Singular: there was.
+
+? Completa: There [were] two books on the table, but there [wasn't] a pen.
 - was
-- is
-- be
-> "Two cats" es plural: there were.
+- weren't
+> Plural: were; singular negativo: wasn't.
 
-? Completa: There ___ a big tree in the park.
-= was
-> "A big tree" es singular: there was.
+? Escribe was o were: There ___ many people at the party.
+= were
+> People es plural.
 
-? Respuesta corta: "Were you at school yesterday?" — "Yes, I ___."
-= was
-> Yes, I was. / No, I wasn't.
+? ¿Qué pregunta es correcta?
++ Were there any cats?
+- Was there any cats?
+- Were there some cats?
+- There were any cats?
+> Pregunta en plural: Were there any…?
 
-? "There weren't any books" significa "No había libros".
+? En las negativas en plural con there weren't se usa "any".
 = verdadero
-> En negativa y plural se usa any.
+> There weren't any books.
 
-? ¿Qué significa "last week"?
-+ La semana pasada
-- La semana que viene
-- Esta semana
-- Hace dos semanas
-> Last = pasado/a.
+? Ordena las palabras para formar una pregunta.
+1. Were
+2. you
+3. at the library
+4. yesterday?
+> Were you at the library yesterday?
 
-? ¿Cómo se dice "biblioteca" en inglés?
-+ Library
-- Bookshop
-- Librery
-- Museum
-> Bookshop es librería (donde se compran libros).
+? Relaciona cada lugar con su significado.
+* library → biblioteca
+* bakery → panadería
+* post office → correos
+* police station → comisaría
+* swimming pool → piscina
+> Places in town.
 
-? "We was at the cinema" es correcto.
+? ¿Qué significa "museum"?
++ Museo
+- Mercado
+- Colegio
+- Iglesia
+> Museum es museo.
+
+? Clasifica cada frase según el tiempo.
+@ Presente: There is a bank. | There are two parks. | She is happy.
+@ Pasado: There was a bank. | There were two parks. | She was happy.
+> Is/are → was/were.
+
+? "We was at the beach" es correcto.
 = falso
-> Con we se usa were: We were at the cinema.
+> Con we se usa were.
+
+? Escribe en inglés: "Ellos no estaban en casa". They ___ at home.
+= weren't | were not
+> Negativa de were.

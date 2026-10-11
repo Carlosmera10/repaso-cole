@@ -38,57 +38,120 @@ Palabras que lo acompañan: **now**, **right now**, **at the moment**, **Look!**
 
 # Examen
 
-? Completa: Look! The baby ___ (sleep).
-+ is sleeping
-- sleeps
-- are sleeping
-- sleeping
-> Look! indica que ocurre ahora. Con the baby (it) se usa is.
+preguntas: 20
 
-? ¿Cómo se escribe "swim" + -ing?
-= swimming
-> Se dobla la m: vocal + consonante al final.
+? ¿Cuándo se usa el present continuous?
++ Para lo que está pasando ahora mismo
+- Para rutinas y hábitos
+- Para acciones terminadas
+- Para cosas que siempre son verdad
+> I am reading a book now.
 
-? ¿Cómo se escribe "dance" + -ing?
-+ dancing
-- danceing
-- dancking
-- dancting
-> Se quita la e final.
+? ¿Cómo se forma el present continuous?
++ am / is / are + verbo con -ing
+- do / does + verbo en forma básica
+- verbo + -ed (igual en todas las personas)
+- have / has + verbo con -ing
+> She is dancing.
 
-? Elige la forma correcta: We ___ watching a film right now.
-+ are
-- is
-- am
+? Completa: I [am] eating, my brother [is] sleeping and my parents [are] working.
 - be
-> Con we se usa are.
+- was
+> I am, he is, they are.
 
-? Elige la pregunta correcta.
-+ Is she reading a book?
-- Does she reading a book?
-- She is reading a book?
-- Is she read a book?
-> Se pone is/are/am delante del sujeto.
+? Clasifica cada verbo según cómo forma el -ing.
+@ Solo añade -ing: read → reading | play → playing | eat → eating
+@ Quita la -e: dance → dancing | write → writing | make → making
+@ Dobla la consonante: swim → swimming | run → running | sit → sitting
+> Los verbos cortos acabados en vocal + consonante doblan la consonante.
 
-? Respuesta corta: "Are you listening?" — "Yes, I ___."
-= am
-> Yes, I am. / No, I'm not.
+? Escribe el -ing de "write".
+= writing
+> Se quita la -e: writing.
 
-? Elige la oración correcta.
+? Escribe el -ing de "swim".
+= swimming
+> Se dobla la m.
+
+? ¿Cuál es el -ing de "lie" (tumbarse)?
++ lying
+- lieing
+- liing
+- lyeing
+> Los verbos acabados en -ie cambian a -ying.
+
+? ¿Qué frase negativa es correcta?
++ They aren't watching TV.
+- They don't watching TV.
+- They aren't watch TV.
+- They not are watching TV.
+> are not + -ing.
+
+? Relaciona cada pregunta con su respuesta corta.
+* Are you eating? → Yes, I am.
+* Is she sleeping? → No, she isn't.
+* Are they playing? → Yes, they are.
+* Is it raining? → No, it isn't.
+> En la respuesta corta se repite am, is o are.
+
+? Ordena las palabras para formar una pregunta.
+1. Is
+2. your dad
+3. cooking
+4. now?
+> Is your dad cooking now?
+
+? Clasifica cada expresión según el tiempo verbal que suele acompañar.
+@ Present simple: every day | always | on Mondays
+@ Present continuous: now | at the moment | Look!
+> Rutinas frente a lo que pasa ahora.
+
+? ¿Qué frase es correcta?
 + I play football every Monday.
 - I am playing football every Monday.
 - I playing football every Monday.
 - I plays football every Monday.
-> "Every Monday" indica una rutina: present simple.
+> Every Monday es una rutina: present simple.
 
-? "They aren't running" está en negativa.
-= verdadero
-> Aren't = are not.
+? Look! It ___.
++ is raining
+- rains
+- raining
+- are raining
+> Look! indica algo que pasa ahora.
 
-? ¿Cómo se escribe "run" + -ing?
-= running
-> Se dobla la n.
-
-? "I am liking chocolate" es una oración correcta.
+? "I am liking pizza" es correcto.
 = falso
-> El verbo like casi nunca va en continuous. Se dice: I like chocolate.
+> Like casi nunca va en continuous: I like pizza.
+
+?* ¿Qué verbos casi nunca se usan en present continuous?
++ like
++ know
++ want
+- run
+- eat
+> Like, love, hate, want, know y understand.
+
+? Escribe en inglés: "Ella está bailando". She ___ dancing.
+= is | 's
+> She is dancing.
+
+? Completa: Listen! The baby [is crying]. She [cries] every night.
+- cry
+- crying
+> Listen! → ahora; every night → rutina.
+
+? ¿Qué significa "at the moment"?
++ En este momento
+- A veces
+- Todos los días
+- Ayer
+> Acompaña al present continuous.
+
+? En el present continuous, con "we" se usa "are".
+= verdadero
+> We are playing.
+
+? Escribe el -ing de "run".
+= running
+> Vocal + consonante: se dobla la n.

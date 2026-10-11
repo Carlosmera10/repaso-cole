@@ -50,9 +50,9 @@ preguntas: 20
 
 ? En la fracción 5/8, ¿qué indica el 8?
 + Las partes iguales en que se divide la unidad
-- Las partes que tomamos
-- El resultado de la fracción
-- Las unidades enteras
+- Las partes que tomamos de la unidad
+- El número de unidades enteras que hay
+- El resultado de dividir la fracción
 > El 8 es el denominador.
 
 ? Completa: En la fracción 3/7, el [numerador] es 3 y el [denominador] es 7.

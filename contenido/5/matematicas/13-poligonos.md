@@ -109,9 +109,9 @@ preguntas: 20
 
 ? ¿Qué es un polígono regular?
 + El que tiene todos sus lados y ángulos iguales
-- El que tiene cuatro lados
-- Cualquier triángulo
-- El que tiene algún lado curvo
+- El que tiene exactamente cuatro lados
+- El que tiene todos sus lados paralelos
+- El que tiene al menos un ángulo recto
 > Como el cuadrado o el triángulo equilátero.
 
 ? El diámetro de una circunferencia mide el doble que el radio.
