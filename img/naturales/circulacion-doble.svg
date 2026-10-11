@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 580" role="img" aria-labelledby="t d">
+  <title id="t">La doble circulación de la sangre</title>
+  <desc id="d">Esquema con los pulmones arriba, el corazón en el centro y el resto del cuerpo abajo. La circulación pulmonar va del corazón a los pulmones y vuelve; la circulación general va del corazón a todo el cuerpo y vuelve.</desc>
+  <defs>
+    <marker id="fa" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#2F5FD0"/>
+    </marker>
+    <marker id="fr" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#C93030"/>
+    </marker>
+  </defs>
+  <rect width="520" height="580" rx="16" fill="#FFFFFF"/>
+  <g font-family="Nunito, Arial, sans-serif">
+    <!-- Pulmones -->
+    <ellipse cx="226" cy="96" rx="54" ry="42" fill="#FBD3DA" stroke="#E79AA8" stroke-width="2"/>
+    <ellipse cx="294" cy="96" rx="54" ry="42" fill="#FBD3DA" stroke="#E79AA8" stroke-width="2"/>
+    <text x="260" y="92" text-anchor="middle" font-size="17" font-weight="800" fill="#8A2D3D">Pulmones</text>
+    <text x="260" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#8A2D3D">recogen O₂ · sueltan CO₂</text>
+
+    <!-- Resto del cuerpo -->
+    <rect x="140" y="440" width="240" height="70" rx="20" fill="#FFF1D6" stroke="#E7BE80" stroke-width="2"/>
+    <text x="260" y="470" text-anchor="middle" font-size="17" font-weight="800" fill="#7A5014">Resto del cuerpo</text>
+    <text x="260" y="490" text-anchor="middle" font-size="13" font-weight="700" fill="#7A5014">las células usan el O₂ y sueltan CO₂</text>
+
+    <!-- Circulación pulmonar (menor) -->
+    <path d="M215 255 H110 V100 H164" fill="none" stroke="#2F5FD0" stroke-width="7" stroke-linejoin="round" marker-end="url(#fa)"/>
+    <path d="M356 100 H410 V255 H314" fill="none" stroke="#C93030" stroke-width="7" stroke-linejoin="round" marker-end="url(#fr)"/>
+
+    <!-- Circulación general (mayor) -->
+    <path d="M305 305 H450 V475 H388" fill="none" stroke="#C93030" stroke-width="7" stroke-linejoin="round" marker-end="url(#fr)"/>
+    <path d="M140 475 H70 V305 H206" fill="none" stroke="#2F5FD0" stroke-width="7" stroke-linejoin="round" marker-end="url(#fa)"/>
+
+    <!-- Corazón -->
+    <rect x="215" y="228" width="90" height="104" rx="18" fill="#E85D5D"/>
+    <path d="M233 228 H260 V332 H233 A18 18 0 0 1 215 314 V246 A18 18 0 0 1 233 228 Z" fill="#5B8DEF"/>
+    <line x1="260" y1="232" x2="260" y2="328" stroke="#FFFFFF" stroke-width="3"/>
+    <text x="260" y="222" text-anchor="middle" font-size="16" font-weight="800" fill="#333">Corazón</text>
+    <g font-size="13" font-weight="800" fill="#FFFFFF" text-anchor="middle">
+      <text x="238" y="276">lado</text>
+      <text x="238" y="290">dcho.</text>
+      <text x="282" y="276">lado</text>
+      <text x="282" y="290">izdo.</text>
+    </g>
+
+    <!-- Nombres de los vasos -->
+    <g font-size="16" font-weight="800">
+      <text x="118" y="150" fill="#2F5FD0">Arteria</text>
+      <text x="118" y="168" fill="#2F5FD0">pulmonar</text>
+      <text x="402" y="150" text-anchor="end" fill="#C93030">Venas</text>
+      <text x="402" y="168" text-anchor="end" fill="#C93030">pulmonares</text>
+      <text x="442" y="372" text-anchor="end" fill="#C93030">Arteria</text>
+      <text x="442" y="388" text-anchor="end" fill="#C93030">aorta</text>
+      <text x="78" y="372" fill="#2F5FD0">Venas</text>
+      <text x="78" y="388" fill="#2F5FD0">cavas</text>
+    </g>
+    <g font-size="16" font-weight="800" fill="#333" text-anchor="middle">
+      <text x="260" y="182">Circulación</text>
+      <text x="260" y="200">pulmonar (menor)</text>
+      <text x="260" y="372">Circulación</text>
+      <text x="260" y="390">general (mayor)</text>
+    </g>
+
+    <!-- Leyenda -->
+    <g font-size="15" font-weight="700" fill="#333">
+      <rect x="40" y="534" width="18" height="18" rx="4" fill="#2F5FD0"/>
+      <text x="64" y="548">Poco oxígeno (mucho CO₂)</text>
+      <rect x="290" y="534" width="18" height="18" rx="4" fill="#C93030"/>
+      <text x="314" y="548">Mucho oxígeno</text>
+    </g>
+  </g>
+</svg>

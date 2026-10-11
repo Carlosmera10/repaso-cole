@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 560" role="img" aria-labelledby="t d">
+  <title id="t">Dónde está el sistema circulatorio</title>
+  <desc id="d">Silueta de una persona vista de frente con el corazón entre los pulmones, las arterias en rojo y las venas en azul.</desc>
+  <rect width="360" height="560" rx="16" fill="#FFFFFF"/>
+  <g font-family="Nunito, Arial, sans-serif">
+    <!-- Cuerpo -->
+    <g fill="#FFE6CF" stroke="#E7BE98" stroke-width="2">
+      <rect x="78" y="128" width="34" height="176" rx="17"/>
+      <rect x="248" y="128" width="34" height="176" rx="17"/>
+      <rect x="126" y="296" width="48" height="214" rx="22"/>
+      <rect x="186" y="296" width="48" height="214" rx="22"/>
+      <rect x="165" y="96" width="30" height="24"/>
+      <rect x="114" y="114" width="132" height="196" rx="42"/>
+      <circle cx="180" cy="62" r="38"/>
+    </g>
+    <!-- Pulmones -->
+    <g fill="#FBD3DA" stroke="#E79AA8" stroke-width="2">
+      <ellipse cx="150" cy="178" rx="25" ry="44"/>
+      <ellipse cx="212" cy="178" rx="25" ry="44"/>
+    </g>
+    <!-- Arterias (rojo) -->
+    <g fill="none" stroke="#D93636" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M186 178 C 186 150, 176 140, 176 120 L 176 40"/>
+      <path d="M186 178 L 186 300 L 154 320 L 154 498"/>
+      <path d="M186 300 L 216 320 L 216 498"/>
+      <path d="M180 140 L 102 146 L 94 290"/>
+      <path d="M180 140 L 258 146 L 266 290"/>
+    </g>
+    <!-- Venas (azul) -->
+    <g fill="none" stroke="#2F64D6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M190 172 L 190 120 L 186 40"/>
+      <path d="M194 196 L 196 300 L 162 326 L 164 498"/>
+      <path d="M196 300 L 226 326 L 224 498"/>
+      <path d="M186 152 L 108 160 L 100 290"/>
+      <path d="M186 152 L 252 160 L 260 290"/>
+    </g>
+    <!-- Corazón (un poco a la izquierda de la persona = a tu derecha) -->
+    <path d="M192 214 C 162 194, 168 166, 182 170 C 187 171, 190 175, 192 179 C 194 175, 197 171, 202 170 C 216 166, 222 194, 192 214 Z" fill="#E63946" stroke="#9E1B25" stroke-width="2"/>
+
+    <!-- Etiquetas -->
+    <g font-size="15" font-weight="800">
+      <line x1="215" y1="190" x2="290" y2="190" stroke="#333" stroke-width="1.5"/>
+      <text x="294" y="186" fill="#9E1B25">Corazón</text>
+      <text x="294" y="203" fill="#555" font-size="12" font-weight="700">(bomba)</text>
+
+      <line x1="127" y1="170" x2="62" y2="150" stroke="#333" stroke-width="1.5"/>
+      <text x="10" y="142" fill="#B34A5C">Pulmones</text>
+
+      <line x1="218" y1="400" x2="290" y2="380" stroke="#333" stroke-width="1.5"/>
+      <text x="268" y="372" fill="#D93636">Arterias</text>
+
+      <line x1="164" y1="420" x2="76" y2="400" stroke="#333" stroke-width="1.5"/>
+      <text x="10" y="392" fill="#2F64D6">Venas</text>
+    </g>
+    <g font-size="13" font-weight="700" fill="#444" text-anchor="middle">
+      <text x="180" y="530">El corazón está en el centro del pecho, entre</text>
+      <text x="180" y="548">los pulmones, un poco hacia la izquierda.</text>
+    </g>
+  </g>
+</svg>

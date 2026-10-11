@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 470" role="img" aria-labelledby="t d">
+  <title id="t">Las partes del corazón</title>
+  <desc id="d">Esquema del corazón visto de frente con sus cuatro cavidades: aurículas arriba y ventrículos abajo, el tabique en el centro, las válvulas y los vasos sanguíneos que entran y salen.</desc>
+  <rect width="600" height="470" rx="16" fill="#FFFFFF"/>
+  <g font-family="Nunito, Arial, sans-serif">
+    <!-- Vasos que llegan (venas) -->
+    <rect x="180" y="48" width="24" height="76" rx="6" fill="#4F7FE6"/>
+    <rect x="70" y="166" width="84" height="24" rx="6" fill="#4F7FE6"/>
+    <rect x="468" y="138" width="96" height="18" rx="6" fill="#E25555"/>
+    <rect x="468" y="168" width="96" height="18" rx="6" fill="#E25555"/>
+    <!-- Vasos que salen (arterias) -->
+    <rect x="276" y="40" width="24" height="176" rx="6" fill="#4F7FE6"/>
+    <rect x="322" y="40" width="24" height="176" rx="6" fill="#E25555"/>
+
+    <!-- Cavidades -->
+    <rect x="150" y="120" width="120" height="82" rx="26" fill="#D6E4FF" stroke="#2F5FD0" stroke-width="3"/>
+    <rect x="350" y="120" width="120" height="82" rx="26" fill="#FFD9D9" stroke="#C93030" stroke-width="3"/>
+    <path d="M150 212 H304 V350 C 260 372, 190 350, 150 300 Z" fill="#D6E4FF" stroke="#2F5FD0" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M316 212 H470 V300 C 430 362, 360 380, 316 350 Z" fill="#FFD9D9" stroke="#C93030" stroke-width="3" stroke-linejoin="round"/>
+    <!-- Tabique -->
+    <rect x="304" y="206" width="12" height="148" rx="4" fill="#9C4A4A"/>
+
+    <!-- Válvulas -->
+    <g stroke="#333" stroke-width="4" stroke-linecap="round">
+      <path d="M178 204 L198 220 M240 204 L220 220"/>
+      <path d="M378 204 L398 220 M442 204 L422 220"/>
+    </g>
+
+    <!-- Flechas de sentido -->
+    <g fill="#FFFFFF">
+      <polygon points="184,88 200,88 192,100"/>
+      <polygon points="104,170 104,186 118,178"/>
+      <polygon points="280,80 296,80 288,66"/>
+      <polygon points="326,80 342,80 334,66"/>
+      <polygon points="530,140 530,154 516,147"/>
+      <polygon points="530,170 530,184 516,177"/>
+    </g>
+    <g fill="#333">
+      <polygon points="202,236 218,236 210,250"/>
+      <polygon points="402,236 418,236 410,250"/>
+    </g>
+
+    <!-- Nombres de las cavidades -->
+    <g font-size="17" font-weight="800" text-anchor="middle">
+      <text x="210" y="158" fill="#1E3E91">Aurícula</text>
+      <text x="210" y="176" fill="#1E3E91">derecha</text>
+      <text x="410" y="158" fill="#8E1F1F">Aurícula</text>
+      <text x="410" y="176" fill="#8E1F1F">izquierda</text>
+      <text x="222" y="282" fill="#1E3E91">Ventrículo</text>
+      <text x="222" y="300" fill="#1E3E91">derecho</text>
+      <text x="398" y="282" fill="#8E1F1F">Ventrículo</text>
+      <text x="398" y="300" fill="#8E1F1F">izquierdo</text>
+    </g>
+
+    <!-- Nombres de los vasos -->
+    <g font-size="16" font-weight="800">
+      <text x="272" y="30" text-anchor="end" fill="#2F5FD0">Arteria pulmonar</text>
+      <text x="350" y="30" fill="#C93030">Arteria aorta</text>
+      <text x="172" y="76" text-anchor="end" fill="#2F5FD0">Vena cava superior</text>
+      <text x="148" y="156" text-anchor="end" fill="#2F5FD0">Vena cava inferior</text>
+      <text x="592" y="112" text-anchor="end" fill="#C93030">Venas pulmonares</text>
+      <text x="310" y="376" text-anchor="middle" fill="#6B2E2E">Tabique</text>
+      <text x="92" y="216" text-anchor="middle" fill="#333">Válvulas</text>
+      <line x1="122" y1="212" x2="172" y2="212" stroke="#333" stroke-width="1.5"/>
+    </g>
+
+    <!-- Leyenda -->
+    <g font-size="15" font-weight="700" fill="#333">
+      <rect x="40" y="400" width="18" height="18" rx="4" fill="#4F7FE6"/>
+      <text x="64" y="414">Sangre con poco oxígeno</text>
+      <rect x="300" y="400" width="18" height="18" rx="4" fill="#E25555"/>
+      <text x="324" y="414">Sangre con mucho oxígeno</text>
+      <text x="300" y="450" text-anchor="middle" font-size="14" font-style="italic" fill="#555">Visto de frente: el lado derecho del corazón se dibuja a tu izquierda.</text>
+    </g>
+  </g>
+</svg>
