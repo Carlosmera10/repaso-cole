@@ -195,7 +195,8 @@ h1, h2, h3, h4 { font-family: var(--titulos); line-height: 1.15; margin: 0; }
 
 /* ----- Pasos apuntes → examen ----- */
 .pasos { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 16px 0 6px; }
-.paso { border-radius: 14px; padding: 8px 10px; background: var(--tarjeta); box-shadow: var(--sombra); font-weight: 800; font-size: .88rem; display: flex; gap: 6px; align-items: center; }
+.paso { border: 0; font-family: inherit; color: var(--texto); text-align: left; cursor: pointer; -webkit-tap-highlight-color: transparent; border-radius: 14px; padding: 8px 10px; background: var(--tarjeta); box-shadow: var(--sombra); font-weight: 800; font-size: .88rem; display: flex; gap: 6px; align-items: center; transition: transform .1s; }
+.paso:active { transform: scale(.97); }
 .paso--hecho { background: var(--bien-fondo); }
 .paso--activo { outline: 3px solid var(--c); }
 

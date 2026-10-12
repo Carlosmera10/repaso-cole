@@ -300,9 +300,9 @@
           '<p style="margin:0">' + t.curso + 'º · ' + esc(a.nombre) + ' · Tema ' + numeroTema(t) + '</p>' +
           '<h1>' + esc(t.titulo) + '</h1></div></div>' +
         '<div class="pasos">' +
-          '<div class="paso ' + (pr.leido ? 'paso--hecho' : 'paso--activo') + '">' + (pr.leido ? '✅' : '1️⃣') + ' Apuntes</div>' +
-          '<div class="paso ' + (pr.intentos ? (pr.mejor >= 5 ? 'paso--hecho' : '') : (pr.leido ? 'paso--activo' : '')) + '">' +
-            (pr.intentos ? ESTADOS[e].icono + ' Examen: ' + nota(pr.mejor) : '2️⃣ Examen') + '</div>' +
+          '<button class="paso ' + (pr.leido ? 'paso--hecho' : 'paso--activo') + '" data-accion="ir-apuntes">' + (pr.leido ? '✅' : '1️⃣') + ' Apuntes</button>' +
+          '<button class="paso ' + (pr.intentos ? (pr.mejor >= 5 ? 'paso--hecho' : '') : (pr.leido ? 'paso--activo' : '')) + '" data-accion="empezar-examen" data-id="' + t.id + '">' +
+            (pr.intentos ? ESTADOS[e].icono + ' Examen: ' + nota(pr.mejor) : '2️⃣ Examen') + '</button>' +
         '</div>' +
         '<article class="tarjeta apuntes">' + c.apuntesHtml + '</article>' +
         '<div class="botones">' +
@@ -795,6 +795,7 @@
     if (acc === 'cambiar-perfil') { datos.activo = null; guardar(); ir('#/'); return; }
     if (acc === 'ver-curso') { datos.vista[datos.activo] = Number(el.dataset.curso); guardar(); render(); return; }
     if (acc === 'empezar-examen') { empezarExamen(el.dataset.id, false); return; }
+    if (acc === 'ir-apuntes') { var ap = document.querySelector('.apuntes'); if (ap) ap.scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
     if (acc === 'repasar-fallos') { empezarExamen(el.dataset.id, true); return; }
     if (acc === 'responder') { responder(el.dataset.valor); return; }
     if (acc === 'comprobar') { comprobar(); return; }
