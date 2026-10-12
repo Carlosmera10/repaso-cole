@@ -35,7 +35,7 @@ Las células de la sangre se fabrican en la **médula ósea roja**, que está en
 ### ¿Cómo es y dónde está?
 
 - Es un **órgano hueco** formado por un **músculo** muy fuerte llamado **miocardio**.
-- Tiene más o menos el **tamaño de tu puño** cerrado.
+- Tiene más o menos el **tamaño de tu puño** cerrado y **pesa entre 250 y 350 gramos**.
 - Está en el **centro del pecho** (en la cavidad torácica), **entre los dos pulmones**, un poco **inclinado hacia la izquierda**.
 - Está protegido por las **costillas** y el **esternón**.
 - Funciona como una **bomba**: impulsa la sangre para que llegue a todo el cuerpo. **Nunca descansa**.
@@ -70,7 +70,7 @@ El corazón trabaja con dos movimientos que se repiten sin parar:
 - **Sístole:** el corazón se **contrae** (se aprieta) y **expulsa** la sangre.
 - **Diástole:** el corazón se **relaja** y **se llena** de sangre.
 
-Una sístole y una diástole forman un **latido**. En reposo, el corazón late unas **70 a 100 veces por minuto** (en los niños va algo más rápido que en los adultos). Al hacer ejercicio, late más deprisa.
+Una sístole y una diástole forman un **latido**. En reposo, el corazón late unas **70 a 100 veces por minuto** (en los niños va algo más rápido que en los adultos): ¡**más de 100.000 veces al día**! Al hacer ejercicio, late más deprisa.
 
 Cada latido empuja la sangre por las arterias y eso se puede notar en la **muñeca** y en el **cuello**: es el **pulso**.
 
@@ -109,6 +109,15 @@ La sangre hace **dos circuitos** y pasa **dos veces por el corazón** en cada vu
 5. Pasa al **ventrículo derecho**… ¡y vuelta a empezar!
 
 ![La doble circulación](img/naturales/circulacion-doble.svg)
+
+> ✏️ En algunos esquemas, el circuito de **arriba** es el de los **pulmones** (circulación menor) y el de **abajo**, el del **resto del cuerpo** (circulación mayor).
+
+### El recorrido en 4 pasos
+
+1. **El impulso:** el corazón late y expulsa la sangre llena de **oxígeno** hacia el resto del cuerpo por las **arterias**.
+2. **El intercambio:** la sangre pasa por los **capilares**, entrega el **oxígeno** y los **nutrientes** a los tejidos y recoge el **dióxido de carbono**.
+3. **El retorno:** la sangre "usada" viaja por las **venas** de regreso al **lado derecho** del corazón.
+4. **La oxigenación:** el corazón envía esa sangre a los **pulmones**, donde expulsa el dióxido de carbono y toma **oxígeno** nuevo… ¡y el ciclo se repite!
 
 > 🔁 **Recuerda:** la circulación es **cerrada** (la sangre va siempre dentro de los vasos) y **completa** (la sangre con oxígeno y sin oxígeno nunca se mezcla).
 
@@ -328,3 +337,21 @@ preguntas: 20
 - La saliva
 - La linfa
 > La hemoglobina además da a la sangre su color rojo.
+
+? ¿Cuánto pesa aproximadamente el corazón?
++ Entre 250 y 350 gramos
+- Entre 25 y 35 gramos
+- Entre 2 y 3 kilos
+- Entre 800 y 900 gramos
+> Tiene más o menos el tamaño de un puño cerrado.
+
+? Ordena los 4 pasos del recorrido de la sangre.
+1. El impulso: el corazón expulsa sangre con oxígeno por las arterias
+2. El intercambio: en los capilares entrega oxígeno y recoge dióxido de carbono
+3. El retorno: la sangre vuelve por las venas al lado derecho del corazón
+4. La oxigenación: en los pulmones expulsa el dióxido de carbono y toma oxígeno
+> Y el ciclo vuelve a empezar.
+
+? El corazón late más de 100.000 veces al día.
+= verdadero
+> Unas 70 a 100 veces por minuto, todo el día.

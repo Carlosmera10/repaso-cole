@@ -201,7 +201,35 @@ h1, h2, h3, h4 { font-family: var(--titulos); line-height: 1.15; margin: 0; }
 .paso--activo { outline: 3px solid var(--c); }
 
 /* ----- Apuntes ----- */
-.apuntes { margin-top: 12px; padding: 20px 18px 24px; }
+.apuntes { margin-top: 12px; }
+.apuntes > .tarjeta, .seccion { margin: 0 0 12px; }
+.seccion { background: var(--tarjeta); border-radius: var(--radio); box-shadow: var(--sombra); overflow: hidden; }
+.seccion > summary, .subseccion > summary {
+  list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  -webkit-tap-highlight-color: transparent; user-select: none;
+}
+.seccion > summary::-webkit-details-marker, .subseccion > summary::-webkit-details-marker { display: none; }
+.seccion > summary { padding: 14px 16px 14px 14px; border-left: 6px solid var(--c); }
+.seccion__titulo { font-family: var(--titulos); font-weight: 800; font-size: 1.3rem; line-height: 1.15; }
+.seccion__cuerpo { padding: 2px 18px 18px; }
+.subseccion { border-top: 2px dashed var(--borde); margin-top: 10px; }
+.subseccion > summary { padding: 10px 0 4px; }
+.subseccion__titulo { font-family: var(--titulos); font-weight: 800; font-size: 1.1rem; color: color-mix(in srgb, var(--c) 75%, var(--texto)); }
+.plegable__flecha { flex: none; display: grid; place-items: center; width: 30px; height: 30px; border-radius: 50%;
+  background: color-mix(in srgb, var(--c) 15%, transparent); color: var(--c); font-size: 1rem; transition: transform .2s; }
+details:not([open]) > summary .plegable__flecha { transform: rotate(-90deg); }
+.seccion:not([open]) > summary { opacity: .75; }
+.indice__cabecera { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
+.indice__acciones { display: flex; gap: 6px; }
+.indice__acciones button, .indice li button {
+  font: inherit; color: inherit; background: none; border: 0; cursor: pointer; padding: 0; text-align: left;
+}
+.indice__acciones button { font-size: .8rem; font-weight: 800; padding: 6px 10px; border-radius: 999px;
+  background: color-mix(in srgb, var(--c) 14%, transparent); }
+.indice ol { margin: 8px 0 0; padding: 0; list-style: none; counter-reset: indice; }
+.indice li { display: flex; gap: 8px; align-items: baseline; margin: 2px 0; }
+.indice li::before { counter-increment: indice; content: counter(indice) "."; color: var(--c); font-weight: 800; min-width: 1.3em; }
+.indice li button { padding: 5px 0; font-weight: 700; text-decoration: underline; text-decoration-color: color-mix(in srgb, var(--c) 50%, transparent); text-underline-offset: 3px; }
 .apuntes h2 {
   font-size: 1.35rem; margin: 26px 0 10px; padding-bottom: 4px;
   border-bottom: 4px solid color-mix(in srgb, var(--c) 45%, transparent);
@@ -392,3 +420,4 @@ input.hueco:focus { outline: 2px solid color-mix(in srgb, var(--c) 50%, transpar
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+.seccion, .apuntes { scroll-margin-top: 90px; }

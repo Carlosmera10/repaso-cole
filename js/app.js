@@ -304,7 +304,7 @@
           '<button class="paso ' + (pr.intentos ? (pr.mejor >= 5 ? 'paso--hecho' : '') : (pr.leido ? 'paso--activo' : '')) + '" data-accion="empezar-examen" data-id="' + t.id + '">' +
             (pr.intentos ? ESTADOS[e].icono + ' Examen: ' + nota(pr.mejor) : '2️⃣ Examen') + '</button>' +
         '</div>' +
-        '<article class="tarjeta apuntes">' + c.apuntesHtml + '</article>' +
+        '<article class="apuntes">' + c.apuntesHtml + '</article>' +
         '<div class="botones">' +
           '<button class="boton" data-accion="empezar-examen" data-id="' + t.id + '">✏️ ¡Ya lo he estudiado! Hacer el examen</button>' +
           (fallos.length ? '<button class="boton boton--claro" data-accion="repasar-fallos" data-id="' + t.id + '">🔁 Repasar mis ' + fallos.length + ' fallos</button>' : '') +
@@ -312,10 +312,64 @@
         '</div>',
         a.color
       );
+      estructurarApuntes(app.querySelector('.apuntes'), t.id);
       window.scrollTo(0, 0);
     }).catch(function (err) {
       pintar(barra(volver, esc(t.titulo), true) + '<div class="tarjeta vacio">😕 No se han podido cargar los apuntes.<br><span class="peque">' + esc(err.message) + '</span></div>', a.color);
     });
+  }
+
+  /* ----- Apuntes plegables: cada ## es un apartado y cada ### un subapartado ----- */
+  var CLAVE_PLEGADO = 'repasoCole.plegado';
+  function leerPlegados() { try { return JSON.parse(localStorage.getItem(CLAVE_PLEGADO)) || {}; } catch (e) { return {}; } }
+  function guardarPlegados(tid, art) {
+    try {
+      var todo = leerPlegados();
+      todo[tid] = Array.prototype.map.call(art.querySelectorAll('details:not([open])'), function (d) { return d.dataset.clave; });
+      if (!todo[tid].length) delete todo[tid];
+      localStorage.setItem(CLAVE_PLEGADO, JSON.stringify(todo));
+    } catch (e) { /* sin almacenamiento: no pasa nada */ }
+  }
+  function bloque(clase, clave, tituloHtml) {
+    var d = document.createElement('details');
+    d.className = clase; d.open = true; d.dataset.clave = clave;
+    var s = document.createElement('summary');
+    s.innerHTML = '<span class="' + clase + '__titulo">' + tituloHtml + '</span><span class="plegable__flecha" aria-hidden="true">▾</span>';
+    var cuerpo = document.createElement('div');
+    cuerpo.className = clase + '__cuerpo';
+    d.appendChild(s); d.appendChild(cuerpo);
+    return { el: d, cuerpo: cuerpo };
+  }
+  function estructurarApuntes(art, tid) {
+    if (!art) return;
+    var nodos = Array.prototype.slice.call(art.childNodes);
+    var plegados = leerPlegados()[tid] || [];
+    art.innerHTML = '';
+    var intro = null, sec = null, sub = null, n = 0, m = 0, titulos = [];
+    nodos.forEach(function (nd) {
+      var tag = nd.nodeType === 1 ? nd.tagName : '';
+      if (tag === 'H2') {
+        sec = bloque('seccion', String(n), nd.innerHTML); sec.el.id = 'sec-' + n;
+        titulos.push(nd.textContent); n++; m = 0; sub = null;
+        art.appendChild(sec.el); return;
+      }
+      if (tag === 'H3' && sec) {
+        sub = bloque('subseccion', (n - 1) + '.' + (m++), nd.innerHTML);
+        sec.cuerpo.appendChild(sub.el); return;
+      }
+      if (!sub && !sec && !intro) { intro = document.createElement('div'); intro.className = 'tarjeta seccion__intro'; art.appendChild(intro); }
+      (sub ? sub.cuerpo : sec ? sec.cuerpo : intro).appendChild(nd);
+    });
+    art.querySelectorAll('details').forEach(function (d) { if (plegados.indexOf(d.dataset.clave) >= 0) d.open = false; });
+    if (titulos.length >= 2) {
+      var ind = document.createElement('nav');
+      ind.className = 'tarjeta indice';
+      ind.innerHTML = '<div class="indice__cabecera"><strong>📑 En este tema</strong><span class="indice__acciones">' +
+        '<button data-accion="plegar-todo">Plegar todo</button><button data-accion="abrir-todo">Abrir todo</button></span></div>' +
+        '<ol>' + titulos.map(function (tt, k) { return '<li><button data-accion="ir-seccion" data-n="' + k + '">' + esc(tt) + '</button></li>'; }).join('') + '</ol>';
+      art.insertBefore(ind, art.firstChild);
+    }
+    art.addEventListener('toggle', function () { guardarPlegados(tid, art); }, true);
   }
 
   /* ================= Examen ================= */
@@ -795,6 +849,15 @@
     if (acc === 'cambiar-perfil') { datos.activo = null; guardar(); ir('#/'); return; }
     if (acc === 'ver-curso') { datos.vista[datos.activo] = Number(el.dataset.curso); guardar(); render(); return; }
     if (acc === 'empezar-examen') { empezarExamen(el.dataset.id, false); return; }
+    if (acc === 'plegar-todo' || acc === 'abrir-todo') {
+      document.querySelectorAll('.apuntes details').forEach(function (d) { d.open = acc === 'abrir-todo'; });
+      return;
+    }
+    if (acc === 'ir-seccion') {
+      var sec = document.getElementById('sec-' + el.dataset.n);
+      if (sec) { sec.open = true; sec.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+      return;
+    }
     if (acc === 'ir-apuntes') { var ap = document.querySelector('.apuntes'); if (ap) ap.scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
     if (acc === 'repasar-fallos') { empezarExamen(el.dataset.id, true); return; }
     if (acc === 'responder') { responder(el.dataset.valor); return; }

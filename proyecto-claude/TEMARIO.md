@@ -50,7 +50,7 @@ Leyenda: 🔥 = tema que se está dando ahora en clase (lista `ahora` del índic
 | 2 | `5-nat-02` | 🧍 El cuerpo humano: organización y funciones | 21 | `contenido/5/naturales/02-cuerpo-humano.md` |
 | 3 | `5-nat-03` | 🍎 El aparato digestivo | 21 | `contenido/5/naturales/03-digestivo.md` |
 | 4 | `5-nat-04` | 🫁 El aparato respiratorio | 21 | `contenido/5/naturales/04-respiratorio.md` |
-| 5 | `5-nat-05` | ❤️ El sistema circulatorio 🔥 | 30 | `contenido/5/naturales/05-circulatorio.md` |
+| 5 | `5-nat-05` | ❤️ El sistema circulatorio 🔥 | 33 | `contenido/5/naturales/05-circulatorio.md` |
 | 6 | `5-nat-06` | 💧 El aparato excretor | 20 | `contenido/5/naturales/06-excretor.md` |
 | 7 | `5-nat-07` | 🥗 Alimentación y salud | 20 | `contenido/5/naturales/07-alimentacion.md` |
 | 8 | `5-nat-08` | 🐾 Clasificación de los seres vivos | 21 | `contenido/5/naturales/08-clasificacion.md` |
